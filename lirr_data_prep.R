@@ -8,13 +8,14 @@ library(RColorBrewer)
 
 #Load Data
 Performance_DF = read.csv("./Performance_LIRR.csv",stringsAsFactors = FALSE)
-stops_df = read.csv("./stops.csv",stringsAsFactors = FALSE)
+#stops_df = read.csv("./stops.csv",stringsAsFactors = FALSE)
 
 #This function cleans text
 clean_text <- function(x,y) {
   z = gsub(y,'', x)
   return(z)
 }
+
 
 
 #Clean Data
@@ -27,7 +28,7 @@ Performance_DF_Clean = Performance_DF%>%
   mutate(., Indicator.Name = str_trim(Indicator.Name))%>%
   mutate(., Month_Name = month.name[Period.Month])
 
-#write.csv(Performance_DF_Clean, file = "Performance_DF_Clean.csv",row.names=FALSE)
+write.csv(Performance_DF_Clean, file = "Performance_DF_Cleaner.csv",row.names=FALSE)
 
 
 #Analyze average branch performance by month
@@ -62,24 +63,40 @@ g1 +
   theme(plot.title = element_text(hjust = 0.5)) +
   ggtitle('Average On-Time Performance Since 2008') +
   geom_text(aes(label=format(round(df1$Average_OTP, 2), nsmall = 2)), hjust = 1.5, size=3.0)
-
-#Overall OTP by month
-df = Performance_DF_Clean%>%
+#############################################################
+#Fix Plot
+df_overall = Performance_DF_Clean%>%
   filter(., Indicator.Name == "On-Time Performance")%>%
   group_by(., Period.Month)%>%
   summarise(., Average_OTP = mean(Monthly.Actual))%>%
   arrange(., desc(Average_OTP))
+#########################################################################
+#This function cleans text
+change_text <- function(x,y,z) {
+  return(gsub(pattern = x, replacement = y, x = z))
+}
+
+#Clean up plot
+for (i in 1:nrow(Performance_DF_Clean)){
+  Performance_DF_Clean$Indicator.Name[i] = change_text("On-Time Performance",
+                                                         "Overall",
+                                                         Performance_DF_Clean$Indicator.Name[i])
+}
+df_comb = Performance_DF_Clean%>%
+  filter(., Indicator.Name == "Port Jefferson" | Indicator.Name == "Overall")%>%
+  group_by(., Indicator.Name, Period.Month)%>%
+  summarise(., Average_OTP = mean(Monthly.Actual))%>%
+  arrange(., desc(Average_OTP))
 
 
-top1 <- head(df, 1)
-bot1 <- tail(df, 1)
-
-ggplot(df, aes(x = month.abb[Period.Month], y = Average_OTP, group = 1) ) +
-  geom_point() +
-  geom_line() +
-  xlab("Month") + ylab('Percentage On-Time, (%)') + scale_x_discrete(labels=month.abb) + 
+ggplot(df_comb, aes(x = Period.Month, y = Average_OTP)) +
+  geom_line(aes(color = Indicator.Name)) +
+  xlab("Month") + ylab('Percentage On-Time, (%)') +  
   theme(plot.title = element_text(hjust = 0.5)) +
-  ggtitle('Branch On-Time Performance By Month Since 2008')
+  ggtitle('Branch On-Time Performance By Month Since 2008') +
+  scale_x_discrete(limits = month.abb)
+
+##############################################################################
   
 #Overall OTP by month comparison
 df = Performance_DF_Clean%>%
@@ -135,4 +152,6 @@ write.csv(assoc_df1, file = "assoc_df.csv",row.names=FALSE)
 
 
 
+library("colorspace")
+pal <- choose_palette()
 
