@@ -1,0 +1,3201 @@
+Date,Branch,Type,Station,Time,Period,trip_short_name,Status
+6/1/2018,Montauk,Depart:,Speonk Station, 4:37AM,AM Peak,2731,Late - 7 mins
+,,Arrive:,Babylon Station, 5:37AM,,,
+6/1/2018,Babylon,Depart:,Babylon Station, 6:15AM,AM Peak,27,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 7:27AM,,,
+6/1/2018,Babylon,Depart:,Lindenhurst Station, 6:31AM,AM Peak,1007,Late - 7 mins
+,,Arrive:,Penn Station, 7:33AM,,,
+6/1/2018,Montauk,Depart:,Speonk Station, 7:12AM,AM Peak,2739,Late - 6 mins
+,,Arrive:,Hunterspoint Ave., 9:11AM,,,
+6/1/2018,Babylon,Depart:,Babylon Station, 7:35AM,AM Peak,43,Late - 7 mins
+,,Arrive:,Penn Station, 8:48AM,,,
+6/1/2018,Babylon,Depart:,Freeport Station, 8:10AM,AM Peak,1105,Late - 7 mins
+,,Arrive:,Penn Station, 8:50AM,,,
+6/1/2018,Port Washington,Depart:,Port Washington Station, 8:18AM,AM Peak,427,Late - 7 mins
+,,Arrive:,Penn Station, 9:02AM,,,
+6/1/2018,Port Washington,Depart:,Great Neck Station, 8:24AM,AM Peak,309,Canceled
+,,Arrive:,Penn Station, 8:59AM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 2:41PM,Off Peak,2055,Late - 23 mins
+,,Arrive:,Penn Station, 4:03PM,,,
+6/1/2018,Babylon,Depart:,Babylon Station, 2:48PM,Off Peak,117,Late - 9 mins
+,,Arrive:,Penn Station, 4:07PM,,,
+6/1/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 10 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/1/2018,Babylon,Depart:,Babylon Station, 3:06PM,Off Peak,119,Late - 8 mins
+,,Arrive:,Penn Station, 4:22PM,,,
+6/1/2018,Long Beach,Depart:,Long Beach Station, 3:09PM,Off Peak,857,Late - 11 mins
+,,Arrive:,Penn Station, 3:59PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Penn Station, 3:10PM,Off Peak,2094,Late - 8 mins
+,,Arrive:,Ronkonkoma Station, 4:30PM,,,
+6/1/2018,Port Washington,Depart:,Port Washington Station, 3:10PM,Off Peak,455,Late - 11 mins
+,,Arrive:,Penn Station, 3:55PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 3:11PM,Off Peak,2057,Late - 14 mins
+,,Arrive:,Penn Station, 4:34PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Penn Station, 3:15PM,Off Peak,2056,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 4:34PM,,,
+6/1/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:24PM,Off Peak,1709,Late - 14 mins
+,,Arrive:,Penn Station, 4:31PM,,,
+6/1/2018,Port Washington,Depart:,Port Washington Station, 3:41PM,Off Peak,457,Late - 8 mins
+,,Arrive:,Penn Station, 4:25PM,,,
+6/1/2018,Babylon,Depart:,Penn Station, 3:47PM,Off Peak,138,Late - 7 mins
+,,Arrive:,Babylon Station, 4:53PM,,,
+6/1/2018,Port Washington,Depart:,Penn Station, 3:50PM,Off Peak,442,Late - 9 mins
+,,Arrive:,Port Washington Station, 4:34PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Penn Station, 3:56PM,Off Peak,2058,Late - 34 mins
+,,Arrive:,Ronkonkoma Station, 5:16PM,,,
+6/1/2018,Hunt. Hicks.,Depart:,Penn Station, 4:01PM,Off Peak,1718,Late - 15 mins
+,,Arrive:,Huntington Station, 5:07PM,,,
+6/1/2018,Port Washington,Depart:,Port Washington Station, 4:06PM,Off Peak,459,Late - 6 mins
+,,Arrive:,Penn Station, 4:50PM,,,
+6/1/2018,Montauk,Depart:,Penn Station, 4:07PM,PM Peak,2798,Late - 15 mins
+,,Arrive:,Montauk Station, 6:48PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:10PM,Off Peak,2350,Late - 13 mins
+,,Arrive:,Farmingdale Station, 5:04PM,,,
+6/1/2018,Oyster Bay,Depart:,Hunterspoint Ave., 4:18PM,PM Peak,558,Late - 8 mins
+,,Arrive:,Oyster Bay Station, 5:30PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:25PM,PM Peak,2060,Late - 11 mins
+,,Arrive:,Ronkonkoma Station, 5:44PM,,,
+6/1/2018,Port Washington,Depart:,Port Washington Station, 4:36PM,Off Peak,461,Canceled
+,,Arrive:,Penn Station, 5:20PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 4:48PM,Off Peak,2061,Late - 37 mins
+,,Arrive:,Penn Station, 6:10PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:52PM,PM Peak,2062,Late - 11 mins
+,,Arrive:,Ronkonkoma Station, 6:04PM,,,
+6/1/2018,Port Washington,Depart:,Port Washington Station, 5:00PM,Off Peak,463,Late - 10 mins
+,,Arrive:,Penn Station, 5:47PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:21PM,Off Peak,254,Late - 44 mins
+,,Arrive:,Greenport Station, 6:45PM,,,
+6/1/2018,Port Washington,Depart:,Penn Station, 5:30PM,PM Peak,360,Late - 9 mins
+,,Arrive:,Great Neck Station, 6:05PM,,,
+6/1/2018,Port Washington,Depart:,Penn Station, 5:45PM,PM Peak,454,Late - 9 mins
+,,Arrive:,Port Washington Station, 6:21PM,,,
+6/1/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 9 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/1/2018,Port Washington,Depart:,Great Neck Station, 6:23PM,Off Peak,353,Late - 13 mins
+,,Arrive:,Penn Station, 6:58PM,,,
+6/1/2018,Port Washington,Depart:,Port Washington Station, 6:24PM,Off Peak,467,Late - 10 mins
+,,Arrive:,Penn Station, 7:03PM,,,
+6/1/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 7 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/1/2018,Montauk,Depart:,Jamaica Station, 7:23PM,PM Peak,2718,Late - 14 mins
+,,Arrive:,Montauk Station, 9:55PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Greenport Station, 8:38PM,Off Peak,255,Partially Canceled
+,,Arrive:,Jamaica Station,11:05PM,,,
+6/1/2018,Ronk. (greenpt.),Depart:,Penn Station, 9:16PM,Off Peak,2088,Late - 12 mins
+,,Arrive:,Ronkonkoma Station,10:37PM,,,
+6/1/2018,Hunt. Hicks.,Depart:,Penn Station, 9:43PM,Off Peak,1746,Late - 11 mins
+,,Arrive:,Huntington Station,10:51PM,,,
+6/1/2018,Babylon,Depart:,Penn Station,10:06PM,Off Peak,188,Late - 7 mins
+,,Arrive:,Babylon Station,11:23PM,,,
+6/1/2018,Port Washington,Depart:,Port Washington Station,10:15PM,Off Peak,481,Late - 7 mins
+,,Arrive:,Penn Station,10:59PM,,,
+6/1/2018,Port Jefferson,Depart:,Huntington Station,10:57PM,Off Peak,674,Late - 10 mins
+,,Arrive:,Port Jefferson Station,11:44PM,,,
+6/1/2018,Babylon,Depart:,Penn Station,11:06PM,Off Peak,194,Late - 6 mins
+,,Arrive:,Babylon Station,12:23AM,,,
+6/1/2018,Port Jefferson,Depart:,Port Jefferson Station,11:22PM,Off Peak,665,Late - 11 mins
+,,Arrive:,Huntington Station,12:10AM,,,
+6/1/2018,Port Jefferson,Depart:,Hicksville Station,11:31PM,Off Peak,676,Late - 7 mins
+,,Arrive:,Port Jefferson Station,12:35AM,,,
+6/1/2018,Babylon,Depart:,Penn Station,11:38PM,Off Peak,198,Late - 6 mins
+,,Arrive:,Babylon Station,12:56AM,,,
+6/1/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 8 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/2/2018,Hunt. Hicks.,Depart:,Huntington Station,12:17AM,Off Peak,7601,Late - 8 mins
+,,Arrive:,Penn Station, 1:20AM,,,
+6/2/2018,Babylon,Depart:,Penn Station,12:40AM,Off Peak,6002,Late - 8 mins
+,,Arrive:,Babylon Station, 1:58AM,,,
+6/2/2018,Port Jefferson,Depart:,Jamaica Station,12:40AM,Off Peak,6602,Late - 6 mins
+,,Arrive:,Port Jefferson Station, 2:06AM,,,
+6/2/2018,Montauk,Depart:,Jamaica Station, 8:10AM,Off Peak,8704,Late - 18 mins
+,,Arrive:,Montauk Station,10:49AM,,,
+6/2/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 9:40AM,Off Peak,6202,Late - 13 mins
+,,Arrive:,Greenport Station,11:05AM,,,
+6/2/2018,Hunt. Hicks.,Depart:,Huntington Station,10:40AM,Off Peak,7627,Late - 6 mins
+,,Arrive:,Penn Station,11:45AM,,,
+6/2/2018,Montauk,Depart:,Jamaica Station,12:10PM,Off Peak,8710,Late - 38 mins
+,,Arrive:,Montauk Station, 2:53PM,,,
+6/2/2018,Port Washington,Depart:,Port Washington Station,12:11PM,Off Peak,6451,Late - 6 mins
+,,Arrive:,Penn Station,12:56PM,,,
+6/2/2018,Port Washington,Depart:,Penn Station,12:49PM,Off Peak,6452,Late - 12 mins
+,,Arrive:,Port Washington Station, 1:35PM,,,
+6/2/2018,Oyster Bay,Depart:,Jamaica Station,12:52PM,Off Peak,6506,Late - 6 mins
+,,Arrive:,Oyster Bay Station, 1:46PM,,,
+6/2/2018,Hunt. Hicks.,Depart:,Penn Station,12:55PM,Off Peak,7704,Late - 12 mins
+,,Arrive:,Huntington Station, 2:00PM,,,
+6/2/2018,Babylon,Depart:,Penn Station,12:59PM,Off Peak,6102,Late - 18 mins
+,,Arrive:,Babylon Station, 2:13PM,,,
+6/2/2018,Hunt. Hicks.,Depart:,Huntington Station, 1:40PM,Off Peak,7707,Late - 17 mins
+,,Arrive:,Penn Station, 2:45PM,,,
+6/2/2018,Far Rockaway,Depart:,Atlantic Terminal, 2:14PM,Off Peak,8854,Late - 7 mins
+,,Arrive:,Far Rockaway Station, 3:05PM,,,
+6/2/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,8054,Late - 8 mins
+,,Arrive:,Hicksville Station, 2:58PM,,,
+6/2/2018,Ronk. (greenpt.),Depart:,Hicksville Station, 2:16PM,Off Peak,8053,Late - 6 mins
+,,Arrive:,Penn Station, 2:59PM,,,
+6/2/2018,Montauk,Depart:,Babylon Station, 2:19PM,Off Peak,8768,Late - 17 mins
+,,Arrive:,Patchogue Station, 2:49PM,,,
+6/2/2018,Hunt. Hicks.,Depart:,Huntington Station, 2:40PM,Off Peak,7711,Late - 8 mins
+,,Arrive:,Penn Station, 3:45PM,,,
+6/2/2018,Oyster Bay,Depart:,Jamaica Station, 2:52PM,Off Peak,6550,Late - 6 mins
+,,Arrive:,Oyster Bay Station, 3:46PM,,,
+6/2/2018,Long Beach,Depart:,Long Beach Station, 3:24PM,Off Peak,6857,Late - 6 mins
+,,Arrive:,Penn Station, 4:24PM,,,
+6/2/2018,Montauk,Depart:,Montauk Station, 3:30PM,Off Peak,8709,Late - 55 mins
+,,Arrive:,Jamaica Station, 6:15PM,,,
+6/2/2018,West Hempstead,Depart:,Valley Stream Station, 3:48PM,Off Peak,6954,Late - 7 mins
+,,Arrive:,West Hempstead Station, 4:03PM,,,
+6/2/2018,Hunt. Hicks.,Depart:,Penn Station, 4:55PM,Off Peak,7720,Late - 6 mins
+,,Arrive:,Huntington Station, 6:00PM,,,
+6/2/2018,Oyster Bay,Depart:,Oyster Bay Station, 5:00PM,Off Peak,6559,Late - 13 mins
+,,Arrive:,Jamaica Station, 5:57PM,,,
+6/2/2018,Montauk,Depart:,Montauk Station, 5:26PM,Off Peak,8715,Late - 25 mins
+,,Arrive:,Jamaica Station, 7:58PM,,,
+6/2/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:40PM,Off Peak,7723,Late - 10 mins
+,,Arrive:,Penn Station, 6:45PM,,,
+6/2/2018,Port Washington,Depart:,Port Washington Station, 5:42PM,Off Peak,6473,Late - 7 mins
+,,Arrive:,Penn Station, 6:27PM,,,
+6/2/2018,Oyster Bay,Depart:,Jamaica Station, 5:52PM,Off Peak,6554,Late - 8 mins
+,,Arrive:,Oyster Bay Station, 6:46PM,,,
+6/2/2018,Port Washington,Depart:,Penn Station, 6:19PM,Off Peak,6474,Late - 13 mins
+,,Arrive:,Port Washington Station, 7:05PM,,,
+6/2/2018,Port Washington,Depart:,Port Washington Station, 6:42PM,Off Peak,6477,Late - 8 mins
+,,Arrive:,Penn Station, 7:27PM,,,
+6/2/2018,Port Washington,Depart:,Port Washington Station, 7:11PM,Off Peak,6479,Late - 13 mins
+,,Arrive:,Penn Station, 7:56PM,,,
+6/2/2018,Montauk,Depart:,Patchogue Station, 7:20PM,Off Peak,8771,Late - 10 mins
+,,Arrive:,Babylon Station, 7:50PM,,,
+6/2/2018,Montauk,Depart:,Jamaica Station, 7:41PM,Off Peak,8738,Late - 12 mins
+,,Arrive:,Speonk Station, 9:15PM,,,
+6/2/2018,Port Washington,Depart:,Penn Station, 7:49PM,Off Peak,6480,Late - 6 mins
+,,Arrive:,Port Washington Station, 8:35PM,,,
+6/2/2018,Babylon,Depart:,Babylon Station, 7:53PM,Off Peak,6137,Late - 7 mins
+,,Arrive:,Penn Station, 9:07PM,,,
+6/2/2018,Babylon,Depart:,Penn Station, 7:59PM,Off Peak,6132,Late - 10 mins
+,,Arrive:,Babylon Station, 9:12PM,,,
+6/2/2018,Babylon,Depart:,Babylon Station, 8:53PM,Off Peak,6143,Late - 6 mins
+,,Arrive:,Penn Station,10:07PM,,,
+6/2/2018,Babylon,Depart:,Penn Station, 8:59PM,Off Peak,6136,Late - 10 mins
+,,Arrive:,Babylon Station,10:12PM,,,
+6/2/2018,Montauk,Depart:,Patchogue Station, 9:26PM,Off Peak,8775,Late - 9 mins
+,,Arrive:,Babylon Station, 9:56PM,,,
+6/2/2018,Montauk,Depart:,Jamaica Station, 9:41PM,Off Peak,8712,Late - 11 mins
+,,Arrive:,Montauk Station,12:20AM,,,
+6/2/2018,Long Beach,Depart:,Penn Station,10:43PM,Off Peak,6870,Late - 11 mins
+,,Arrive:,Long Beach Station,11:39PM,,,
+6/2/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,7746,Late - 7 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/2/2018,Babylon,Depart:,Penn Station,12:04AM,Off Peak,6000,Late - 10 mins
+,,Arrive:,Babylon Station, 1:18AM,,,
+6/3/2018,Babylon,Depart:,Penn Station,12:04AM,Off Peak,6000,Late - 17 mins
+,,Arrive:,Babylon Station, 1:18AM,,,
+6/3/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15AM,Off Peak,8000,Late - 12 mins
+,,Arrive:,Hicksville Station,12:59AM,,,
+6/3/2018,Port Jefferson,Depart:,Jamaica Station,12:40AM,Off Peak,6602,Late - 11 mins
+,,Arrive:,Port Jefferson Station, 2:06AM,,,
+6/3/2018,Hunt. Hicks.,Depart:,Penn Station, 1:07AM,Off Peak,7602,Late - 8 mins
+,,Arrive:,Huntington Station, 2:17AM,,,
+6/3/2018,Montauk,Depart:,Speonk Station, 7:00AM,Off Peak,8733,Late - 8 mins
+,,Arrive:,Babylon Station, 8:00AM,,,
+6/3/2018,Montauk,Depart:,Montauk Station,11:26AM,Off Peak,8703,Late - 8 mins
+,,Arrive:,Jamaica Station, 1:58PM,,,
+6/3/2018,Babylon,Depart:,Babylon Station, 1:05PM,Off Peak,6105,Late - 11 mins
+,,Arrive:,Penn Station, 2:07PM,,,
+6/3/2018,Montauk,Depart:,Montauk Station, 1:26PM,Off Peak,8705,Late - 10 mins
+,,Arrive:,Jamaica Station, 3:58PM,,,
+6/3/2018,Port Washington,Depart:,Port Washington Station, 3:11PM,Off Peak,6463,Late - 8 mins
+,,Arrive:,Penn Station, 3:56PM,,,
+6/3/2018,West Hempstead,Depart:,Valley Stream Station, 3:48PM,Off Peak,6954,Late - 6 mins
+,,Arrive:,West Hempstead Station, 4:03PM,,,
+6/3/2018,Babylon,Depart:,Jamaica Station, 4:04PM,Off Peak,7359,Late - 7 mins
+,,Arrive:,Penn Station, 4:24PM,,,
+6/3/2018,Montauk,Depart:,Patchogue Station, 4:22PM,Off Peak,8767,Late - 7 mins
+,,Arrive:,Babylon Station, 4:52PM,,,
+6/3/2018,Babylon,Depart:,Penn Station, 8:59PM,Off Peak,6136,Late - 6 mins
+,,Arrive:,Babylon Station,10:12PM,,,
+6/3/2018,Babylon,Depart:,Babylon Station,10:53PM,Off Peak,6151,Late - 10 mins
+,,Arrive:,Penn Station,12:07AM,,,
+6/4/2018,Babylon,Depart:,Penn Station,12:04AM,Off Peak,2,Late - 9 mins
+,,Arrive:,Babylon Station, 1:17AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15AM,Off Peak,2000,Late - 45 mins
+,,Arrive:,Ronkonkoma Station, 1:36AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,12:44AM,Off Peak,2001,Late - 63 mins
+,,Arrive:,Penn Station, 2:03AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:12AM,Off Peak,2002,Late - 13 mins
+,,Arrive:,Ronkonkoma Station, 2:36AM,,,
+6/4/2018,Montauk,Depart:,Southampton Station, 4:41AM,AM Peak,2791,Partially Canceled
+,,Arrive:,Penn Station, 7:02AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Penn Station, 5:12AM,Off Peak,2006,Late - 8 mins
+,,Arrive:,Brentwood Station, 6:22AM,,,
+6/4/2018,Port Jefferson,Depart:,Port Jefferson Station, 5:44AM,AM Peak,605,Late - 12 mins
+,,Arrive:,Penn Station, 7:20AM,,,
+6/4/2018,Oyster Bay,Depart:,Oyster Bay Station, 5:50AM,AM Peak,503,Late - 11 mins
+,,Arrive:,Penn Station, 7:06AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:08AM,AM Peak,2011,Late - 8 mins
+,,Arrive:,Penn Station, 7:27AM,,,
+6/4/2018,Babylon,Depart:,Babylon Station, 6:12AM,AM Peak,25,Late - 14 mins
+,,Arrive:,Penn Station, 7:14AM,,,
+6/4/2018,Babylon,Depart:,Massapequa Park Station, 6:13AM,AM Peak,1003,Late - 21 mins
+,,Arrive:,Penn Station, 7:08AM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:15AM,AM Peak,1617,Late - 13 mins
+,,Arrive:,Penn Station, 7:17AM,,,
+6/4/2018,Montauk,Depart:,Speonk Station, 6:19AM,AM Peak,2737,Late - 11 mins
+,,Arrive:,Penn Station, 8:19AM,,,
+6/4/2018,Hempstead,Depart:,Hempstead Station, 6:21AM,AM Peak,799,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 7:08AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:24AM,AM Peak,2013,Late - 9 mins
+,,Arrive:,Penn Station, 7:30AM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Hicksville Station, 6:25AM,AM Peak,1203,Late - 9 mins
+,,Arrive:,Penn Station, 7:11AM,,,
+6/4/2018,Babylon,Depart:,Massapequa Park Station, 6:26AM,AM Peak,1005,Late - 12 mins
+,,Arrive:,Penn Station, 7:22AM,,,
+6/4/2018,Babylon,Depart:,Lindenhurst Station, 6:31AM,AM Peak,1007,Late - 11 mins
+,,Arrive:,Penn Station, 7:33AM,,,
+6/4/2018,Babylon,Depart:,Babylon Station, 6:32AM,AM Peak,29,Late - 7 mins
+,,Arrive:,Penn Station, 7:37AM,,,
+6/4/2018,Long Beach,Depart:,Long Beach Station, 6:37AM,AM Peak,811,Late - 9 mins
+,,Arrive:,Penn Station, 7:28AM,,,
+6/4/2018,Hempstead,Depart:,Hempstead Station, 6:38AM,AM Peak,713,Late - 7 mins
+,,Arrive:,Penn Station, 7:34AM,,,
+6/4/2018,Port Jefferson,Depart:,Port Jefferson Station, 6:45AM,AM Peak,611,Late - 9 mins
+,,Arrive:,Hunterspoint Ave., 8:30AM,,,
+6/4/2018,Hempstead,Depart:,Penn Station, 6:48AM,Off Peak,798,Late - 7 mins
+,,Arrive:,Hempstead Station, 7:33AM,,,
+6/4/2018,Babylon,Depart:,Freeport Station, 6:57AM,AM Peak,1101,Late - 7 mins
+,,Arrive:,Penn Station, 7:40AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 6:57AM,AM Peak,2303,Late - 6 mins
+,,Arrive:,Penn Station, 7:48AM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Westbury Station, 6:59AM,AM Peak,2401,Late - 6 mins
+,,Arrive:,Penn Station, 7:43AM,,,
+6/4/2018,Montauk,Depart:,Patchogue Station, 7:01AM,AM Peak,2761,Late - 7 mins
+,,Arrive:,Babylon Station, 7:31AM,,,
+6/4/2018,Montauk,Depart:,Speonk Station, 7:12AM,AM Peak,2739,Late - 6 mins
+,,Arrive:,Hunterspoint Ave., 9:11AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:19AM,AM Peak,2023,Late - 8 mins
+,,Arrive:,Penn Station, 8:28AM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Cold Spring Harbor Sta., 7:28AM,AM Peak,1627,Late - 6 mins
+,,Arrive:,Penn Station, 8:25AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:32AM,AM Peak,2025,Late - 6 mins
+,,Arrive:,Penn Station, 8:47AM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Huntington Station, 7:37AM,AM Peak,1629,Late - 7 mins
+,,Arrive:,Penn Station, 8:37AM,,,
+6/4/2018,Far Rockaway,Depart:,Valley Stream Station, 8:03AM,AM Peak,2819,Late - 10 mins
+,,Arrive:,Penn Station, 8:44AM,,,
+6/4/2018,Hempstead,Depart:,Hempstead Station, 8:03AM,AM Peak,723,Late - 12 mins
+,,Arrive:,Penn Station, 8:51AM,,,
+6/4/2018,Port Washington,Depart:,Port Washington Station, 8:08AM,AM Peak,425,Late - 7 mins
+,,Arrive:,Penn Station, 8:42AM,,,
+6/4/2018,Babylon,Depart:,Freeport Station, 8:10AM,AM Peak,1105,Late - 8 mins
+,,Arrive:,Penn Station, 8:50AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 8:31AM,AM Peak,2035,Late - 6 mins
+,,Arrive:,Penn Station, 9:56AM,,,
+6/4/2018,Montauk,Depart:,Jamaica Station, 8:52AM,Off Peak,2764,Late - 8 mins
+,,Arrive:,Patchogue Station, 9:56AM,,,
+6/4/2018,Babylon,Depart:,Penn Station, 9:06AM,Off Peak,32,Late - 7 mins
+,,Arrive:,Babylon Station,10:21AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Penn Station,10:15AM,Off Peak,2014,Late - 24 mins
+,,Arrive:,Ronkonkoma Station,11:37AM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 10 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 8 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:41PM,Off Peak,2053,Late - 8 mins
+,,Arrive:,Penn Station, 3:02PM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Penn Station, 1:50PM,Off Peak,1706,Late - 9 mins
+,,Arrive:,Huntington Station, 2:57PM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 10 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Huntington Station, 2:24PM,Off Peak,1705,Late - 7 mins
+,,Arrive:,Penn Station, 3:34PM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Penn Station, 2:53PM,Off Peak,1712,Late - 6 mins
+,,Arrive:,Huntington Station, 3:59PM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 6 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/4/2018,Oyster Bay,Depart:,Long Island City, 4:44PM,PM Peak,560,Late - 9 mins
+,,Arrive:,Oyster Bay Station, 6:15PM,,,
+6/4/2018,Far Rockaway,Depart:,Jamaica Station, 4:52PM,Off Peak,1453,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 5:10PM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:55PM,PM Peak,2354,Late - 7 mins
+,,Arrive:,Farmingdale Station, 5:56PM,,,
+6/4/2018,Port Jefferson,Depart:,Long Island City, 5:30PM,PM Peak,664,Late - 11 mins
+,,Arrive:,Port Jefferson Station, 7:30PM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Penn Station, 5:34PM,PM Peak,1256,Late - 10 mins
+,,Arrive:,Cold Spring Harbor Sta., 6:46PM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Penn Station, 5:47PM,PM Peak,1732,Late - 8 mins
+,,Arrive:,Huntington Station, 6:51PM,,,
+6/4/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 9 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/4/2018,Port Washington,Depart:,Penn Station, 6:12PM,PM Peak,456,Late - 9 mins
+,,Arrive:,Port Washington Station, 6:48PM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Penn Station, 6:22PM,PM Peak,2078,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 7:39PM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 6:25PM,Off Peak,2351,Canceled
+,,Arrive:,Penn Station, 7:22PM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:29PM,Off Peak,1717,Late - 9 mins
+,,Arrive:,Penn Station, 7:34PM,,,
+6/4/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 8 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/4/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 7:00PM,Off Peak,2355,Late - 41 mins
+,,Arrive:,Penn Station, 7:56PM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Huntington Station, 7:05PM,Off Peak,1719,Late - 7 mins
+,,Arrive:,Penn Station, 8:09PM,,,
+6/4/2018,Port Washington,Depart:,Port Washington Station,10:15PM,Off Peak,481,Late - 17 mins
+,,Arrive:,Penn Station,10:59PM,,,
+6/4/2018,Hunt. Hicks.,Depart:,Penn Station,10:19PM,Off Peak,1750,Late - 7 mins
+,,Arrive:,Huntington Station,11:24PM,,,
+6/4/2018,Port Jefferson,Depart:,Port Jefferson Station,11:22PM,Off Peak,665,Late - 8 mins
+,,Arrive:,Huntington Station,12:10AM,,,
+6/5/2018,West Hempstead,Depart:,Valley Stream Station,12:55AM,Off Peak,900,Late - 9 mins
+,,Arrive:,West Hempstead Station, 1:10AM,,,
+6/5/2018,Far Rockaway,Depart:,Far Rockaway Station, 7:08AM,AM Peak,2815,Late - 6 mins
+,,Arrive:,Penn Station, 8:05AM,,,
+6/5/2018,Babylon,Depart:,Babylon Station, 7:35AM,AM Peak,43,Late - 6 mins
+,,Arrive:,Penn Station, 8:48AM,,,
+6/5/2018,Hunt. Hicks.,Depart:,Huntington Station, 7:37AM,AM Peak,1629,Late - 7 mins
+,,Arrive:,Penn Station, 8:37AM,,,
+6/5/2018,Far Rockaway,Depart:,Valley Stream Station, 8:03AM,AM Peak,2819,Late - 6 mins
+,,Arrive:,Penn Station, 8:44AM,,,
+6/5/2018,Babylon,Depart:,Babylon Station, 8:03AM,AM Peak,47,Late - 6 mins
+,,Arrive:,Penn Station, 9:11AM,,,
+6/5/2018,Babylon,Depart:,Freeport Station, 8:10AM,AM Peak,1105,Late - 6 mins
+,,Arrive:,Penn Station, 8:50AM,,,
+6/5/2018,Far Rockaway,Depart:,Far Rockaway Station, 8:21AM,AM Peak,2825,Late - 6 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/5/2018,Ronk. (greenpt.),Depart:,Penn Station, 9:15AM,Off Peak,2012,Late - 9 mins
+,,Arrive:,Ronkonkoma Station,10:37AM,,,
+6/5/2018,Port Washington,Depart:,Great Neck Station, 9:32AM,Off Peak,315,Late - 8 mins
+,,Arrive:,Penn Station,10:08AM,,,
+6/5/2018,Hunt. Hicks.,Depart:,Huntington Station,10:24AM,Off Peak,1635,Late - 17 mins
+,,Arrive:,Penn Station,11:34AM,,,
+6/5/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/5/2018,Hunt. Hicks.,Depart:,Penn Station,12:47PM,Off Peak,1702,Late - 10 mins
+,,Arrive:,Huntington Station, 1:56PM,,,
+6/5/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/5/2018,Hunt. Hicks.,Depart:,Penn Station, 1:50PM,Off Peak,1706,Late - 8 mins
+,,Arrive:,Huntington Station, 2:57PM,,,
+6/5/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 8 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/5/2018,Ronk. (greenpt.),Depart:,Penn Station, 3:10PM,Off Peak,2094,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 4:30PM,,,
+6/5/2018,Ronk. (greenpt.),Depart:,Penn Station, 3:15PM,Off Peak,2056,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 4:34PM,,,
+6/5/2018,Ronk. (greenpt.),Depart:,Penn Station, 3:56PM,Off Peak,2058,Late - 22 mins
+,,Arrive:,Ronkonkoma Station, 5:16PM,,,
+6/5/2018,Babylon,Depart:,Babylon Station, 4:06PM,Off Peak,125,Late - 9 mins
+,,Arrive:,Penn Station, 5:05PM,,,
+6/5/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 4:09PM,Off Peak,2059,Canceled
+,,Arrive:,Penn Station, 5:39PM,,,
+6/5/2018,Port Jefferson,Depart:,Penn Station, 4:20PM,PM Peak,658,Late - 18 mins
+,,Arrive:,Port Jefferson Station, 6:05PM,,,
+6/5/2018,West Hempstead,Depart:,Atlantic Terminal, 4:21PM,PM Peak,956,Late - 7 mins
+,,Arrive:,West Hempstead Station, 5:06PM,,,
+6/5/2018,Montauk,Depart:,Long Island City, 4:28PM,PM Peak,2778,Late - 8 mins
+,,Arrive:,Patchogue Station, 6:14PM,,,
+6/5/2018,Ronk. (greenpt.),Depart:,Atlantic Terminal, 4:35PM,PM Peak,2096,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 5:57PM,,,
+6/5/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 4:48PM,Off Peak,2061,Late - 30 mins
+,,Arrive:,Penn Station, 6:10PM,,,
+6/5/2018,Montauk,Depart:,Penn Station, 5:10PM,PM Peak,2740,Late - 12 mins
+,,Arrive:,Speonk Station, 7:13PM,,,
+6/5/2018,West Hempstead,Depart:,Jamaica Station, 5:48PM,Off Peak,955,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 6:06PM,,,
+6/5/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 7 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/5/2018,Port Washington,Depart:,Penn Station, 6:12PM,PM Peak,456,Late - 7 mins
+,,Arrive:,Port Washington Station, 6:48PM,,,
+6/5/2018,Long Beach,Depart:,Penn Station, 6:14PM,PM Peak,878,Late - 9 mins
+,,Arrive:,Long Beach Station, 7:10PM,,,
+6/5/2018,Montauk,Depart:,Jamaica Station, 6:17PM,PM Peak,2716,Late - 19 mins
+,,Arrive:,Montauk Station, 9:07PM,,,
+6/5/2018,Port Washington,Depart:,Great Neck Station, 6:23PM,Off Peak,353,Late - 6 mins
+,,Arrive:,Penn Station, 6:58PM,,,
+6/5/2018,Montauk,Depart:,Patchogue Station, 6:30PM,Off Peak,2777,Late - 18 mins
+,,Arrive:,Babylon Station, 7:03PM,,,
+6/5/2018,Long Beach,Depart:,Long Beach Station, 6:38PM,Off Peak,867,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 7:33PM,,,
+6/5/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 10 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/5/2018,Long Beach,Depart:,Long Beach Station, 6:57PM,Off Peak,869,Late - 13 mins
+,,Arrive:,Penn Station, 7:47PM,,,
+6/5/2018,Montauk,Depart:,Babylon Station, 8:36PM,PM Peak,2744,Late - 8 mins
+,,Arrive:,Speonk Station, 9:38PM,,,
+6/5/2018,Montauk,Depart:,Montauk Station,10:05PM,Off Peak,2711,Partially Canceled
+,,Arrive:,Jamaica Station, 1:06AM,,,
+6/5/2018,Babylon,Depart:,Babylon Station,10:15PM,Off Peak,155,Late - 11 mins
+,,Arrive:,Penn Station,11:26PM,,,
+6/5/2018,Hempstead,Depart:,Hempstead Station,10:16PM,Off Peak,775,Late - 8 mins
+,,Arrive:,Atlantic Terminal,11:08PM,,,
+6/5/2018,Babylon,Depart:,Babylon Station,10:41PM,Off Peak,157,Late - 17 mins
+,,Arrive:,Penn Station,11:55PM,,,
+6/5/2018,Hunt. Hicks.,Depart:,Huntington Station,10:56PM,Off Peak,1729,Late - 13 mins
+,,Arrive:,Penn Station,12:01AM,,,
+6/6/2018,Port Washington,Depart:,Port Washington Station, 2:10AM,Off Peak,403,Late - 9 mins
+,,Arrive:,Penn Station, 2:55AM,,,
+6/6/2018,Hunt. Hicks.,Depart:,Penn Station, 3:08AM,Off Peak,1604,Late - 9 mins
+,,Arrive:,Huntington Station, 4:11AM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 6:00AM,AM Peak,2301,Partially Canceled
+,,Arrive:,Penn Station, 6:50AM,,,
+6/6/2018,Long Beach,Depart:,Long Beach Station, 6:37AM,AM Peak,811,Late - 6 mins
+,,Arrive:,Penn Station, 7:28AM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:30AM,Off Peak,202,Late - 7 mins
+,,Arrive:,Greenport Station, 8:54AM,,,
+6/6/2018,Long Beach,Depart:,Atlantic Terminal, 7:30AM,Off Peak,812,Late - 6 mins
+,,Arrive:,Long Beach Station, 8:22AM,,,
+6/6/2018,Port Jefferson,Depart:,Port Jefferson Station, 7:35AM,AM Peak,615,Late - 13 mins
+,,Arrive:,Penn Station, 9:24AM,,,
+6/6/2018,Hempstead,Depart:,Atlantic Terminal, 7:51AM,Off Peak,710,Late - 8 mins
+,,Arrive:,Hempstead Station, 8:38AM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:57AM,AM Peak,2033,Late - 7 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/6/2018,Far Rockaway,Depart:,Far Rockaway Station, 8:21AM,AM Peak,2825,Late - 6 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/6/2018,West Hempstead,Depart:,West Hempstead Station, 8:28AM,AM Peak,909,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 9:16AM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 8:31AM,AM Peak,2035,Late - 8 mins
+,,Arrive:,Penn Station, 9:56AM,,,
+6/6/2018,Hempstead,Depart:,Hempstead Station, 8:45AM,AM Peak,727,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 9:34AM,,,
+6/6/2018,Hunt. Hicks.,Depart:,Huntington Station, 8:55AM,Off Peak,1633,Late - 8 mins
+,,Arrive:,Penn Station,10:05AM,,,
+6/6/2018,Montauk,Depart:,Babylon Station, 8:57AM,Off Peak,2704,Late - 13 mins
+,,Arrive:,Montauk Station,10:57AM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Penn Station, 9:15AM,Off Peak,2012,Late - 12 mins
+,,Arrive:,Ronkonkoma Station,10:37AM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 9:41AM,Off Peak,2037,Late - 8 mins
+,,Arrive:,Penn Station,11:02AM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Penn Station,10:15AM,Off Peak,2014,Late - 9 mins
+,,Arrive:,Ronkonkoma Station,11:37AM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,10:41AM,Off Peak,2039,Late - 15 mins
+,,Arrive:,Penn Station,12:02PM,,,
+6/6/2018,Babylon,Depart:,Penn Station,11:06AM,Off Peak,48,Late - 7 mins
+,,Arrive:,Babylon Station,12:21PM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Penn Station,11:15AM,Off Peak,2016,Late - 7 mins
+,,Arrive:,Ronkonkoma Station,12:37PM,,,
+6/6/2018,Babylon,Depart:,Babylon Station,11:15AM,Off Peak,67,Late - 10 mins
+,,Arrive:,Penn Station,12:29PM,,,
+6/6/2018,Babylon,Depart:,Penn Station,11:23AM,Off Peak,50,Late - 7 mins
+,,Arrive:,Babylon Station,12:24PM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 11 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/6/2018,Montauk,Depart:,Babylon Station,12:27PM,Off Peak,2768,Late - 7 mins
+,,Arrive:,Patchogue Station,12:57PM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 11 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:41PM,Off Peak,2053,Late - 17 mins
+,,Arrive:,Penn Station, 3:02PM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/6/2018,Oyster Bay,Depart:,Oyster Bay Station, 2:35PM,Off Peak,553,Late - 54 mins
+,,Arrive:,Jamaica Station, 3:33PM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 2:41PM,Off Peak,2055,Late - 14 mins
+,,Arrive:,Penn Station, 4:03PM,,,
+6/6/2018,Port Washington,Depart:,Penn Station, 2:50PM,Off Peak,438,Late - 8 mins
+,,Arrive:,Port Washington Station, 3:35PM,,,
+6/6/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 8 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/6/2018,Babylon,Depart:,Penn Station, 3:04PM,Off Peak,132,Late - 7 mins
+,,Arrive:,Babylon Station, 4:15PM,,,
+6/6/2018,Babylon,Depart:,Penn Station, 3:22PM,Off Peak,134,Late - 7 mins
+,,Arrive:,Babylon Station, 4:24PM,,,
+6/6/2018,Port Washington,Depart:,Port Washington Station, 3:41PM,Off Peak,457,Late - 10 mins
+,,Arrive:,Penn Station, 4:25PM,,,
+6/6/2018,Babylon,Depart:,Babylon Station, 3:42PM,Off Peak,123,Late - 6 mins
+,,Arrive:,Penn Station, 4:57PM,,,
+6/6/2018,Hunt. Hicks.,Depart:,Huntington Station, 4:05PM,Off Peak,1713,Late - 8 mins
+,,Arrive:,Penn Station, 5:14PM,,,
+6/6/2018,Babylon,Depart:,Babylon Station, 4:06PM,Off Peak,125,Late - 7 mins
+,,Arrive:,Penn Station, 5:05PM,,,
+6/6/2018,Babylon,Depart:,Babylon Station, 4:08PM,Off Peak,127,Late - 6 mins
+,,Arrive:,Penn Station, 5:23PM,,,
+6/6/2018,Montauk,Depart:,Babylon Station, 4:28PM,Off Peak,2774,Late - 7 mins
+,,Arrive:,Patchogue Station, 4:58PM,,,
+6/6/2018,Hempstead,Depart:,Penn Station, 4:33PM,PM Peak,758,Late - 7 mins
+,,Arrive:,Hempstead Station, 5:23PM,,,
+6/6/2018,Port Washington,Depart:,Port Washington Station, 4:36PM,Off Peak,461,Late - 6 mins
+,,Arrive:,Penn Station, 5:20PM,,,
+6/6/2018,Oyster Bay,Depart:,Long Island City, 4:44PM,PM Peak,560,Late - 10 mins
+,,Arrive:,Oyster Bay Station, 6:15PM,,,
+6/6/2018,Hempstead,Depart:,Hempstead Station, 4:53PM,Off Peak,761,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 5:49PM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:55PM,PM Peak,2354,Late - 7 mins
+,,Arrive:,Farmingdale Station, 5:56PM,,,
+6/6/2018,Port Washington,Depart:,Port Washington Station, 5:00PM,Off Peak,463,Late - 7 mins
+,,Arrive:,Penn Station, 5:47PM,,,
+6/6/2018,Babylon,Depart:,Penn Station, 5:04PM,PM Peak,1152,Late - 14 mins
+,,Arrive:,Freeport Station, 5:46PM,,,
+6/6/2018,Port Jefferson,Depart:,Long Island City, 5:52PM,PM Peak,666,Late - 14 mins
+,,Arrive:,Port Jefferson Station, 8:00PM,,,
+6/6/2018,Hempstead,Depart:,Hempstead Station, 6:20PM,Off Peak,765,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 7:10PM,,,
+6/6/2018,Port Jefferson,Depart:,Hunterspoint Ave., 6:30PM,PM Peak,668,Late - 17 mins
+,,Arrive:,Port Jefferson Station, 8:15PM,,,
+6/6/2018,Oyster Bay,Depart:,Oyster Bay Station, 6:34PM,Off Peak,559,Late - 7 mins
+,,Arrive:,Jamaica Station, 7:28PM,,,
+6/6/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 9 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Penn Station, 7:18PM,PM Peak,2082,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 8:43PM,,,
+6/6/2018,West Hempstead,Depart:,Jamaica Station, 7:20PM,PM Peak,964,Late - 6 mins
+,,Arrive:,West Hempstead Station, 7:46PM,,,
+6/6/2018,Port Jefferson,Depart:,Port Jefferson Station, 8:34PM,Off Peak,659,Late - 9 mins
+,,Arrive:,Huntington Station, 9:21PM,,,
+6/6/2018,Port Jefferson,Depart:,Huntington Station, 8:34PM,PM Peak,670,Late - 8 mins
+,,Arrive:,Port Jefferson Station, 9:20PM,,,
+6/6/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 9:11PM,Off Peak,2067,Late - 6 mins
+,,Arrive:,Penn Station,10:37PM,,,
+6/6/2018,Oyster Bay,Depart:,Oyster Bay Station, 9:23PM,Off Peak,563,Late - 9 mins
+,,Arrive:,Jamaica Station,10:18PM,,,
+6/6/2018,Hunt. Hicks.,Depart:,Huntington Station, 9:29PM,Off Peak,1725,Late - 8 mins
+,,Arrive:,Penn Station,10:32PM,,,
+6/6/2018,Port Jefferson,Depart:,Port Jefferson Station, 9:41PM,Off Peak,663,Late - 44 mins
+,,Arrive:,Hicksville Station,10:46PM,,,
+6/6/2018,Hunt. Hicks.,Depart:,Penn Station, 9:43PM,Off Peak,1746,Late - 14 mins
+,,Arrive:,Huntington Station,10:51PM,,,
+6/6/2018,Port Jefferson,Depart:,Huntington Station, 9:55PM,Off Peak,672,Late - 18 mins
+,,Arrive:,Port Jefferson Station,10:42PM,,,
+6/6/2018,Hunt. Hicks.,Depart:,Huntington Station,10:56PM,Off Peak,1729,Late - 15 mins
+,,Arrive:,Penn Station,12:01AM,,,
+6/6/2018,Port Jefferson,Depart:,Huntington Station,10:57PM,Off Peak,674,Late - 15 mins
+,,Arrive:,Port Jefferson Station,11:44PM,,,
+6/6/2018,Port Jefferson,Depart:,Port Jefferson Station,11:22PM,Off Peak,665,Late - 20 mins
+,,Arrive:,Huntington Station,12:10AM,,,
+6/6/2018,Port Jefferson,Depart:,Hicksville Station,11:31PM,Off Peak,676,Late - 17 mins
+,,Arrive:,Port Jefferson Station,12:35AM,,,
+6/7/2018,Babylon,Depart:,Penn Station,12:40AM,Off Peak,4,Late - 7 mins
+,,Arrive:,Babylon Station, 1:56AM,,,
+6/7/2018,Hempstead,Depart:,Atlantic Terminal,12:43AM,Off Peak,700,Late - 8 mins
+,,Arrive:,Hempstead Station, 1:35AM,,,
+6/7/2018,Long Beach,Depart:,Penn Station, 3:00AM,Off Peak,804,Late - 21 mins
+,,Arrive:,Long Beach Station, 3:51AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:29AM,AM Peak,2009,Late - 39 mins
+,,Arrive:,Penn Station, 6:38AM,,,
+6/7/2018,Montauk,Depart:,Montauk Station, 5:39AM,AM Peak,2703,Late - 6 mins
+,,Arrive:,Long Island City, 8:44AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:42AM,AM Peak,2099,Late - 27 mins
+,,Arrive:,Penn Station, 6:58AM,,,
+6/7/2018,Port Jefferson,Depart:,Port Jefferson Station, 5:44AM,AM Peak,605,Late - 32 mins
+,,Arrive:,Penn Station, 7:20AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:46AM,AM Peak,1615,Late - 32 mins
+,,Arrive:,Penn Station, 6:41AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Penn Station, 5:48AM,Off Peak,1608,Late - 34 mins
+,,Arrive:,Huntington Station, 6:57AM,,,
+6/7/2018,Port Jefferson,Depart:,Port Jefferson Station, 5:59AM,AM Peak,607,Late - 8 mins
+,,Arrive:,Long Island City, 7:51AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 6:00AM,AM Peak,2301,Late - 54 mins
+,,Arrive:,Penn Station, 6:50AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:08AM,AM Peak,2011,Late - 27 mins
+,,Arrive:,Penn Station, 7:27AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Penn Station, 6:08AM,Off Peak,2300,Late - 21 mins
+,,Arrive:,Farmingdale Station, 7:00AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:15AM,AM Peak,1617,Late - 27 mins
+,,Arrive:,Penn Station, 7:17AM,,,
+6/7/2018,Port Jefferson,Depart:,Port Jefferson Station, 6:18AM,AM Peak,609,Late - 10 mins
+,,Arrive:,Long Island City, 8:07AM,,,
+6/7/2018,Montauk,Depart:,Speonk Station, 6:19AM,AM Peak,2737,Late - 14 mins
+,,Arrive:,Penn Station, 8:19AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:24AM,AM Peak,2013,Late - 27 mins
+,,Arrive:,Penn Station, 7:30AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Hicksville Station, 6:25AM,AM Peak,1203,Canceled
+,,Arrive:,Penn Station, 7:11AM,,,
+6/7/2018,Oyster Bay,Depart:,Oyster Bay Station, 6:29AM,AM Peak,505,Late - 21 mins
+,,Arrive:,Jamaica Station, 7:24AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:38AM,AM Peak,1619,Late - 15 mins
+,,Arrive:,Atlantic Terminal, 7:36AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:39AM,AM Peak,2015,Late - 14 mins
+,,Arrive:,Penn Station, 8:00AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:50AM,AM Peak,1621,Late - 15 mins
+,,Arrive:,Hunterspoint Ave., 7:49AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Central Islip Station, 6:54AM,AM Peak,2017,Late - 11 mins
+,,Arrive:,Penn Station, 8:06AM,,,
+6/7/2018,Long Beach,Depart:,Long Beach Station, 6:54AM,AM Peak,813,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 7:49AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 6:57AM,AM Peak,2303,Late - 18 mins
+,,Arrive:,Penn Station, 7:48AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Westbury Station, 6:59AM,AM Peak,2401,Late - 19 mins
+,,Arrive:,Penn Station, 7:43AM,,,
+6/7/2018,Long Beach,Depart:,Long Beach Station, 7:04AM,AM Peak,815,Canceled
+,,Arrive:,Penn Station, 7:57AM,,,
+6/7/2018,Port Jefferson,Depart:,Huntington Station, 7:07AM,Off Peak,604,Late - 18 mins
+,,Arrive:,Port Jefferson Station, 8:00AM,,,
+6/7/2018,Babylon,Depart:,Babylon Station, 7:10AM,AM Peak,35,Late - 7 mins
+,,Arrive:,Penn Station, 8:20AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Huntington Station, 7:12AM,AM Peak,1623,Late - 13 mins
+,,Arrive:,Penn Station, 8:10AM,,,
+6/7/2018,Oyster Bay,Depart:,Oyster Bay Station, 7:13AM,AM Peak,507,Late - 6 mins
+,,Arrive:,Long Island City, 8:37AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Brentwood Station, 7:15AM,AM Peak,2021,Late - 10 mins
+,,Arrive:,Penn Station, 8:23AM,,,
+6/7/2018,West Hempstead,Depart:,West Hempstead Station, 7:16AM,AM Peak,905,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 8:03AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Westbury Station, 7:18AM,AM Peak,2403,Late - 16 mins
+,,Arrive:,Penn Station, 8:02AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:19AM,AM Peak,2023,Late - 9 mins
+,,Arrive:,Penn Station, 8:28AM,,,
+6/7/2018,Long Beach,Depart:,Long Beach Station, 7:23AM,AM Peak,817,Late - 6 mins
+,,Arrive:,Penn Station, 8:22AM,,,
+6/7/2018,Babylon,Depart:,Wantagh Station, 7:26AM,AM Peak,1015,Late - 9 mins
+,,Arrive:,Penn Station, 8:16AM,,,
+6/7/2018,Oyster Bay,Depart:,East Williston Station, 7:26AM,AM Peak,1501,Late - 6 mins
+,,Arrive:,Penn Station, 8:14AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Cold Spring Harbor Sta., 7:28AM,AM Peak,1627,Late - 10 mins
+,,Arrive:,Penn Station, 8:25AM,,,
+6/7/2018,Babylon,Depart:,Freeport Station, 7:29AM,AM Peak,1103,Late - 6 mins
+,,Arrive:,Penn Station, 8:13AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Hicksville Station, 7:29AM,AM Peak,1205,Late - 6 mins
+,,Arrive:,Penn Station, 8:17AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:32AM,AM Peak,2025,Late - 12 mins
+,,Arrive:,Penn Station, 8:47AM,,,
+6/7/2018,West Hempstead,Depart:,West Hempstead Station, 7:34AM,AM Peak,907,Late - 7 mins
+,,Arrive:,Penn Station, 8:29AM,,,
+6/7/2018,Babylon,Depart:,Babylon Station, 7:35AM,AM Peak,43,Late - 10 mins
+,,Arrive:,Penn Station, 8:48AM,,,
+6/7/2018,Hempstead,Depart:,Hempstead Station, 7:36AM,AM Peak,721,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 8:30AM,,,
+6/7/2018,Long Beach,Depart:,Long Beach Station, 7:39AM,AM Peak,819,Late - 6 mins
+,,Arrive:,Penn Station, 8:32AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Penn Station, 7:40AM,Off Peak,2008,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 8:59AM,,,
+6/7/2018,Oyster Bay,Depart:,Oyster Bay Station, 7:41AM,AM Peak,509,Late - 9 mins
+,,Arrive:,Hunterspoint Ave., 8:55AM,,,
+6/7/2018,Babylon,Depart:,Babylon Station, 7:45AM,AM Peak,45,Late - 12 mins
+,,Arrive:,Penn Station, 8:56AM,,,
+6/7/2018,Port Washington,Depart:,Port Washington Station, 7:46AM,AM Peak,423,Late - 7 mins
+,,Arrive:,Penn Station, 8:35AM,,,
+6/7/2018,Babylon,Depart:,Wantagh Station, 7:48AM,AM Peak,1021,Late - 6 mins
+,,Arrive:,Penn Station, 8:40AM,,,
+6/7/2018,Far Rockaway,Depart:,Far Rockaway Station, 7:49AM,AM Peak,2821,Late - 6 mins
+,,Arrive:,Penn Station, 8:42AM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Bethpage Station, 7:58AM,AM Peak,2309,Late - 11 mins
+,,Arrive:,Penn Station, 8:53AM,,,
+6/7/2018,Far Rockaway,Depart:,Valley Stream Station, 8:03AM,AM Peak,2819,Late - 10 mins
+,,Arrive:,Penn Station, 8:44AM,,,
+6/7/2018,Hempstead,Depart:,Hempstead Station, 8:03AM,AM Peak,723,Late - 11 mins
+,,Arrive:,Penn Station, 8:51AM,,,
+6/7/2018,Port Washington,Depart:,Great Neck Station, 8:04AM,AM Peak,307,Late - 8 mins
+,,Arrive:,Penn Station, 8:38AM,,,
+6/7/2018,Port Washington,Depart:,Port Washington Station, 8:08AM,AM Peak,425,Late - 8 mins
+,,Arrive:,Penn Station, 8:42AM,,,
+6/7/2018,Long Beach,Depart:,Long Beach Station, 8:08AM,AM Peak,825,Late - 8 mins
+,,Arrive:,Penn Station, 9:02AM,,,
+6/7/2018,Babylon,Depart:,Freeport Station, 8:10AM,AM Peak,1105,Late - 14 mins
+,,Arrive:,Penn Station, 8:50AM,,,
+6/7/2018,Far Rockaway,Depart:,Far Rockaway Station, 8:10AM,AM Peak,2823,Canceled
+,,Arrive:,Hunterspoint Ave., 9:04AM,,,
+6/7/2018,Port Washington,Depart:,Port Washington Station, 8:18AM,AM Peak,427,Late - 10 mins
+,,Arrive:,Penn Station, 9:02AM,,,
+6/7/2018,Port Washington,Depart:,Great Neck Station, 8:24AM,AM Peak,309,Late - 8 mins
+,,Arrive:,Penn Station, 8:59AM,,,
+6/7/2018,West Hempstead,Depart:,West Hempstead Station, 8:28AM,AM Peak,909,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 9:16AM,,,
+6/7/2018,Montauk,Depart:,Jamaica Station, 8:52AM,Off Peak,2764,Late - 32 mins
+,,Arrive:,Patchogue Station, 9:56AM,,,
+6/7/2018,Montauk,Depart:,Babylon Station, 8:57AM,Off Peak,2704,Late - 26 mins
+,,Arrive:,Montauk Station,10:57AM,,,
+6/7/2018,Hempstead,Depart:,Hempstead Station, 9:04AM,AM Peak,729,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 9:56AM,,,
+6/7/2018,Hempstead,Depart:,Atlantic Terminal, 9:06AM,Off Peak,712,Late - 8 mins
+,,Arrive:,Hempstead Station, 9:58AM,,,
+6/7/2018,Babylon,Depart:,Babylon Station, 9:48AM,Off Peak,57,Late - 8 mins
+,,Arrive:,Penn Station,11:05AM,,,
+6/7/2018,Babylon,Depart:,Babylon Station,10:04AM,Off Peak,59,Late - 8 mins
+,,Arrive:,Penn Station,11:08AM,,,
+6/7/2018,Montauk,Depart:,Patchogue Station,10:25AM,Off Peak,2767,Late - 9 mins
+,,Arrive:,Babylon Station,10:55AM,,,
+6/7/2018,Babylon,Depart:,Penn Station,11:06AM,Off Peak,48,Late - 9 mins
+,,Arrive:,Babylon Station,12:21PM,,,
+6/7/2018,Babylon,Depart:,Babylon Station,11:15AM,Off Peak,67,Late - 10 mins
+,,Arrive:,Penn Station,12:29PM,,,
+6/7/2018,Montauk,Depart:,Montauk Station,11:18AM,Off Peak,2707,Late - 17 mins
+,,Arrive:,Jamaica Station, 2:15PM,,,
+6/7/2018,Babylon,Depart:,Penn Station,11:23AM,Off Peak,50,Late - 8 mins
+,,Arrive:,Babylon Station,12:24PM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Huntington Station,11:24AM,Off Peak,1637,Late - 12 mins
+,,Arrive:,Penn Station,12:34PM,,,
+6/7/2018,Montauk,Depart:,Jamaica Station,11:25AM,Off Peak,2706,Late - 10 mins
+,,Arrive:,Montauk Station, 2:15PM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 10 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/7/2018,Montauk,Depart:,Babylon Station,12:27PM,Off Peak,2768,Late - 8 mins
+,,Arrive:,Patchogue Station,12:57PM,,,
+6/7/2018,Hempstead,Depart:,Hempstead Station, 1:11PM,Off Peak,753,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 2:03PM,,,
+6/7/2018,Babylon,Depart:,Babylon Station, 1:48PM,Off Peak,111,Late - 7 mins
+,,Arrive:,Penn Station, 3:05PM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 2:41PM,Off Peak,2055,Late - 7 mins
+,,Arrive:,Penn Station, 4:03PM,,,
+6/7/2018,Babylon,Depart:,Babylon Station, 2:48PM,Off Peak,117,Late - 8 mins
+,,Arrive:,Penn Station, 4:07PM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 9 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/7/2018,Babylon,Depart:,Penn Station, 3:22PM,Off Peak,134,Late - 6 mins
+,,Arrive:,Babylon Station, 4:24PM,,,
+6/7/2018,Hempstead,Depart:,Hempstead Station, 4:04PM,Off Peak,759,Late - 10 mins
+,,Arrive:,Atlantic Terminal, 4:52PM,,,
+6/7/2018,Long Beach,Depart:,Long Beach Station, 4:29PM,Off Peak,863,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 5:19PM,,,
+6/7/2018,Oyster Bay,Depart:,Long Island City, 4:44PM,PM Peak,560,Late - 7 mins
+,,Arrive:,Oyster Bay Station, 6:15PM,,,
+6/7/2018,Far Rockaway,Depart:,Atlantic Terminal, 5:12PM,PM Peak,2866,Late - 7 mins
+,,Arrive:,Far Rockaway Station, 6:08PM,,,
+6/7/2018,Long Beach,Depart:,Penn Station, 5:24PM,PM Peak,872,Late - 8 mins
+,,Arrive:,Long Beach Station, 6:18PM,,,
+6/7/2018,West Hempstead,Depart:,Atlantic Terminal, 5:36PM,PM Peak,960,Late - 7 mins
+,,Arrive:,West Hempstead Station, 6:22PM,,,
+6/7/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 10 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/7/2018,Port Washington,Depart:,Penn Station, 6:12PM,PM Peak,456,Late - 12 mins
+,,Arrive:,Port Washington Station, 6:48PM,,,
+6/7/2018,Oyster Bay,Depart:,Penn Station, 6:17PM,PM Peak,564,Canceled
+,,Arrive:,Oyster Bay Station, 7:32PM,,,
+6/7/2018,Hempstead,Depart:,Hempstead Station, 6:20PM,Off Peak,765,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 7:10PM,,,
+6/7/2018,Port Washington,Depart:,Great Neck Station, 6:23PM,Off Peak,353,Canceled
+,,Arrive:,Penn Station, 6:58PM,,,
+6/7/2018,Port Washington,Depart:,Port Washington Station, 6:24PM,Off Peak,467,Late - 33 mins
+,,Arrive:,Penn Station, 7:03PM,,,
+6/7/2018,Port Washington,Depart:,Penn Station, 6:25PM,PM Peak,458,Late - 9 mins
+,,Arrive:,Port Washington Station, 7:06PM,,,
+6/7/2018,Oyster Bay,Depart:,Oyster Bay Station, 6:34PM,Off Peak,559,Late - 6 mins
+,,Arrive:,Jamaica Station, 7:28PM,,,
+6/7/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 33 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/7/2018,Port Washington,Depart:,Penn Station, 7:02PM,PM Peak,460,Canceled
+,,Arrive:,Port Washington Station, 7:37PM,,,
+6/7/2018,Port Washington,Depart:,Port Washington Station, 7:09PM,Off Peak,469,Late - 8 mins
+,,Arrive:,Penn Station, 7:53PM,,,
+6/7/2018,Far Rockaway,Depart:,Far Rockaway Station, 7:26PM,Off Peak,2869,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 8:21PM,,,
+6/7/2018,Babylon,Depart:,Penn Station, 8:09PM,Off Peak,176,Late - 11 mins
+,,Arrive:,Babylon Station, 9:23PM,,,
+6/7/2018,Ronk. (greenpt.),Depart:,Penn Station, 8:16PM,Off Peak,2086,Late - 8 mins
+,,Arrive:,Ronkonkoma Station, 9:37PM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Penn Station, 8:43PM,Off Peak,1744,Late - 7 mins
+,,Arrive:,Huntington Station, 9:47PM,,,
+6/7/2018,Oyster Bay,Depart:,Jamaica Station, 9:07PM,Off Peak,570,Late - 7 mins
+,,Arrive:,Oyster Bay Station,10:01PM,,,
+6/7/2018,Babylon,Depart:,Penn Station,11:36PM,Off Peak,196,Late - 9 mins
+,,Arrive:,Babylon Station,12:32AM,,,
+6/7/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 9 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/7/2018,Babylon,Depart:,Penn Station,12:02AM,Off Peak,2,Late - 14 mins
+,,Arrive:,Babylon Station, 1:17AM,,,
+6/8/2018,Montauk,Depart:,Southampton Station, 4:41AM,AM Peak,2791,Partially Canceled
+,,Arrive:,Penn Station, 7:02AM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:29AM,AM Peak,2009,Late - 8 mins
+,,Arrive:,Penn Station, 6:38AM,,,
+6/8/2018,Montauk,Depart:,Montauk Station, 5:39AM,AM Peak,2703,Late - 7 mins
+,,Arrive:,Long Island City, 8:44AM,,,
+6/8/2018,Montauk,Depart:,Speonk Station, 6:19AM,AM Peak,2737,Late - 14 mins
+,,Arrive:,Penn Station, 8:19AM,,,
+6/8/2018,Oyster Bay,Depart:,Oyster Bay Station, 6:29AM,AM Peak,505,Late - 6 mins
+,,Arrive:,Jamaica Station, 7:24AM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:39AM,AM Peak,2015,Late - 13 mins
+,,Arrive:,Penn Station, 8:00AM,,,
+6/8/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:50AM,AM Peak,1621,Late - 12 mins
+,,Arrive:,Hunterspoint Ave., 7:49AM,,,
+6/8/2018,Hunt. Hicks.,Depart:,Westbury Station, 6:59AM,AM Peak,2401,Canceled
+,,Arrive:,Penn Station, 7:43AM,,,
+6/8/2018,Hunt. Hicks.,Depart:,Huntington Station, 7:12AM,AM Peak,1623,Late - 6 mins
+,,Arrive:,Penn Station, 8:10AM,,,
+6/8/2018,Oyster Bay,Depart:,Oyster Bay Station, 7:13AM,AM Peak,507,Late - 8 mins
+,,Arrive:,Long Island City, 8:37AM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Brentwood Station, 7:15AM,AM Peak,2021,Late - 10 mins
+,,Arrive:,Penn Station, 8:23AM,,,
+6/8/2018,Hunt. Hicks.,Depart:,Westbury Station, 7:18AM,AM Peak,2403,Late - 7 mins
+,,Arrive:,Penn Station, 8:02AM,,,
+6/8/2018,Hunt. Hicks.,Depart:,Huntington Station, 7:19AM,AM Peak,1625,Late - 11 mins
+,,Arrive:,Atlantic Terminal, 8:25AM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:19AM,AM Peak,2023,Late - 7 mins
+,,Arrive:,Penn Station, 8:28AM,,,
+6/8/2018,Hempstead,Depart:,Hempstead Station, 7:36AM,AM Peak,721,Late - 10 mins
+,,Arrive:,Atlantic Terminal, 8:30AM,,,
+6/8/2018,Far Rockaway,Depart:,Far Rockaway Station, 7:49AM,AM Peak,2821,Late - 8 mins
+,,Arrive:,Penn Station, 8:42AM,,,
+6/8/2018,Far Rockaway,Depart:,Far Rockaway Station, 8:21AM,AM Peak,2825,Late - 6 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Penn Station,11:15AM,Off Peak,2016,Late - 27 mins
+,,Arrive:,Ronkonkoma Station,12:37PM,,,
+6/8/2018,Montauk,Depart:,Jamaica Station,11:25AM,Off Peak,2796,Late - 10 mins
+,,Arrive:,Montauk Station, 2:15PM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,11:41AM,Off Peak,2041,Late - 15 mins
+,,Arrive:,Penn Station, 1:02PM,,,
+6/8/2018,Montauk,Depart:,Babylon Station,12:02PM,Off Peak,2786,Canceled
+,,Arrive:,Patchogue Station,12:26PM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 14 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 13 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:41PM,Off Peak,2053,Late - 10 mins
+,,Arrive:,Penn Station, 3:02PM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/8/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 2:41PM,Off Peak,2055,Late - 16 mins
+,,Arrive:,Penn Station, 4:03PM,,,
+6/8/2018,Port Jefferson,Depart:,Port Jefferson Station, 4:06PM,Off Peak,655,Late - 35 mins
+,,Arrive:,Jamaica Station, 5:39PM,,,
+6/8/2018,Montauk,Depart:,Babylon Station, 4:28PM,Off Peak,2774,Late - 7 mins
+,,Arrive:,Patchogue Station, 4:58PM,,,
+6/8/2018,Port Washington,Depart:,Port Washington Station, 4:36PM,Off Peak,461,Late - 11 mins
+,,Arrive:,Penn Station, 5:20PM,,,
+6/8/2018,Babylon,Depart:,Babylon Station, 4:39PM,Off Peak,131,Late - 10 mins
+,,Arrive:,Penn Station, 5:53PM,,,
+6/8/2018,Port Washington,Depart:,Port Washington Station, 5:00PM,Off Peak,463,Late - 11 mins
+,,Arrive:,Penn Station, 5:47PM,,,
+6/8/2018,Port Washington,Depart:,Penn Station, 5:30PM,PM Peak,360,Late - 9 mins
+,,Arrive:,Great Neck Station, 6:05PM,,,
+6/8/2018,Port Washington,Depart:,Penn Station, 5:45PM,PM Peak,454,Late - 9 mins
+,,Arrive:,Port Washington Station, 6:21PM,,,
+6/8/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 12 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/8/2018,Babylon,Depart:,Babylon Station, 6:07PM,Off Peak,137,Late - 8 mins
+,,Arrive:,Penn Station, 7:19PM,,,
+6/8/2018,Port Washington,Depart:,Penn Station, 6:12PM,PM Peak,456,Late - 13 mins
+,,Arrive:,Port Washington Station, 6:48PM,,,
+6/8/2018,Port Washington,Depart:,Great Neck Station, 6:23PM,Off Peak,353,Late - 11 mins
+,,Arrive:,Penn Station, 6:58PM,,,
+6/8/2018,Port Washington,Depart:,Port Washington Station, 6:24PM,Off Peak,467,Late - 7 mins
+,,Arrive:,Penn Station, 7:03PM,,,
+6/8/2018,Port Jefferson,Depart:,Hunterspoint Ave., 6:30PM,PM Peak,668,Partially Canceled
+,,Arrive:,Port Jefferson Station, 8:15PM,,,
+6/8/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 19 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/8/2018,Port Washington,Depart:,Port Washington Station, 8:09PM,Off Peak,473,Late - 14 mins
+,,Arrive:,Penn Station, 8:52PM,,,
+6/8/2018,Babylon,Depart:,Babylon Station, 8:13PM,Off Peak,147,Late - 7 mins
+,,Arrive:,Penn Station, 9:27PM,,,
+6/8/2018,Port Washington,Depart:,Penn Station, 9:19PM,Off Peak,470,Late - 8 mins
+,,Arrive:,Port Washington Station,10:04PM,,,
+6/8/2018,Babylon,Depart:,Penn Station,10:06PM,Off Peak,188,Late - 8 mins
+,,Arrive:,Babylon Station,11:23PM,,,
+6/8/2018,Babylon,Depart:,Penn Station,11:40PM,Off Peak,198,Late - 8 mins
+,,Arrive:,Babylon Station,12:56AM,,,
+6/8/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 9 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15AM,Off Peak,8000,Late - 6 mins
+,,Arrive:,Ronkonkoma Station, 1:36AM,,,
+6/9/2018,Oyster Bay,Depart:,Jamaica Station, 1:46AM,Off Peak,6500,Late - 12 mins
+,,Arrive:,Oyster Bay Station, 2:41AM,,,
+6/9/2018,Montauk,Depart:,Jamaica Station, 8:10AM,Off Peak,8704,Late - 30 mins
+,,Arrive:,Montauk Station,10:49AM,,,
+6/9/2018,Montauk,Depart:,Patchogue Station,11:20AM,Off Peak,8761,Late - 8 mins
+,,Arrive:,Babylon Station,11:50AM,,,
+6/9/2018,Montauk,Depart:,Montauk Station,11:26AM,Off Peak,8703,Late - 21 mins
+,,Arrive:,Jamaica Station, 1:58PM,,,
+6/9/2018,Hempstead,Depart:,Penn Station,11:40AM,Off Peak,7914,Late - 12 mins
+,,Arrive:,Bellmont Race Track,12:16PM,,,
+6/9/2018,Hempstead,Depart:,Penn Station,12:08PM,Off Peak,7916,Late - 9 mins
+,,Arrive:,Bellmont Race Track,12:43PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station,12:40PM,Off Peak,7703,Late - 24 mins
+,,Arrive:,Penn Station, 1:43PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,12:40PM,Off Peak,8051,Late - 56 mins
+,,Arrive:,Penn Station, 1:59PM,,,
+6/9/2018,Long Beach,Depart:,Penn Station,12:43PM,Off Peak,6850,Late - 7 mins
+,,Arrive:,Long Beach Station, 1:39PM,,,
+6/9/2018,Hempstead,Depart:,Atlantic Terminal,12:44PM,Off Peak,6750,Partially Canceled
+,,Arrive:,Hempstead Station, 1:35PM,,,
+6/9/2018,Hempstead,Depart:,Penn Station,12:46PM,Off Peak,7920,Late - 66 mins
+,,Arrive:,Bellmont Race Track, 1:22PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station,12:53PM,Off Peak,7704,Partially Canceled
+,,Arrive:,Huntington Station, 1:57PM,,,
+6/9/2018,Hempstead,Depart:,Penn Station, 1:08PM,Off Peak,7922,Late - 59 mins
+,,Arrive:,Bellmont Race Track, 1:40PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 1:10PM,Off Peak,7705,Late - 59 mins
+,,Arrive:,Penn Station, 2:16PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:13PM,Off Peak,8052,Late - 45 mins
+,,Arrive:,Ronkonkoma Station, 2:35PM,,,
+6/9/2018,Hempstead,Depart:,Penn Station, 1:16PM,Off Peak,7924,Late - 52 mins
+,,Arrive:,Bellmont Race Track, 1:52PM,,,
+6/9/2018,Babylon,Depart:,Babylon Station, 1:20PM,Off Peak,6107,Late - 6 mins
+,,Arrive:,Penn Station, 2:36PM,,,
+6/9/2018,Hempstead,Depart:,Hempstead Station, 1:20PM,Off Peak,6753,Canceled
+,,Arrive:,Atlantic Terminal, 2:13PM,,,
+6/9/2018,Babylon,Depart:,Penn Station, 1:26PM,Off Peak,6104,Late - 10 mins
+,,Arrive:,Babylon Station, 2:43PM,,,
+6/9/2018,Hempstead,Depart:,Penn Station, 1:34PM,Off Peak,7928,Late - 39 mins
+,,Arrive:,Bellmont Race Track, 2:10PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 1:40PM,Off Peak,7707,Late - 34 mins
+,,Arrive:,Penn Station, 2:43PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:40PM,Off Peak,8053,Late - 30 mins
+,,Arrive:,Penn Station, 2:59PM,,,
+6/9/2018,Hempstead,Depart:,Atlantic Terminal, 1:44PM,Off Peak,6752,Canceled
+,,Arrive:,Hempstead Station, 2:35PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station, 1:53PM,Off Peak,7708,Canceled
+,,Arrive:,Huntington Station, 2:57PM,,,
+6/9/2018,Oyster Bay,Depart:,Oyster Bay Station, 2:00PM,Off Peak,6555,Late - 31 mins
+,,Arrive:,Jamaica Station, 2:57PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 2:10PM,Off Peak,7709,Late - 27 mins
+,,Arrive:,Penn Station, 3:16PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:13PM,Off Peak,8054,Canceled
+,,Arrive:,Ronkonkoma Station, 3:35PM,,,
+6/9/2018,Hempstead,Depart:,Hempstead Station, 2:20PM,Off Peak,6755,Late - 32 mins
+,,Arrive:,Atlantic Terminal, 3:13PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station, 2:22PM,Off Peak,7710,Late - 40 mins
+,,Arrive:,Huntington Station, 3:28PM,,,
+6/9/2018,Long Beach,Depart:,Long Beach Station, 2:24PM,Off Peak,6855,Late - 10 mins
+,,Arrive:,Penn Station, 3:21PM,,,
+6/9/2018,Hempstead,Depart:,Penn Station, 2:30PM,Off Peak,7960,Late - 70 mins
+,,Arrive:,Bellmont Race Track, 3:07PM,,,
+6/9/2018,Hempstead,Depart:,Penn Station, 2:36PM,Off Peak,7930,Late - 74 mins
+,,Arrive:,Bellmont Race Track, 3:10PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 2:40PM,Off Peak,7711,Canceled
+,,Arrive:,Penn Station, 3:43PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 2:40PM,Off Peak,8055,Late - 23 mins
+,,Arrive:,Penn Station, 3:59PM,,,
+6/9/2018,Oyster Bay,Depart:,Jamaica Station, 2:52PM,Off Peak,6550,Late - 34 mins
+,,Arrive:,Oyster Bay Station, 3:46PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station, 2:53PM,Off Peak,7712,Late - 16 mins
+,,Arrive:,Huntington Station, 3:57PM,,,
+6/9/2018,Hempstead,Depart:,Penn Station, 2:59PM,Off Peak,7932,Late - 76 mins
+,,Arrive:,Bellmont Race Track, 3:35PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:10PM,Off Peak,7713,Canceled
+,,Arrive:,Penn Station, 4:16PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Penn Station, 3:13PM,Off Peak,8056,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 4:35PM,,,
+6/9/2018,Hempstead,Depart:,Hempstead Station, 3:20PM,Off Peak,6757,Late - 48 mins
+,,Arrive:,Atlantic Terminal, 4:13PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station, 3:22PM,Off Peak,7714,Late - 26 mins
+,,Arrive:,Huntington Station, 4:28PM,,,
+6/9/2018,Long Beach,Depart:,Long Beach Station, 3:24PM,Off Peak,6857,Late - 9 mins
+,,Arrive:,Penn Station, 4:21PM,,,
+6/9/2018,Hempstead,Depart:,Jamaica Station, 3:25PM,Off Peak,7952,Canceled
+,,Arrive:,Bellmont Race Track, 3:38PM,,,
+6/9/2018,Hempstead,Depart:,Penn Station, 3:36PM,Off Peak,7934,Late - 45 mins
+,,Arrive:,Bellmont Race Track, 4:06PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:40PM,Off Peak,7715,Late - 15 mins
+,,Arrive:,Penn Station, 4:43PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 3:40PM,Off Peak,8057,Late - 9 mins
+,,Arrive:,Penn Station, 4:59PM,,,
+6/9/2018,Hempstead,Depart:,Atlantic Terminal, 3:44PM,Off Peak,6756,Late - 14 mins
+,,Arrive:,Hempstead Station, 4:35PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station, 3:53PM,Off Peak,7716,Late - 19 mins
+,,Arrive:,Huntington Station, 4:57PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 4:10PM,Off Peak,7717,Late - 8 mins
+,,Arrive:,Penn Station, 5:16PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:13PM,Off Peak,8058,Late - 18 mins
+,,Arrive:,Ronkonkoma Station, 5:35PM,,,
+6/9/2018,Hempstead,Depart:,Bellmont Race Track, 4:20PM,Off Peak,7901,Late - 22 mins
+,,Arrive:,Jamaica Station, 4:32PM,,,
+6/9/2018,Hempstead,Depart:,Jamaica Station, 4:20PM,Off Peak,7936,Canceled
+,,Arrive:,Bellmont Race Track, 4:32PM,,,
+6/9/2018,Long Beach,Depart:,Long Beach Station, 4:24PM,Off Peak,6859,Late - 8 mins
+,,Arrive:,Penn Station, 5:21PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 4:40PM,Off Peak,8059,Late - 22 mins
+,,Arrive:,Penn Station, 5:59PM,,,
+6/9/2018,Long Beach,Depart:,Long Beach Station, 4:42PM,Off Peak,6889,Canceled
+,,Arrive:,Penn Station, 5:34PM,,,
+6/9/2018,Long Beach,Depart:,Penn Station, 4:43PM,Off Peak,6858,Late - 9 mins
+,,Arrive:,Long Beach Station, 5:39PM,,,
+6/9/2018,Hempstead,Depart:,Atlantic Terminal, 4:44PM,Off Peak,6758,Late - 10 mins
+,,Arrive:,Jamaica Station, 5:05PM,,,
+6/9/2018,Hempstead,Depart:,Bellmont Race Track, 4:51PM,Off Peak,7903,Canceled
+,,Arrive:,Jamaica Station, 5:03PM,,,
+6/9/2018,Hempstead,Depart:,Jamaica Station, 4:59PM,Off Peak,7938,Late - 28 mins
+,,Arrive:,Bellmont Race Track, 5:11PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:10PM,Off Peak,7721,Late - 9 mins
+,,Arrive:,Penn Station, 6:16PM,,,
+6/9/2018,Hempstead,Depart:,Bellmont Race Track, 5:20PM,Off Peak,7905,Late - 23 mins
+,,Arrive:,Jamaica Station, 5:33PM,,,
+6/9/2018,Long Beach,Depart:,Long Beach Station, 5:24PM,Off Peak,6865,Late - 10 mins
+,,Arrive:,Penn Station, 6:21PM,,,
+6/9/2018,Montauk,Depart:,Montauk Station, 5:26PM,Off Peak,8715,Late - 21 mins
+,,Arrive:,Jamaica Station, 7:58PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:40PM,Off Peak,8061,Late - 34 mins
+,,Arrive:,Penn Station, 6:59PM,,,
+6/9/2018,Port Washington,Depart:,Port Washington Station, 5:42PM,Off Peak,6473,Late - 7 mins
+,,Arrive:,Penn Station, 6:27PM,,,
+6/9/2018,Port Washington,Depart:,Penn Station, 5:49PM,Off Peak,6472,Late - 7 mins
+,,Arrive:,Port Washington Station, 6:35PM,,,
+6/9/2018,Hempstead,Depart:,Bellmont Race Track, 5:51PM,Off Peak,7907,Late - 19 mins
+,,Arrive:,Penn Station, 6:24PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:10PM,Off Peak,7725,Late - 7 mins
+,,Arrive:,Penn Station, 7:16PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Penn Station, 6:13PM,Off Peak,8062,Late - 10 mins
+,,Arrive:,Ronkonkoma Station, 7:35PM,,,
+6/9/2018,Hempstead,Depart:,Bellmont Race Track, 6:35PM,Off Peak,7911,Late - 6 mins
+,,Arrive:,Penn Station, 7:11PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:40PM,Off Peak,8063,Late - 18 mins
+,,Arrive:,Penn Station, 7:59PM,,,
+6/9/2018,Babylon,Depart:,Babylon Station, 6:53PM,Off Peak,6133,Late - 6 mins
+,,Arrive:,Penn Station, 8:07PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station, 6:53PM,Off Peak,7728,Late - 10 mins
+,,Arrive:,Huntington Station, 7:57PM,,,
+6/9/2018,Hempstead,Depart:,Jamaica Station, 6:54PM,Off Peak,6763,Late - 20 mins
+,,Arrive:,Atlantic Terminal, 7:13PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Penn Station, 7:13PM,Off Peak,8064,Late - 29 mins
+,,Arrive:,Ronkonkoma Station, 8:35PM,,,
+6/9/2018,Hempstead,Depart:,Hempstead Station, 7:20PM,Off Peak,6765,Late - 14 mins
+,,Arrive:,Atlantic Terminal, 8:13PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:40PM,Off Peak,8065,Late - 10 mins
+,,Arrive:,Penn Station, 8:59PM,,,
+6/9/2018,Montauk,Depart:,Jamaica Station, 7:41PM,Off Peak,8738,Late - 32 mins
+,,Arrive:,Speonk Station, 9:15PM,,,
+6/9/2018,Hempstead,Depart:,Atlantic Terminal, 7:44PM,Off Peak,6764,Late - 25 mins
+,,Arrive:,Hempstead Station, 8:35PM,,,
+6/9/2018,Oyster Bay,Depart:,Jamaica Station, 7:52PM,Off Peak,6558,Late - 34 mins
+,,Arrive:,Oyster Bay Station, 8:46PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station, 7:53PM,Off Peak,7732,Late - 32 mins
+,,Arrive:,Huntington Station, 8:57PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Penn Station, 8:13PM,Off Peak,8066,Late - 21 mins
+,,Arrive:,Ronkonkoma Station, 9:35PM,,,
+6/9/2018,Babylon,Depart:,Penn Station, 8:16PM,Off Peak,6134,Late - 7 mins
+,,Arrive:,Babylon Station, 9:21PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station, 8:22PM,Off Peak,7734,Late - 16 mins
+,,Arrive:,Huntington Station, 9:28PM,,,
+6/9/2018,Port Jefferson,Depart:,Huntington Station, 8:38PM,Off Peak,6662,Late - 28 mins
+,,Arrive:,Port Jefferson Station, 9:26PM,,,
+6/9/2018,Port Washington,Depart:,Port Washington Station, 8:42PM,Off Peak,6485,Late - 6 mins
+,,Arrive:,Penn Station, 9:27PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station, 8:53PM,Off Peak,7736,Late - 11 mins
+,,Arrive:,Huntington Station, 9:57PM,,,
+6/9/2018,Babylon,Depart:,Penn Station, 8:56PM,Off Peak,6136,Late - 10 mins
+,,Arrive:,Babylon Station,10:12PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 9:10PM,Off Peak,7737,Late - 8 mins
+,,Arrive:,Penn Station,10:16PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Penn Station, 9:13PM,Off Peak,8068,Late - 18 mins
+,,Arrive:,Ronkonkoma Station,10:35PM,,,
+6/9/2018,Far Rockaway,Depart:,Atlantic Terminal, 9:14PM,Off Peak,8868,Late - 8 mins
+,,Arrive:,Far Rockaway Station,10:05PM,,,
+6/9/2018,Babylon,Depart:,Babylon Station, 9:20PM,Off Peak,6145,Late - 6 mins
+,,Arrive:,Penn Station,10:36PM,,,
+6/9/2018,Hempstead,Depart:,Hempstead Station, 9:20PM,Off Peak,6769,Late - 10 mins
+,,Arrive:,Atlantic Terminal,10:13PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station, 9:22PM,Off Peak,7738,Late - 17 mins
+,,Arrive:,Huntington Station,10:28PM,,,
+6/9/2018,Long Beach,Depart:,Long Beach Station, 9:24PM,Off Peak,6875,Late - 12 mins
+,,Arrive:,Penn Station,10:21PM,,,
+6/9/2018,Babylon,Depart:,Penn Station, 9:26PM,Off Peak,6138,Late - 8 mins
+,,Arrive:,Babylon Station,10:43PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Huntington Station, 9:40PM,Off Peak,7739,Late - 8 mins
+,,Arrive:,Penn Station,10:43PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 9:40PM,Off Peak,8069,Late - 28 mins
+,,Arrive:,Penn Station,10:59PM,,,
+6/9/2018,West Hempstead,Depart:,Valley Stream Station, 9:48PM,Off Peak,6960,Late - 8 mins
+,,Arrive:,West Hempstead Station,10:03PM,,,
+6/9/2018,Port Washington,Depart:,Penn Station, 9:49PM,Off Peak,6488,Late - 16 mins
+,,Arrive:,Port Washington Station,10:35PM,,,
+6/9/2018,Far Rockaway,Depart:,Far Rockaway Station, 9:50PM,Off Peak,8869,Late - 7 mins
+,,Arrive:,Atlantic Terminal,10:42PM,,,
+6/9/2018,Oyster Bay,Depart:,Jamaica Station, 9:52PM,Off Peak,6560,Late - 13 mins
+,,Arrive:,Oyster Bay Station,10:46PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Penn Station,10:13PM,Off Peak,8070,Late - 17 mins
+,,Arrive:,Ronkonkoma Station,11:35PM,,,
+6/9/2018,Port Washington,Depart:,Penn Station,10:19PM,Off Peak,6490,Late - 10 mins
+,,Arrive:,Port Washington Station,11:05PM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station,10:22PM,Off Peak,7742,Late - 10 mins
+,,Arrive:,Huntington Station,11:28PM,,,
+6/9/2018,Long Beach,Depart:,Long Beach Station,10:24PM,Off Peak,6877,Late - 12 mins
+,,Arrive:,Penn Station,11:21PM,,,
+6/9/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,10:40PM,Off Peak,8071,Late - 23 mins
+,,Arrive:,Penn Station,11:59PM,,,
+6/9/2018,Port Washington,Depart:,Port Washington Station,10:42PM,Off Peak,6493,Late - 11 mins
+,,Arrive:,Penn Station,11:27PM,,,
+6/9/2018,Hempstead,Depart:,Atlantic Terminal,10:44PM,Off Peak,6770,Late - 8 mins
+,,Arrive:,Hempstead Station,11:35PM,,,
+6/9/2018,Oyster Bay,Depart:,Jamaica Station,11:38PM,Off Peak,6562,Late - 7 mins
+,,Arrive:,Oyster Bay Station,12:34AM,,,
+6/9/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,7746,Late - 13 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/9/2018,Hempstead,Depart:,Atlantic Terminal,11:44PM,Off Peak,6772,Late - 8 mins
+,,Arrive:,Hempstead Station,12:36AM,,,
+6/10/2018,Babylon,Depart:,Penn Station,12:02AM,Off Peak,6000,Late - 17 mins
+,,Arrive:,Babylon Station, 1:18AM,,,
+6/10/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15AM,Off Peak,8000,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 1:36AM,,,
+6/10/2018,Babylon,Depart:,Penn Station,12:40AM,Off Peak,6002,Late - 6 mins
+,,Arrive:,Babylon Station, 1:58AM,,,
+6/10/2018,Port Jefferson,Depart:,Jamaica Station,12:40AM,Off Peak,6602,Late - 8 mins
+,,Arrive:,Port Jefferson Station, 2:06AM,,,
+6/10/2018,Port Jefferson,Depart:,Huntington Station,12:54AM,Off Peak,6600,Late - 7 mins
+,,Arrive:,Port Jefferson Station, 1:41AM,,,
+6/10/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:22AM,Off Peak,8002,Late - 8 mins
+,,Arrive:,Ronkonkoma Station, 2:41AM,,,
+6/10/2018,Hempstead,Depart:,Atlantic Terminal, 1:43AM,Off Peak,6702,Late - 8 mins
+,,Arrive:,Hempstead Station, 2:34AM,,,
+6/10/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:42AM,Off Peak,8006,Late - 8 mins
+,,Arrive:,Ronkonkoma Station, 6:03AM,,,
+6/10/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 9:40AM,Off Peak,8015,Late - 10 mins
+,,Arrive:,Penn Station,10:59AM,,,
+6/10/2018,Hunt. Hicks.,Depart:,Penn Station, 9:53AM,Off Peak,7624,Late - 14 mins
+,,Arrive:,Huntington Station,10:57AM,,,
+6/10/2018,Oyster Bay,Depart:,Oyster Bay Station,10:00AM,Off Peak,6507,Late - 11 mins
+,,Arrive:,Jamaica Station,10:57AM,,,
+6/10/2018,Ronk. (greenpt.),Depart:,Penn Station,10:13AM,Off Peak,8016,Late - 8 mins
+,,Arrive:,Ronkonkoma Station,11:35AM,,,
+6/10/2018,Hunt. Hicks.,Depart:,Huntington Station,10:40AM,Off Peak,7627,Late - 6 mins
+,,Arrive:,Penn Station,11:43AM,,,
+6/10/2018,Port Washington,Depart:,Port Washington Station,10:42AM,Off Peak,6427,Late - 9 mins
+,,Arrive:,Penn Station,11:27AM,,,
+6/10/2018,Montauk,Depart:,Speonk Station,12:00PM,Off Peak,8737,Late - 7 mins
+,,Arrive:,Babylon Station, 1:00PM,,,
+6/10/2018,Montauk,Depart:,Jamaica Station,12:10PM,Off Peak,8710,Late - 10 mins
+,,Arrive:,Montauk Station, 2:53PM,,,
+6/10/2018,Montauk,Depart:,Babylon Station,12:19PM,Off Peak,8764,Late - 6 mins
+,,Arrive:,Patchogue Station,12:49PM,,,
+6/10/2018,Montauk,Depart:,Montauk Station, 1:26PM,Off Peak,8705,Late - 22 mins
+,,Arrive:,Jamaica Station, 3:58PM,,,
+6/10/2018,Montauk,Depart:,Patchogue Station, 3:30PM,Off Peak,8765,Late - 8 mins
+,,Arrive:,Babylon Station, 4:00PM,,,
+6/10/2018,West Hempstead,Depart:,Valley Stream Station, 3:48PM,Off Peak,6954,Late - 6 mins
+,,Arrive:,West Hempstead Station, 4:03PM,,,
+6/10/2018,Babylon,Depart:,Jamaica Station, 4:04PM,Off Peak,7359,Late - 16 mins
+,,Arrive:,Penn Station, 4:24PM,,,
+6/10/2018,Montauk,Depart:,Patchogue Station, 4:22PM,Off Peak,8767,Late - 10 mins
+,,Arrive:,Babylon Station, 4:52PM,,,
+6/10/2018,Ronk. (greenpt.),Depart:,Greenport Station, 5:11PM,Off Peak,6253,Late - 6 mins
+,,Arrive:,Ronkonkoma Station, 6:35PM,,,
+6/10/2018,Babylon,Depart:,Babylon Station, 5:20PM,Off Peak,6127,Late - 7 mins
+,,Arrive:,Penn Station, 6:36PM,,,
+6/10/2018,Montauk,Depart:,Montauk Station, 5:26PM,Off Peak,8715,Late - 8 mins
+,,Arrive:,Jamaica Station, 7:58PM,,,
+6/11/2018,West Hempstead,Depart:,West Hempstead Station, 7:34AM,AM Peak,907,Late - 10 mins
+,,Arrive:,Penn Station, 8:29AM,,,
+6/11/2018,Port Washington,Depart:,Little Neck Station, 7:55AM,AM Peak,305,Late - 10 mins
+,,Arrive:,Penn Station, 8:26AM,,,
+6/11/2018,Far Rockaway,Depart:,Atlantic Terminal, 8:36AM,Off Peak,2814,Late - 11 mins
+,,Arrive:,Far Rockaway Station, 9:32AM,,,
+6/11/2018,Port Washington,Depart:,Port Washington Station, 8:45AM,AM Peak,429,Late - 10 mins
+,,Arrive:,Penn Station, 9:20AM,,,
+6/11/2018,Ronk. (greenpt.),Depart:,Penn Station,10:15AM,Off Peak,2014,Late - 12 mins
+,,Arrive:,Ronkonkoma Station,11:37AM,,,
+6/11/2018,Babylon,Depart:,Babylon Station,10:15AM,Off Peak,61,Late - 13 mins
+,,Arrive:,Penn Station,11:29AM,,,
+6/11/2018,Ronk. (greenpt.),Depart:,Penn Station,11:15AM,Off Peak,2016,Late - 15 mins
+,,Arrive:,Ronkonkoma Station,12:37PM,,,
+6/11/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,11:41AM,Off Peak,2041,Late - 20 mins
+,,Arrive:,Penn Station, 1:02PM,,,
+6/11/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/11/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,12:41PM,Off Peak,2051,Late - 11 mins
+,,Arrive:,Penn Station, 2:02PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Penn Station,12:47PM,Off Peak,1702,Late - 17 mins
+,,Arrive:,Huntington Station, 1:56PM,,,
+6/11/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/11/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:41PM,Off Peak,2053,Late - 11 mins
+,,Arrive:,Penn Station, 3:02PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Penn Station, 1:50PM,Off Peak,1706,Late - 12 mins
+,,Arrive:,Huntington Station, 2:57PM,,,
+6/11/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Huntington Station, 2:24PM,Off Peak,1705,Late - 10 mins
+,,Arrive:,Penn Station, 3:34PM,,,
+6/11/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 2:41PM,Off Peak,2055,Late - 11 mins
+,,Arrive:,Penn Station, 4:03PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 19 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/11/2018,Montauk,Depart:,Speonk Station, 3:05PM,Off Peak,2745,Late - 14 mins
+,,Arrive:,Jamaica Station, 4:39PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Penn Station, 3:44PM,Off Peak,1716,Partially Canceled
+,,Arrive:,Huntington Station, 4:49PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Penn Station, 4:01PM,Off Peak,1718,Late - 11 mins
+,,Arrive:,Huntington Station, 5:07PM,,,
+6/11/2018,Port Jefferson,Depart:,Port Jefferson Station, 4:06PM,Off Peak,655,Late - 22 mins
+,,Arrive:,Jamaica Station, 5:39PM,,,
+6/11/2018,Port Jefferson,Depart:,Penn Station, 4:20PM,PM Peak,658,Late - 18 mins
+,,Arrive:,Port Jefferson Station, 6:05PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Penn Station, 4:32PM,PM Peak,1722,Late - 12 mins
+,,Arrive:,Huntington Station, 5:31PM,,,
+6/11/2018,Oyster Bay,Depart:,Long Island City, 4:44PM,PM Peak,560,Late - 10 mins
+,,Arrive:,Oyster Bay Station, 6:15PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:11PM,Off Peak,1715,Partially Canceled
+,,Arrive:,Penn Station, 6:21PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Atlantic Terminal, 5:30PM,PM Peak,1728,Canceled
+,,Arrive:,Huntington Station, 6:28PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Penn Station, 5:34PM,PM Peak,1256,Partially Canceled
+,,Arrive:,Cold Spring Harbor Sta., 6:46PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Penn Station, 5:47PM,PM Peak,1732,Canceled
+,,Arrive:,Huntington Station, 6:51PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:29PM,Off Peak,1717,Late - 36 mins
+,,Arrive:,Penn Station, 7:34PM,,,
+6/11/2018,Montauk,Depart:,Southampton College, 7:01PM,Off Peak,2729,Late - 13 mins
+,,Arrive:,Jamaica Station, 8:56PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Huntington Station, 7:05PM,Off Peak,1719,Partially Canceled
+,,Arrive:,Penn Station, 8:09PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Penn Station, 7:23PM,PM Peak,1740,Partially Canceled
+,,Arrive:,Huntington Station, 8:24PM,,,
+6/11/2018,Hunt. Hicks.,Depart:,Huntington Station, 8:57PM,Off Peak,1723,Partially Canceled
+,,Arrive:,Penn Station,10:04PM,,,
+6/12/2018,Montauk,Depart:,Montauk Station, 1:00AM,Off Peak,2701,Late - 11 mins
+,,Arrive:,Babylon Station, 3:16AM,,,
+6/12/2018,Babylon,Depart:,Babylon Station, 3:21AM,Off Peak,7,Late - 10 mins
+,,Arrive:,Penn Station, 4:18AM,,,
+6/12/2018,Babylon,Depart:,Babylon Station, 7:35AM,AM Peak,43,Late - 11 mins
+,,Arrive:,Penn Station, 8:48AM,,,
+6/12/2018,Montauk,Depart:,Babylon Station, 7:59AM,Off Peak,2762,Late - 10 mins
+,,Arrive:,Patchogue Station, 8:29AM,,,
+6/12/2018,Babylon,Depart:,Babylon Station, 8:03AM,AM Peak,47,Late - 16 mins
+,,Arrive:,Penn Station, 9:11AM,,,
+6/12/2018,Babylon,Depart:,Freeport Station, 8:10AM,AM Peak,1105,Late - 11 mins
+,,Arrive:,Penn Station, 8:50AM,,,
+6/12/2018,Montauk,Depart:,Jamaica Station, 8:52AM,Off Peak,2764,Late - 18 mins
+,,Arrive:,Patchogue Station, 9:56AM,,,
+6/12/2018,Babylon,Depart:,Babylon Station,11:15AM,Off Peak,67,Late - 14 mins
+,,Arrive:,Penn Station,12:29PM,,,
+6/12/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 22 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/12/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 3:11PM,Off Peak,2057,Late - 21 mins
+,,Arrive:,Penn Station, 4:34PM,,,
+6/13/2018,Port Washington,Depart:,Penn Station, 1:18AM,Off Peak,402,Late - 28 mins
+,,Arrive:,Port Washington Station, 2:04AM,,,
+6/13/2018,Port Washington,Depart:,Port Washington Station, 3:23AM,Off Peak,405,Late - 14 mins
+,,Arrive:,Penn Station, 4:06AM,,,
+6/13/2018,Montauk,Depart:,Speonk Station, 6:19AM,AM Peak,2737,Late - 16 mins
+,,Arrive:,Penn Station, 8:19AM,,,
+6/13/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:38AM,AM Peak,1619,Late - 15 mins
+,,Arrive:,Atlantic Terminal, 7:36AM,,,
+6/13/2018,West Hempstead,Depart:,West Hempstead Station, 7:16AM,AM Peak,905,Late - 12 mins
+,,Arrive:,Atlantic Terminal, 8:03AM,,,
+6/13/2018,Long Beach,Depart:,Atlantic Terminal, 8:05AM,Off Peak,814,Late - 13 mins
+,,Arrive:,Long Beach Station, 8:55AM,,,
+6/13/2018,Montauk,Depart:,Babylon Station, 8:57AM,Off Peak,2704,Late - 10 mins
+,,Arrive:,Montauk Station,11:02AM,,,
+6/13/2018,Babylon,Depart:,Penn Station,12:06PM,Off Peak,102,Partially Canceled
+,,Arrive:,Babylon Station, 1:21PM,,,
+6/13/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 10 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/13/2018,Hunt. Hicks.,Depart:,Penn Station, 4:01PM,Off Peak,1718,Late - 10 mins
+,,Arrive:,Huntington Station, 5:07PM,,,
+6/13/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:10PM,Off Peak,2350,Late - 10 mins
+,,Arrive:,Farmingdale Station, 5:04PM,,,
+6/13/2018,Port Jefferson,Depart:,Long Island City, 5:30PM,PM Peak,664,Late - 10 mins
+,,Arrive:,Port Jefferson Station, 7:30PM,,,
+6/13/2018,Hunt. Hicks.,Depart:,Penn Station, 5:34PM,PM Peak,1256,Late - 11 mins
+,,Arrive:,Cold Spring Harbor Sta., 6:46PM,,,
+6/13/2018,Hunt. Hicks.,Depart:,Penn Station, 5:36PM,PM Peak,1730,Late - 16 mins
+,,Arrive:,Huntington Station, 6:34PM,,,
+6/13/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:29PM,Off Peak,1717,Late - 29 mins
+,,Arrive:,Penn Station, 7:34PM,,,
+6/13/2018,Montauk,Depart:,Jamaica Station, 8:53PM,Off Peak,2720,Late - 66 mins
+,,Arrive:,Montauk Station,11:46PM,,,
+6/13/2018,Port Washington,Depart:,Port Washington Station,10:38PM,Off Peak,483,Late - 67 mins
+,,Arrive:,Penn Station,11:22PM,,,
+6/13/2018,Port Washington,Depart:,Penn Station,10:49PM,Off Peak,476,Late - 43 mins
+,,Arrive:,Port Washington Station,11:35PM,,,
+6/13/2018,Long Beach,Depart:,Penn Station,10:52PM,Off Peak,896,Late - 12 mins
+,,Arrive:,Long Beach Station,11:42PM,,,
+6/13/2018,Port Washington,Depart:,Penn Station,11:12PM,Off Peak,478,Late - 26 mins
+,,Arrive:,Port Washington Station,11:58PM,,,
+6/13/2018,Port Washington,Depart:,Port Washington Station,11:38PM,Off Peak,485,Late - 15 mins
+,,Arrive:,Penn Station,12:22AM,,,
+6/14/2018,Montauk,Depart:,Montauk Station, 1:00AM,Off Peak,2701,Late - 15 mins
+,,Arrive:,Babylon Station, 3:16AM,,,
+6/14/2018,Montauk,Depart:,Jamaica Station, 1:10AM,Off Peak,2702,Late - 16 mins
+,,Arrive:,Montauk Station, 3:57AM,,,
+6/14/2018,Montauk,Depart:,Montauk Station, 5:39AM,AM Peak,2703,Late - 10 mins
+,,Arrive:,Long Island City, 8:44AM,,,
+6/14/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:39AM,AM Peak,2015,Late - 14 mins
+,,Arrive:,Penn Station, 8:00AM,,,
+6/14/2018,Montauk,Depart:,Speonk Station, 7:27AM,AM Peak,2741,Late - 10 mins
+,,Arrive:,Babylon Station, 8:27AM,,,
+6/14/2018,Oyster Bay,Depart:,Oyster Bay Station, 7:41AM,AM Peak,509,Late - 16 mins
+,,Arrive:,Hunterspoint Ave., 8:55AM,,,
+6/14/2018,Montauk,Depart:,Babylon Station, 7:59AM,Off Peak,2762,Late - 11 mins
+,,Arrive:,Patchogue Station, 8:29AM,,,
+6/14/2018,Babylon,Depart:,Babylon Station, 8:03AM,AM Peak,47,Late - 14 mins
+,,Arrive:,Penn Station, 9:11AM,,,
+6/14/2018,Babylon,Depart:,Atlantic Terminal, 8:46AM,Off Peak,1402,Late - 10 mins
+,,Arrive:,Jamaica Station, 9:03AM,,,
+6/14/2018,Long Beach,Depart:,Penn Station, 8:46AM,Off Peak,816,Late - 13 mins
+,,Arrive:,Long Beach Station, 9:36AM,,,
+6/14/2018,Montauk,Depart:,Jamaica Station, 8:52AM,Off Peak,2764,Late - 12 mins
+,,Arrive:,Patchogue Station, 9:56AM,,,
+6/14/2018,Montauk,Depart:,Babylon Station, 8:57AM,Off Peak,2704,Late - 15 mins
+,,Arrive:,Montauk Station,11:02AM,,,
+6/14/2018,Montauk,Depart:,Jamaica Station,11:25AM,Off Peak,2706,Late - 16 mins
+,,Arrive:,Montauk Station, 2:15PM,,,
+6/14/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 10 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/14/2018,Oyster Bay,Depart:,Jamaica Station, 1:03PM,Off Peak,552,Late - 11 mins
+,,Arrive:,Oyster Bay Station, 2:00PM,,,
+6/14/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 10 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/14/2018,Oyster Bay,Depart:,Oyster Bay Station, 1:37PM,Off Peak,551,Late - 11 mins
+,,Arrive:,Jamaica Station, 2:37PM,,,
+6/14/2018,Montauk,Depart:,Jamaica Station, 3:02PM,Off Peak,2772,Late - 11 mins
+,,Arrive:,Patchogue Station, 4:12PM,,,
+6/14/2018,Montauk,Depart:,Hunterspoint Ave., 4:30PM,PM Peak,2712,Late - 10 mins
+,,Arrive:,Montauk Station, 7:34PM,,,
+6/14/2018,Montauk,Depart:,Southampton College, 4:40PM,Off Peak,2605,Late - 14 mins
+,,Arrive:,Jamaica Station, 6:34PM,,,
+6/14/2018,Montauk,Depart:,Southampton College, 5:35PM,Off Peak,2607,Late - 11 mins
+,,Arrive:,Jamaica Station, 8:04PM,,,
+6/14/2018,Long Beach,Depart:,Atlantic Terminal, 5:41PM,PM Peak,874,Late - 26 mins
+,,Arrive:,Long Beach Station, 6:32PM,,,
+6/14/2018,Port Washington,Depart:,Penn Station, 5:45PM,PM Peak,454,Late - 10 mins
+,,Arrive:,Port Washington Station, 6:21PM,,,
+6/14/2018,Long Beach,Depart:,Penn Station, 5:56PM,PM Peak,876,Late - 15 mins
+,,Arrive:,Long Beach Station, 6:49PM,,,
+6/14/2018,Montauk,Depart:,Jamaica Station, 6:17PM,PM Peak,2716,Late - 12 mins
+,,Arrive:,Montauk Station, 9:07PM,,,
+6/14/2018,Port Jefferson,Depart:,Hunterspoint Ave., 6:30PM,PM Peak,668,Late - 16 mins
+,,Arrive:,Port Jefferson Station, 8:15PM,,,
+6/14/2018,Hunt. Hicks.,Depart:,Penn Station, 6:31PM,PM Peak,1736,Late - 14 mins
+,,Arrive:,Huntington Station, 7:32PM,,,
+6/14/2018,Long Beach,Depart:,Long Beach Station, 6:38PM,Off Peak,867,Late - 14 mins
+,,Arrive:,Atlantic Terminal, 7:33PM,,,
+6/14/2018,Port Jefferson,Depart:,Stony Brook Station, 6:49PM,Off Peak,657,Late - 11 mins
+,,Arrive:,Huntington Station, 7:56PM,,,
+6/14/2018,Ronk. (greenpt.),Depart:,Penn Station, 6:54PM,PM Peak,2080,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 8:12PM,,,
+6/14/2018,Montauk,Depart:,Southampton College, 7:01PM,Off Peak,2729,Late - 23 mins
+,,Arrive:,Jamaica Station, 8:54PM,,,
+6/14/2018,Hunt. Hicks.,Depart:,Huntington Station, 8:05PM,Off Peak,1721,Late - 10 mins
+,,Arrive:,Penn Station, 9:09PM,,,
+6/14/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 10 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/15/2018,Babylon,Depart:,Penn Station, 1:43AM,Off Peak,6,Late - 14 mins
+,,Arrive:,Babylon Station, 3:00AM,,,
+6/15/2018,Hempstead,Depart:,Atlantic Terminal, 1:43AM,Off Peak,702,Late - 14 mins
+,,Arrive:,Hempstead Station, 2:34AM,,,
+6/15/2018,Montauk,Depart:,Babylon Station, 7:59AM,Off Peak,2762,Late - 14 mins
+,,Arrive:,Patchogue Station, 8:29AM,,,
+6/15/2018,Hunt. Hicks.,Depart:,Penn Station, 8:29AM,Off Peak,1614,Late - 15 mins
+,,Arrive:,Huntington Station, 9:34AM,,,
+6/15/2018,Babylon,Depart:,Penn Station, 8:34AM,Off Peak,28,Late - 14 mins
+,,Arrive:,Babylon Station, 9:50AM,,,
+6/15/2018,Montauk,Depart:,Jamaica Station, 8:52AM,Off Peak,2764,Late - 21 mins
+,,Arrive:,Patchogue Station, 9:56AM,,,
+6/15/2018,Montauk,Depart:,Babylon Station, 8:57AM,Off Peak,2794,Late - 18 mins
+,,Arrive:,Montauk Station,11:02AM,,,
+6/15/2018,Montauk,Depart:,Montauk Station,11:18AM,Off Peak,2707,Late - 37 mins
+,,Arrive:,Jamaica Station, 2:15PM,,,
+6/15/2018,Montauk,Depart:,Jamaica Station,11:25AM,Off Peak,2796,Late - 29 mins
+,,Arrive:,Montauk Station, 2:15PM,,,
+6/15/2018,Montauk,Depart:,Babylon Station,12:02PM,Off Peak,2786,Canceled
+,,Arrive:,Patchogue Station,12:26PM,,,
+6/15/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/15/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 11 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/15/2018,Montauk,Depart:,Hunterspoint Ave., 1:49PM,Off Peak,2708,Late - 23 mins
+,,Arrive:,Montauk Station, 4:45PM,,,
+6/15/2018,Hunt. Hicks.,Depart:,Penn Station, 1:50PM,Off Peak,1706,Late - 10 mins
+,,Arrive:,Huntington Station, 2:57PM,,,
+6/15/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 11 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/15/2018,Montauk,Depart:,Southampton Station, 2:25PM,Off Peak,2727,Late - 28 mins
+,,Arrive:,Jamaica Station, 4:39PM,,,
+6/15/2018,Montauk,Depart:,Montauk Station, 2:45PM,Off Peak,2709,Late - 26 mins
+,,Arrive:,Jamaica Station, 5:50PM,,,
+6/15/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 18 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/15/2018,Montauk,Depart:,Southampton College, 3:08PM,Off Peak,2603,Late - 36 mins
+,,Arrive:,Jamaica Station, 5:03PM,,,
+6/15/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 3:11PM,Off Peak,2057,Late - 11 mins
+,,Arrive:,Penn Station, 4:34PM,,,
+6/15/2018,Ronk. (greenpt.),Depart:,Penn Station, 3:56PM,Off Peak,2058,Late - 10 mins
+,,Arrive:,Ronkonkoma Station, 5:16PM,,,
+6/15/2018,Montauk,Depart:,Penn Station, 4:07PM,PM Peak,2798,Late - 28 mins
+,,Arrive:,Montauk Station, 6:48PM,,,
+6/15/2018,Montauk,Depart:,Hunterspoint Ave., 4:30PM,PM Peak,2712,Late - 22 mins
+,,Arrive:,Montauk Station, 7:34PM,,,
+6/15/2018,Montauk,Depart:,Southampton College, 4:40PM,Off Peak,2605,Late - 12 mins
+,,Arrive:,Jamaica Station, 6:34PM,,,
+6/15/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:21PM,Off Peak,254,Late - 13 mins
+,,Arrive:,Greenport Station, 6:45PM,,,
+6/15/2018,Babylon,Depart:,Jamaica Station, 5:32PM,PM Peak,2714,Late - 37 mins
+,,Arrive:,Montauk Station, 8:44PM,,,
+6/15/2018,Montauk,Depart:,Southampton College, 5:35PM,Off Peak,2607,Late - 34 mins
+,,Arrive:,Jamaica Station, 8:04PM,,,
+6/15/2018,Montauk,Depart:,Jamaica Station, 6:17PM,PM Peak,2716,Late - 21 mins
+,,Arrive:,Montauk Station, 9:07PM,,,
+6/15/2018,Montauk,Depart:,Southampton College, 7:01PM,Off Peak,2729,Late - 82 mins
+,,Arrive:,Jamaica Station, 8:54PM,,,
+6/15/2018,Montauk,Depart:,Jamaica Station, 7:23PM,PM Peak,2718,Late - 13 mins
+,,Arrive:,Speonk Station, 8:47PM,,,
+6/15/2018,Montauk,Depart:,Babylon Station, 7:30PM,PM Peak,2792,Late - 21 mins
+,,Arrive:,Speonk Station, 8:30PM,,,
+6/15/2018,Port Washington,Depart:,Port Washington Station, 8:09PM,Off Peak,473,Late - 12 mins
+,,Arrive:,Penn Station, 8:52PM,,,
+6/15/2018,Montauk,Depart:,Southampton College, 8:40PM,Off Peak,2609,Partially Canceled
+,,Arrive:,Jamaica Station,10:46PM,,,
+6/15/2018,Oyster Bay,Depart:,Jamaica Station,10:11PM,Off Peak,572,Late - 36 mins
+,,Arrive:,Oyster Bay Station,11:04PM,,,
+6/15/2018,Port Jefferson,Depart:,Huntington Station,10:57PM,Off Peak,674,Late - 14 mins
+,,Arrive:,Port Jefferson Station,11:44PM,,,
+6/15/2018,Far Rockaway,Depart:,Atlantic Terminal,11:09PM,Off Peak,2886,Late - 10 mins
+,,Arrive:,Far Rockaway Station,12:05AM,,,
+6/15/2018,Port Jefferson,Depart:,Port Jefferson Station,11:22PM,Off Peak,665,Late - 14 mins
+,,Arrive:,Huntington Station,12:10AM,,,
+6/15/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 12 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/16/2018,Montauk,Depart:,Montauk Station, 7:04AM,Off Peak,8701,Late - 27 mins
+,,Arrive:,Jamaica Station, 9:53AM,,,
+6/16/2018,Montauk,Depart:,Jamaica Station, 7:10AM,Off Peak,8702,Late - 26 mins
+,,Arrive:,Montauk Station, 9:56AM,,,
+6/16/2018,Montauk,Depart:,Jamaica Station, 7:37AM,Off Peak,9702,Late - 22 mins
+,,Arrive:,Southampton College, 9:45AM,,,
+6/16/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:40AM,Off Peak,8011,Partially Canceled
+,,Arrive:,Penn Station, 8:59AM,,,
+6/16/2018,Oyster Bay,Depart:,Oyster Bay Station, 8:00AM,Off Peak,6505,Late - 15 mins
+,,Arrive:,Jamaica Station, 8:57AM,,,
+6/16/2018,Hunt. Hicks.,Depart:,Huntington Station, 8:10AM,Off Peak,7617,Late - 12 mins
+,,Arrive:,Penn Station, 9:16AM,,,
+6/16/2018,Montauk,Depart:,Jamaica Station, 8:10AM,Off Peak,8704,Late - 36 mins
+,,Arrive:,Montauk Station,10:55AM,,,
+6/16/2018,Ronk. (greenpt.),Depart:,Penn Station, 8:13AM,Off Peak,8012,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 9:35AM,,,
+6/16/2018,Babylon,Depart:,Babylon Station, 8:20AM,Off Peak,6021,Late - 10 mins
+,,Arrive:,Penn Station, 9:36AM,,,
+6/16/2018,Babylon,Depart:,Penn Station, 8:26AM,Off Peak,6018,Late - 10 mins
+,,Arrive:,Babylon Station, 9:42AM,,,
+6/16/2018,Montauk,Depart:,Babylon Station, 8:26AM,Off Peak,8730,Late - 19 mins
+,,Arrive:,Speonk Station, 9:31AM,,,
+6/16/2018,Montauk,Depart:,Jamaica Station, 8:36AM,Off Peak,9704,Late - 37 mins
+,,Arrive:,Southampton College,10:30AM,,,
+6/16/2018,Hunt. Hicks.,Depart:,Huntington Station, 8:40AM,Off Peak,7619,Late - 12 mins
+,,Arrive:,Penn Station, 9:43AM,,,
+6/16/2018,Oyster Bay,Depart:,Jamaica Station, 8:52AM,Off Peak,6502,Late - 13 mins
+,,Arrive:,Oyster Bay Station, 9:46AM,,,
+6/16/2018,Montauk,Depart:,Jamaica Station, 9:03AM,Off Peak,9706,Late - 11 mins
+,,Arrive:,Southampton College,10:52AM,,,
+6/16/2018,Montauk,Depart:,Jamaica Station, 9:10AM,Off Peak,8760,Late - 14 mins
+,,Arrive:,Patchogue Station,10:16AM,,,
+6/16/2018,Montauk,Depart:,Jamaica Station, 9:36AM,Off Peak,8732,Late - 14 mins
+,,Arrive:,Speonk Station,11:20AM,,,
+6/16/2018,Oyster Bay,Depart:,Oyster Bay Station,10:00AM,Off Peak,6507,Canceled
+,,Arrive:,Jamaica Station,10:57AM,,,
+6/16/2018,Montauk,Depart:,Speonk Station,10:03AM,Off Peak,8735,Late - 23 mins
+,,Arrive:,Babylon Station,11:00AM,,,
+6/16/2018,Montauk,Depart:,Jamaica Station,10:10AM,Off Peak,8706,Late - 36 mins
+,,Arrive:,Montauk Station,12:58PM,,,
+6/16/2018,Ronk. (greenpt.),Depart:,Penn Station,11:13AM,Off Peak,8018,Late - 11 mins
+,,Arrive:,Ronkonkoma Station,12:35PM,,,
+6/16/2018,Montauk,Depart:,Babylon Station,11:17AM,Off Peak,8762,Late - 13 mins
+,,Arrive:,Patchogue Station,11:47AM,,,
+6/16/2018,Montauk,Depart:,Montauk Station,11:28AM,Off Peak,8703,Late - 65 mins
+,,Arrive:,Jamaica Station, 2:01PM,,,
+6/16/2018,Port Jefferson,Depart:,Huntington Station,11:38AM,Off Peak,6610,Late - 10 mins
+,,Arrive:,Port Jefferson Station,12:26PM,,,
+6/16/2018,Montauk,Depart:,Jamaica Station,12:10PM,Off Peak,8710,Late - 15 mins
+,,Arrive:,Montauk Station, 3:00PM,,,
+6/16/2018,Oyster Bay,Depart:,Jamaica Station,12:52PM,Off Peak,6506,Late - 76 mins
+,,Arrive:,Oyster Bay Station, 1:46PM,,,
+6/16/2018,Montauk,Depart:,Montauk Station, 1:33PM,Off Peak,8705,Late - 27 mins
+,,Arrive:,Jamaica Station, 4:09PM,,,
+6/16/2018,Oyster Bay,Depart:,Oyster Bay Station, 2:00PM,Off Peak,6555,Canceled
+,,Arrive:,Jamaica Station, 2:57PM,,,
+6/16/2018,Hempstead,Depart:,Atlantic Terminal, 2:44PM,Off Peak,6754,Late - 12 mins
+,,Arrive:,Hempstead Station, 3:35PM,,,
+6/16/2018,Port Washington,Depart:,Penn Station, 2:49PM,Off Peak,6460,Partially Canceled
+,,Arrive:,Port Washington Station, 3:35PM,,,
+6/16/2018,Oyster Bay,Depart:,Jamaica Station, 2:52PM,Off Peak,6550,Partially Canceled
+,,Arrive:,Oyster Bay Station, 3:46PM,,,
+6/16/2018,Port Washington,Depart:,Penn Station, 3:19PM,Off Peak,6462,Late - 66 mins
+,,Arrive:,Port Washington Station, 4:05PM,,,
+6/16/2018,Hempstead,Depart:,Hempstead Station, 3:20PM,Off Peak,6757,Late - 18 mins
+,,Arrive:,Atlantic Terminal, 4:13PM,,,
+6/16/2018,Montauk,Depart:,Patchogue Station, 3:30PM,Off Peak,8765,Late - 15 mins
+,,Arrive:,Babylon Station, 4:00PM,,,
+6/16/2018,Port Washington,Depart:,Port Washington Station, 3:42PM,Off Peak,6465,Canceled
+,,Arrive:,Penn Station, 4:27PM,,,
+6/16/2018,Port Washington,Depart:,Penn Station, 3:49PM,Off Peak,6464,Late - 45 mins
+,,Arrive:,Port Washington Station, 4:35PM,,,
+6/16/2018,Far Rockaway,Depart:,Far Rockaway Station, 3:50PM,Off Peak,8857,Late - 11 mins
+,,Arrive:,Atlantic Terminal, 4:42PM,,,
+6/16/2018,Oyster Bay,Depart:,Oyster Bay Station, 4:00PM,Off Peak,6557,Canceled
+,,Arrive:,Jamaica Station, 4:57PM,,,
+6/16/2018,Port Washington,Depart:,Port Washington Station, 4:11PM,Off Peak,6467,Canceled
+,,Arrive:,Penn Station, 4:56PM,,,
+6/16/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:13PM,Off Peak,8058,Late - 17 mins
+,,Arrive:,Ronkonkoma Station, 5:35PM,,,
+6/16/2018,Far Rockaway,Depart:,Atlantic Terminal, 4:14PM,Off Peak,8858,Late - 10 mins
+,,Arrive:,Far Rockaway Station, 5:05PM,,,
+6/16/2018,Port Washington,Depart:,Port Washington Station, 4:42PM,Off Peak,6469,Canceled
+,,Arrive:,Penn Station, 5:27PM,,,
+6/16/2018,Port Washington,Depart:,Penn Station, 4:49PM,Off Peak,6468,Late - 15 mins
+,,Arrive:,Port Washington Station, 5:35PM,,,
+6/16/2018,Oyster Bay,Depart:,Jamaica Station, 4:52PM,Off Peak,6552,Late - 18 mins
+,,Arrive:,Oyster Bay Station, 5:46PM,,,
+6/16/2018,Port Washington,Depart:,Port Washington Station, 5:11PM,Off Peak,6471,Late - 18 mins
+,,Arrive:,Penn Station, 5:56PM,,,
+6/16/2018,Ronk. (greenpt.),Depart:,Penn Station, 5:13PM,Off Peak,8060,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 6:35PM,,,
+6/16/2018,Port Washington,Depart:,Penn Station, 5:19PM,Off Peak,6470,Late - 11 mins
+,,Arrive:,Port Washington Station, 6:05PM,,,
+6/16/2018,Montauk,Depart:,Montauk Station, 5:21PM,Off Peak,8715,Late - 36 mins
+,,Arrive:,Jamaica Station, 7:58PM,,,
+6/16/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:40PM,Off Peak,8061,Late - 27 mins
+,,Arrive:,Penn Station, 6:59PM,,,
+6/16/2018,Port Washington,Depart:,Port Washington Station, 5:42PM,Off Peak,6473,Late - 15 mins
+,,Arrive:,Penn Station, 6:27PM,,,
+6/16/2018,Babylon,Depart:,Babylon Station, 5:53PM,Off Peak,6129,Late - 28 mins
+,,Arrive:,Penn Station, 7:08PM,,,
+6/16/2018,Montauk,Depart:,Speonk Station, 5:53PM,Off Peak,8743,Late - 15 mins
+,,Arrive:,Jamaica Station, 7:32PM,,,
+6/16/2018,Oyster Bay,Depart:,Oyster Bay Station, 6:00PM,Off Peak,6561,Late - 10 mins
+,,Arrive:,Jamaica Station, 6:57PM,,,
+6/16/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:10PM,Off Peak,7725,Late - 22 mins
+,,Arrive:,Penn Station, 7:16PM,,,
+6/16/2018,Port Washington,Depart:,Port Washington Station, 6:11PM,Off Peak,6475,Late - 10 mins
+,,Arrive:,Penn Station, 6:56PM,,,
+6/16/2018,Ronk. (greenpt.),Depart:,Penn Station, 6:13PM,Off Peak,8062,Late - 10 mins
+,,Arrive:,Ronkonkoma Station, 7:35PM,,,
+6/16/2018,Babylon,Depart:,Babylon Station, 6:20PM,Off Peak,6131,Late - 11 mins
+,,Arrive:,Penn Station, 7:36PM,,,
+6/16/2018,Montauk,Depart:,Montauk Station, 6:32PM,Off Peak,8717,Late - 29 mins
+,,Arrive:,Penn Station, 9:39PM,,,
+6/16/2018,Montauk,Depart:,Southampton College, 6:38PM,Off Peak,9705,Late - 16 mins
+,,Arrive:,Jamaica Station, 8:24PM,,,
+6/16/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:40PM,Off Peak,8063,Late - 12 mins
+,,Arrive:,Penn Station, 7:59PM,,,
+6/16/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:40PM,Off Peak,8065,Late - 12 mins
+,,Arrive:,Penn Station, 8:59PM,,,
+6/16/2018,Hunt. Hicks.,Depart:,Penn Station, 8:22PM,Off Peak,7734,Partially Canceled
+,,Arrive:,Huntington Station, 9:28PM,,,
+6/16/2018,Port Washington,Depart:,Penn Station, 9:49PM,Off Peak,6488,Late - 12 mins
+,,Arrive:,Port Washington Station,10:35PM,,,
+6/16/2018,Far Rockaway,Depart:,Far Rockaway Station, 9:50PM,Off Peak,8869,Late - 10 mins
+,,Arrive:,Atlantic Terminal,10:42PM,,,
+6/16/2018,Port Washington,Depart:,Port Washington Station,10:42PM,Off Peak,6493,Late - 12 mins
+,,Arrive:,Penn Station,11:27PM,,,
+6/17/2018,Montauk,Depart:,Montauk Station, 7:04AM,Off Peak,8701,Late - 30 mins
+,,Arrive:,Jamaica Station, 9:53AM,,,
+6/17/2018,Montauk,Depart:,Jamaica Station, 7:10AM,Off Peak,8702,Late - 12 mins
+,,Arrive:,Montauk Station, 9:56AM,,,
+6/17/2018,Montauk,Depart:,Jamaica Station, 7:37AM,Off Peak,9702,Late - 19 mins
+,,Arrive:,Southampton College, 9:45AM,,,
+6/17/2018,Montauk,Depart:,Babylon Station, 8:26AM,Off Peak,8730,Late - 12 mins
+,,Arrive:,Speonk Station, 9:31AM,,,
+6/17/2018,Montauk,Depart:,Jamaica Station, 9:03AM,Off Peak,9706,Late - 35 mins
+,,Arrive:,Southampton College,10:52AM,,,
+6/17/2018,Montauk,Depart:,Speonk Station,10:03AM,Off Peak,8735,Late - 15 mins
+,,Arrive:,Babylon Station,11:00AM,,,
+6/17/2018,Montauk,Depart:,Jamaica Station,10:10AM,Off Peak,8706,Late - 99 mins
+,,Arrive:,Montauk Station,12:58PM,,,
+6/17/2018,Babylon,Depart:,Babylon Station,11:05AM,Off Peak,6033,Late - 12 mins
+,,Arrive:,Penn Station,12:07PM,,,
+6/17/2018,Montauk,Depart:,Babylon Station,11:17AM,Off Peak,8762,Late - 12 mins
+,,Arrive:,Patchogue Station,11:47AM,,,
+6/17/2018,Montauk,Depart:,Montauk Station,11:28AM,Off Peak,8703,Late - 75 mins
+,,Arrive:,Jamaica Station, 2:01PM,,,
+6/17/2018,Hunt. Hicks.,Depart:,Huntington Station,12:10PM,Off Peak,7701,Partially Canceled
+,,Arrive:,Penn Station, 1:16PM,,,
+6/17/2018,Port Washington,Depart:,Penn Station,12:49PM,Off Peak,6452,Late - 14 mins
+,,Arrive:,Port Washington Station, 1:35PM,,,
+6/17/2018,Port Washington,Depart:,Port Washington Station, 1:11PM,Off Peak,6455,Late - 11 mins
+,,Arrive:,Penn Station, 1:56PM,,,
+6/17/2018,Montauk,Depart:,Montauk Station, 1:33PM,Off Peak,8705,Canceled
+,,Arrive:,Jamaica Station, 4:09PM,,,
+6/17/2018,Long Beach,Depart:,Penn Station, 1:43PM,Off Peak,6852,Late - 19 mins
+,,Arrive:,Long Beach Station, 2:39PM,,,
+6/17/2018,Montauk,Depart:,Patchogue Station, 4:22PM,Off Peak,8767,Late - 14 mins
+,,Arrive:,Babylon Station, 4:52PM,,,
+6/17/2018,Babylon,Depart:,Babylon Station, 5:20PM,Off Peak,6127,Late - 11 mins
+,,Arrive:,Penn Station, 6:36PM,,,
+6/17/2018,Far Rockaway,Depart:,Far Rockaway Station, 5:50PM,Off Peak,8861,Late - 10 mins
+,,Arrive:,Atlantic Terminal, 6:42PM,,,
+6/17/2018,Oyster Bay,Depart:,Jamaica Station, 5:52PM,Off Peak,6554,Late - 17 mins
+,,Arrive:,Oyster Bay Station, 6:46PM,,,
+6/17/2018,Oyster Bay,Depart:,Oyster Bay Station, 6:00PM,Off Peak,6561,Late - 31 mins
+,,Arrive:,Jamaica Station, 6:57PM,,,
+6/17/2018,Long Beach,Depart:,Long Beach Station, 6:01PM,Off Peak,6899,Late - 10 mins
+,,Arrive:,Penn Station, 6:48PM,,,
+6/17/2018,Babylon,Depart:,Babylon Station, 6:20PM,Off Peak,6131,Late - 10 mins
+,,Arrive:,Penn Station, 7:36PM,,,
+6/17/2018,Montauk,Depart:,Montauk Station, 6:32PM,Off Peak,8717,Late - 25 mins
+,,Arrive:,Penn Station, 9:39PM,,,
+6/17/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:40PM,Off Peak,8063,Late - 16 mins
+,,Arrive:,Penn Station, 7:59PM,,,
+6/17/2018,Montauk,Depart:,Babylon Station, 7:17PM,Off Peak,8776,Late - 17 mins
+,,Arrive:,Patchogue Station, 7:47PM,,,
+6/17/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 8:40PM,Off Peak,8067,Late - 10 mins
+,,Arrive:,Penn Station, 9:59PM,,,
+6/17/2018,Hunt. Hicks.,Depart:,Huntington Station,11:33PM,Off Peak,7747,Late - 13 mins
+,,Arrive:,Penn Station,12:40AM,,,
+6/18/2018,Babylon,Depart:,Penn Station,12:02AM,Off Peak,2,Late - 6 mins
+,,Arrive:,Babylon Station, 1:17AM,,,
+6/18/2018,Port Washington,Depart:,Penn Station, 1:18AM,Off Peak,402,Late - 9 mins
+,,Arrive:,Port Washington Station, 2:04AM,,,
+6/18/2018,Babylon,Depart:,Babylon Station, 5:41AM,AM Peak,17,Late - 9 mins
+,,Arrive:,Penn Station, 6:44AM,,,
+6/18/2018,West Hempstead,Depart:,Atlantic Terminal, 5:52AM,Off Peak,902,Late - 14 mins
+,,Arrive:,West Hempstead Station, 6:38AM,,,
+6/18/2018,Long Beach,Depart:,Long Beach Station, 6:09AM,AM Peak,809,Late - 19 mins
+,,Arrive:,Atlantic Terminal, 7:03AM,,,
+6/18/2018,Far Rockaway,Depart:,Atlantic Terminal, 6:38AM,Off Peak,2810,Late - 19 mins
+,,Arrive:,Far Rockaway Station, 7:34AM,,,
+6/18/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:39AM,AM Peak,2015,Late - 8 mins
+,,Arrive:,Penn Station, 8:00AM,,,
+6/18/2018,Long Beach,Depart:,Atlantic Terminal, 6:48AM,Off Peak,808,Late - 36 mins
+,,Arrive:,Long Beach Station, 7:36AM,,,
+6/18/2018,Babylon,Depart:,Babylon Station, 6:52AM,AM Peak,33,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 7:59AM,,,
+6/18/2018,West Hempstead,Depart:,West Hempstead Station, 6:53AM,AM Peak,903,Late - 12 mins
+,,Arrive:,Atlantic Terminal, 7:41AM,,,
+6/18/2018,Long Beach,Depart:,Long Beach Station, 6:54AM,AM Peak,813,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 7:49AM,,,
+6/18/2018,Babylon,Depart:,Wantagh Station, 6:56AM,AM Peak,1009,Late - 16 mins
+,,Arrive:,Atlantic Terminal, 7:45AM,,,
+6/18/2018,Babylon,Depart:,Massapequa Park Station, 6:59AM,AM Peak,1011,Late - 10 mins
+,,Arrive:,Atlantic Terminal, 7:54AM,,,
+6/18/2018,Montauk,Depart:,Montauk Station, 7:00AM,Off Peak,2705,Late - 10 mins
+,,Arrive:,Hunterspoint Ave., 9:57AM,,,
+6/18/2018,Long Beach,Depart:,Long Beach Station, 7:04AM,AM Peak,815,Late - 8 mins
+,,Arrive:,Penn Station, 7:57AM,,,
+6/18/2018,Far Rockaway,Depart:,Far Rockaway Station, 7:08AM,AM Peak,2815,Late - 6 mins
+,,Arrive:,Penn Station, 8:05AM,,,
+6/18/2018,Babylon,Depart:,Babylon Station, 7:10AM,AM Peak,35,Late - 9 mins
+,,Arrive:,Penn Station, 8:20AM,,,
+6/18/2018,West Hempstead,Depart:,West Hempstead Station, 7:16AM,AM Peak,905,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 8:03AM,,,
+6/18/2018,Far Rockaway,Depart:,Far Rockaway Station, 7:18AM,AM Peak,2817,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 8:11AM,,,
+6/18/2018,Long Beach,Depart:,Long Beach Station, 7:23AM,AM Peak,817,Late - 8 mins
+,,Arrive:,Penn Station, 8:22AM,,,
+6/18/2018,Babylon,Depart:,Wantagh Station, 7:26AM,AM Peak,1015,Late - 8 mins
+,,Arrive:,Penn Station, 8:16AM,,,
+6/18/2018,Long Beach,Depart:,Atlantic Terminal, 7:30AM,Off Peak,812,Late - 12 mins
+,,Arrive:,Long Beach Station, 8:22AM,,,
+6/18/2018,West Hempstead,Depart:,West Hempstead Station, 7:34AM,AM Peak,907,Late - 7 mins
+,,Arrive:,Penn Station, 8:29AM,,,
+6/18/2018,Babylon,Depart:,Babylon Station, 7:35AM,AM Peak,43,Late - 11 mins
+,,Arrive:,Penn Station, 8:48AM,,,
+6/18/2018,Hempstead,Depart:,Hempstead Station, 7:36AM,AM Peak,721,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 8:30AM,,,
+6/18/2018,Far Rockaway,Depart:,Far Rockaway Station, 7:49AM,AM Peak,2821,Late - 26 mins
+,,Arrive:,Penn Station, 8:42AM,,,
+6/18/2018,Long Beach,Depart:,Long Beach Station, 7:56AM,AM Peak,821,Late - 18 mins
+,,Arrive:,Atlantic Terminal, 8:49AM,,,
+6/18/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:57AM,AM Peak,2033,Late - 11 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/18/2018,Ronk. (greenpt.),Depart:,Bethpage Station, 7:58AM,AM Peak,2309,Late - 9 mins
+,,Arrive:,Penn Station, 8:53AM,,,
+6/18/2018,Far Rockaway,Depart:,Valley Stream Station, 8:03AM,AM Peak,2819,Canceled
+,,Arrive:,Penn Station, 8:44AM,,,
+6/18/2018,Babylon,Depart:,Babylon Station, 8:03AM,AM Peak,47,Late - 10 mins
+,,Arrive:,Penn Station, 9:11AM,,,
+6/18/2018,Long Beach,Depart:,Long Beach Station, 8:03AM,AM Peak,823,Canceled
+,,Arrive:,Atlantic Terminal, 8:54AM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Huntington Station, 8:04AM,AM Peak,1631,Late - 11 mins
+,,Arrive:,Penn Station, 9:08AM,,,
+6/18/2018,Long Beach,Depart:,Atlantic Terminal, 8:05AM,Off Peak,814,Late - 7 mins
+,,Arrive:,Long Beach Station, 8:55AM,,,
+6/18/2018,Long Beach,Depart:,Long Beach Station, 8:08AM,AM Peak,825,Late - 27 mins
+,,Arrive:,Penn Station, 9:02AM,,,
+6/18/2018,Far Rockaway,Depart:,Far Rockaway Station, 8:10AM,AM Peak,2823,Canceled
+,,Arrive:,Hunterspoint Ave., 9:04AM,,,
+6/18/2018,Far Rockaway,Depart:,Far Rockaway Station, 8:21AM,AM Peak,2825,Late - 17 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/18/2018,West Hempstead,Depart:,West Hempstead Station, 8:28AM,AM Peak,909,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 9:16AM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Huntington Station, 8:55AM,Off Peak,1633,Late - 10 mins
+,,Arrive:,Penn Station,10:05AM,,,
+6/18/2018,Montauk,Depart:,Babylon Station, 8:57AM,Off Peak,2704,Late - 15 mins
+,,Arrive:,Montauk Station,10:57AM,,,
+6/18/2018,Long Beach,Depart:,Long Beach Station, 8:58AM,AM Peak,829,Late - 6 mins
+,,Arrive:,Penn Station, 9:53AM,,,
+6/18/2018,Ronk. (greenpt.),Depart:,Penn Station, 9:15AM,Off Peak,2012,Late - 9 mins
+,,Arrive:,Ronkonkoma Station,10:37AM,,,
+6/18/2018,Long Beach,Depart:,Long Beach Station, 9:21AM,Off Peak,899,Late - 9 mins
+,,Arrive:,Penn Station,10:11AM,,,
+6/18/2018,Montauk,Depart:,Patchogue Station, 9:31AM,Off Peak,2765,Late - 13 mins
+,,Arrive:,Babylon Station,10:01AM,,,
+6/18/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 9:41AM,Off Peak,2037,Late - 6 mins
+,,Arrive:,Penn Station,11:02AM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Penn Station, 9:45AM,Off Peak,1618,Late - 10 mins
+,,Arrive:,Huntington Station,10:54AM,,,
+6/18/2018,Montauk,Depart:,Jamaica Station,11:25AM,Off Peak,2706,Late - 15 mins
+,,Arrive:,Montauk Station, 2:15PM,,,
+6/18/2018,Far Rockaway,Depart:,Atlantic Terminal,12:36PM,Off Peak,2850,Late - 6 mins
+,,Arrive:,Far Rockaway Station, 1:32PM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Penn Station,12:47PM,Off Peak,1702,Late - 7 mins
+,,Arrive:,Huntington Station, 1:56PM,,,
+6/18/2018,Babylon,Depart:,Penn Station, 1:06PM,Off Peak,108,Late - 8 mins
+,,Arrive:,Babylon Station, 2:21PM,,,
+6/18/2018,Babylon,Depart:,Penn Station, 1:23PM,Off Peak,110,Late - 8 mins
+,,Arrive:,Babylon Station, 2:24PM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Penn Station, 1:50PM,Off Peak,1706,Late - 7 mins
+,,Arrive:,Huntington Station, 2:57PM,,,
+6/18/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/18/2018,Montauk,Depart:,Babylon Station, 2:27PM,Off Peak,2770,Late - 8 mins
+,,Arrive:,Patchogue Station, 2:57PM,,,
+6/18/2018,Montauk,Depart:,Montauk Station, 2:48PM,Off Peak,2709,Late - 6 mins
+,,Arrive:,Jamaica Station, 5:50PM,,,
+6/18/2018,Babylon,Depart:,Babylon Station, 3:06PM,Off Peak,119,Late - 10 mins
+,,Arrive:,Penn Station, 4:22PM,,,
+6/18/2018,Port Washington,Depart:,Port Washington Station, 3:41PM,Off Peak,457,Late - 8 mins
+,,Arrive:,Penn Station, 4:25PM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Penn Station, 4:01PM,Off Peak,1718,Late - 7 mins
+,,Arrive:,Huntington Station, 5:07PM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Huntington Station, 4:05PM,Off Peak,1713,Late - 6 mins
+,,Arrive:,Penn Station, 5:14PM,,,
+6/18/2018,Montauk,Depart:,Babylon Station, 4:28PM,Off Peak,2774,Late - 9 mins
+,,Arrive:,Patchogue Station, 4:58PM,,,
+6/18/2018,Montauk,Depart:,Hunterspoint Ave., 4:30PM,PM Peak,2712,Late - 57 mins
+,,Arrive:,Montauk Station, 7:34PM,,,
+6/18/2018,Oyster Bay,Depart:,Long Island City, 4:44PM,PM Peak,560,Late - 7 mins
+,,Arrive:,Oyster Bay Station, 6:15PM,,,
+6/18/2018,Montauk,Depart:,Penn Station, 5:10PM,PM Peak,2740,Late - 8 mins
+,,Arrive:,Speonk Station, 7:13PM,,,
+6/18/2018,Port Washington,Depart:,Penn Station, 7:02PM,PM Peak,460,Partially Canceled
+,,Arrive:,Port Washington Station, 7:37PM,,,
+6/18/2018,Port Washington,Depart:,Penn Station, 7:28PM,PM Peak,462,Late - 8 mins
+,,Arrive:,Port Washington Station, 8:04PM,,,
+6/18/2018,Port Washington,Depart:,Port Washington Station, 7:39PM,Off Peak,471,Partially Canceled
+,,Arrive:,Penn Station, 8:24PM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Penn Station, 7:55PM,PM Peak,1742,Late - 10 mins
+,,Arrive:,Huntington Station, 9:02PM,,,
+6/18/2018,Hempstead,Depart:,Hempstead Station, 8:01PM,Off Peak,771,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 8:51PM,,,
+6/18/2018,Port Jefferson,Depart:,Port Jefferson Station, 8:34PM,Off Peak,659,Late - 12 mins
+,,Arrive:,Huntington Station, 9:21PM,,,
+6/18/2018,Port Jefferson,Depart:,Huntington Station, 8:34PM,PM Peak,670,Late - 12 mins
+,,Arrive:,Port Jefferson Station, 9:20PM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Penn Station, 8:43PM,Off Peak,1744,Late - 7 mins
+,,Arrive:,Huntington Station, 9:47PM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Huntington Station, 9:29PM,Off Peak,1725,Late - 14 mins
+,,Arrive:,Penn Station,10:32PM,,,
+6/18/2018,Ronk. (greenpt.),Depart:,Greenport Station, 9:39PM,Off Peak,257,Late - 13 mins
+,,Arrive:,Ronkonkoma Station,11:02PM,,,
+6/18/2018,Hunt. Hicks.,Depart:,Huntington Station,10:00PM,Off Peak,1727,Late - 7 mins
+,,Arrive:,Penn Station,11:06PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15AM,Off Peak,2000,Late - 6 mins
+,,Arrive:,Ronkonkoma Station, 1:36AM,,,
+6/19/2018,Babylon,Depart:,Penn Station, 4:55AM,Off Peak,12,Late - 7 mins
+,,Arrive:,Babylon Station, 6:08AM,,,
+6/19/2018,Montauk,Depart:,Montauk Station, 5:39AM,AM Peak,2703,Late - 9 mins
+,,Arrive:,Long Island City, 8:44AM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:57AM,AM Peak,2033,Late - 6 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/19/2018,Babylon,Depart:,Freeport Station, 8:10AM,AM Peak,1105,Late - 6 mins
+,,Arrive:,Penn Station, 8:50AM,,,
+6/19/2018,Port Washington,Depart:,Port Washington Station, 8:45AM,AM Peak,429,Late - 6 mins
+,,Arrive:,Penn Station, 9:20AM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 9:40AM,Off Peak,2315,Late - 6 mins
+,,Arrive:,Penn Station,10:40AM,,,
+6/19/2018,Hunt. Hicks.,Depart:,Penn Station, 9:45AM,Off Peak,1618,Late - 10 mins
+,,Arrive:,Huntington Station,10:54AM,,,
+6/19/2018,Hunt. Hicks.,Depart:,Huntington Station,10:24AM,Off Peak,1635,Late - 6 mins
+,,Arrive:,Penn Station,11:34AM,,,
+6/19/2018,Far Rockaway,Depart:,Far Rockaway Station,10:36AM,Off Peak,2831,Late - 7 mins
+,,Arrive:,Atlantic Terminal,11:33AM,,,
+6/19/2018,Port Jefferson,Depart:,Hicksville Station,12:03PM,Off Peak,650,Late - 11 mins
+,,Arrive:,Port Jefferson Station, 1:13PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 14 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/19/2018,Port Jefferson,Depart:,Port Jefferson Station,12:31PM,Off Peak,651,Late - 8 mins
+,,Arrive:,Huntington Station, 1:17PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,12:41PM,Off Peak,2051,Late - 22 mins
+,,Arrive:,Penn Station, 2:02PM,,,
+6/19/2018,Babylon,Depart:,Babylon Station,12:48PM,Off Peak,107,Late - 23 mins
+,,Arrive:,Penn Station, 2:05PM,,,
+6/19/2018,Babylon,Depart:,Penn Station, 1:06PM,Off Peak,108,Late - 8 mins
+,,Arrive:,Babylon Station, 2:21PM,,,
+6/19/2018,Long Beach,Depart:,Long Beach Station, 1:09PM,Off Peak,853,Late - 16 mins
+,,Arrive:,Penn Station, 1:59PM,,,
+6/19/2018,Babylon,Depart:,Babylon Station, 1:15PM,Off Peak,109,Late - 6 mins
+,,Arrive:,Penn Station, 2:29PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/19/2018,Babylon,Depart:,Penn Station, 1:23PM,Off Peak,110,Late - 7 mins
+,,Arrive:,Babylon Station, 2:24PM,,,
+6/19/2018,Hunt. Hicks.,Depart:,Huntington Station, 1:24PM,Off Peak,1701,Late - 10 mins
+,,Arrive:,Penn Station, 2:34PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:41PM,Off Peak,2053,Late - 9 mins
+,,Arrive:,Penn Station, 3:02PM,,,
+6/19/2018,Hunt. Hicks.,Depart:,Penn Station, 1:50PM,Off Peak,1706,Late - 13 mins
+,,Arrive:,Huntington Station, 2:57PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/19/2018,Far Rockaway,Depart:,Jamaica Station, 2:20PM,Off Peak,1353,Late - 11 mins
+,,Arrive:,Penn Station, 2:39PM,,,
+6/19/2018,Hunt. Hicks.,Depart:,Huntington Station, 2:24PM,Off Peak,1705,Late - 9 mins
+,,Arrive:,Penn Station, 3:34PM,,,
+6/19/2018,Montauk,Depart:,Babylon Station, 2:27PM,Off Peak,2770,Late - 7 mins
+,,Arrive:,Patchogue Station, 2:57PM,,,
+6/19/2018,Far Rockaway,Depart:,Far Rockaway Station, 2:36PM,Off Peak,2855,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 3:33PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 2:41PM,Off Peak,2055,Late - 7 mins
+,,Arrive:,Penn Station, 4:03PM,,,
+6/19/2018,Montauk,Depart:,Montauk Station, 2:48PM,Off Peak,2709,Late - 7 mins
+,,Arrive:,Jamaica Station, 5:50PM,,,
+6/19/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 18 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 3:11PM,Off Peak,2057,Late - 8 mins
+,,Arrive:,Penn Station, 4:34PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 4:09PM,Off Peak,2059,Late - 6 mins
+,,Arrive:,Penn Station, 5:39PM,,,
+6/19/2018,Montauk,Depart:,Long Island City, 4:28PM,PM Peak,2778,Late - 14 mins
+,,Arrive:,Patchogue Station, 6:14PM,,,
+6/19/2018,Babylon,Depart:,Babylon Station, 4:39PM,Off Peak,131,Late - 8 mins
+,,Arrive:,Penn Station, 5:53PM,,,
+6/19/2018,Oyster Bay,Depart:,Long Island City, 4:44PM,PM Peak,560,Late - 8 mins
+,,Arrive:,Oyster Bay Station, 6:15PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 4:48PM,Off Peak,2061,Late - 10 mins
+,,Arrive:,Penn Station, 6:10PM,,,
+6/19/2018,Port Jefferson,Depart:,Penn Station, 4:50PM,PM Peak,660,Late - 32 mins
+,,Arrive:,Port Jefferson Station, 6:36PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Penn Station, 5:02PM,PM Peak,2064,Late - 17 mins
+,,Arrive:,Ronkonkoma Station, 6:21PM,,,
+6/19/2018,Montauk,Depart:,Penn Station, 5:10PM,PM Peak,2740,Late - 10 mins
+,,Arrive:,Speonk Station, 7:13PM,,,
+6/19/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:11PM,Off Peak,1715,Late - 6 mins
+,,Arrive:,Penn Station, 6:21PM,,,
+6/19/2018,Port Jefferson,Depart:,Hunterspoint Ave., 5:12PM,PM Peak,662,Late - 12 mins
+,,Arrive:,Port Jefferson Station, 7:00PM,,,
+6/19/2018,Long Beach,Depart:,Long Beach Station, 5:14PM,Off Peak,865,Late - 12 mins
+,,Arrive:,Penn Station, 6:05PM,,,
+6/19/2018,Port Washington,Depart:,Port Washington Station, 5:23PM,Off Peak,465,Late - 11 mins
+,,Arrive:,Penn Station, 6:02PM,,,
+6/19/2018,Babylon,Depart:,Babylon Station, 5:35PM,Off Peak,133,Late - 7 mins
+,,Arrive:,Penn Station, 6:54PM,,,
+6/19/2018,Babylon,Depart:,Penn Station, 5:37PM,PM Peak,156,Late - 11 mins
+,,Arrive:,Babylon Station, 6:42PM,,,
+6/19/2018,Babylon,Depart:,Penn Station, 5:41PM,PM Peak,1062,Late - 15 mins
+,,Arrive:,Seaford Station, 6:32PM,,,
+6/19/2018,Long Beach,Depart:,Atlantic Terminal, 5:41PM,PM Peak,874,Late - 7 mins
+,,Arrive:,Long Beach Station, 6:32PM,,,
+6/19/2018,Babylon,Depart:,Atlantic Terminal, 5:44PM,PM Peak,158,Late - 14 mins
+,,Arrive:,Babylon Station, 6:56PM,,,
+6/19/2018,Port Washington,Depart:,Great Neck Station, 5:44PM,Off Peak,351,Late - 8 mins
+,,Arrive:,Penn Station, 6:17PM,,,
+6/19/2018,Hempstead,Depart:,Atlantic Terminal, 5:47PM,PM Peak,766,Late - 10 mins
+,,Arrive:,Hempstead Station, 6:36PM,,,
+6/19/2018,Babylon,Depart:,Penn Station, 5:48PM,PM Peak,1156,Late - 16 mins
+,,Arrive:,Freeport Station, 6:31PM,,,
+6/19/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 11 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/19/2018,Babylon,Depart:,Penn Station, 6:00PM,PM Peak,160,Late - 15 mins
+,,Arrive:,Babylon Station, 7:03PM,,,
+6/19/2018,Babylon,Depart:,Penn Station, 6:06PM,PM Peak,1064,Canceled
+,,Arrive:,Wantagh Station, 6:51PM,,,
+6/19/2018,Babylon,Depart:,Babylon Station, 6:07PM,Off Peak,137,Late - 10 mins
+,,Arrive:,Penn Station, 7:19PM,,,
+6/19/2018,Port Washington,Depart:,Penn Station, 6:12PM,PM Peak,456,Late - 11 mins
+,,Arrive:,Port Washington Station, 6:48PM,,,
+6/19/2018,Port Washington,Depart:,Penn Station, 6:15PM,PM Peak,366,Late - 11 mins
+,,Arrive:,Great Neck Station, 6:50PM,,,
+6/19/2018,Montauk,Depart:,Jamaica Station, 6:17PM,PM Peak,2716,Late - 8 mins
+,,Arrive:,Montauk Station, 9:07PM,,,
+6/19/2018,Oyster Bay,Depart:,Penn Station, 6:17PM,PM Peak,564,Late - 8 mins
+,,Arrive:,Oyster Bay Station, 7:32PM,,,
+6/19/2018,Port Washington,Depart:,Penn Station, 6:25PM,PM Peak,458,Late - 11 mins
+,,Arrive:,Port Washington Station, 7:06PM,,,
+6/19/2018,Montauk,Depart:,Patchogue Station, 6:30PM,Off Peak,2777,Late - 14 mins
+,,Arrive:,Babylon Station, 7:03PM,,,
+6/19/2018,Port Washington,Depart:,Penn Station, 7:02PM,PM Peak,460,Late - 10 mins
+,,Arrive:,Port Washington Station, 7:37PM,,,
+6/19/2018,Port Washington,Depart:,Port Washington Station, 7:09PM,Off Peak,469,Late - 9 mins
+,,Arrive:,Penn Station, 7:53PM,,,
+6/19/2018,Hempstead,Depart:,Hempstead Station, 8:01PM,Off Peak,771,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 8:51PM,,,
+6/19/2018,Babylon,Depart:,Penn Station, 8:37PM,Off Peak,180,Late - 8 mins
+,,Arrive:,Babylon Station, 9:54PM,,,
+6/19/2018,Hunt. Hicks.,Depart:,Penn Station, 8:43PM,Off Peak,1744,Late - 10 mins
+,,Arrive:,Huntington Station, 9:47PM,,,
+6/19/2018,Montauk,Depart:,Jamaica Station, 8:53PM,Off Peak,2720,Late - 15 mins
+,,Arrive:,Montauk Station,11:46PM,,,
+6/19/2018,Oyster Bay,Depart:,Jamaica Station, 9:07PM,Off Peak,570,Late - 10 mins
+,,Arrive:,Oyster Bay Station,10:01PM,,,
+6/19/2018,Port Jefferson,Depart:,Port Jefferson Station, 9:41PM,Off Peak,663,Partially Canceled
+,,Arrive:,Hicksville Station,10:46PM,,,
+6/19/2018,Port Jefferson,Depart:,Huntington Station, 9:55PM,Off Peak,672,Late - 11 mins
+,,Arrive:,Port Jefferson Station,10:42PM,,,
+6/19/2018,Port Washington,Depart:,Port Washington Station,10:38PM,Off Peak,483,Late - 9 mins
+,,Arrive:,Penn Station,11:22PM,,,
+6/19/2018,Far Rockaway,Depart:,Far Rockaway Station,10:40PM,Off Peak,2875,Late - 11 mins
+,,Arrive:,Atlantic Terminal,11:38PM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Penn Station,10:43PM,Off Peak,2098,Late - 10 mins
+,,Arrive:,Ronkonkoma Station,12:05AM,,,
+6/19/2018,Babylon,Depart:,Penn Station,10:46PM,Off Peak,192,Late - 8 mins
+,,Arrive:,Babylon Station,12:01AM,,,
+6/19/2018,Ronk. (greenpt.),Depart:,Penn Station,11:15PM,Off Peak,2092,Late - 10 mins
+,,Arrive:,Ronkonkoma Station,12:37AM,,,
+6/19/2018,Port Jefferson,Depart:,Hicksville Station,11:31PM,Off Peak,676,Canceled
+,,Arrive:,Port Jefferson Station,12:35AM,,,
+6/19/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 13 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/20/2018,Montauk,Depart:,Montauk Station, 1:00AM,Off Peak,2701,Late - 14 mins
+,,Arrive:,Babylon Station, 3:16AM,,,
+6/20/2018,Montauk,Depart:,Jamaica Station, 1:10AM,Off Peak,2702,Late - 16 mins
+,,Arrive:,Montauk Station, 3:57AM,,,
+6/20/2018,Hunt. Hicks.,Depart:,Huntington Station, 1:36AM,Off Peak,1605,Late - 8 mins
+,,Arrive:,Penn Station, 2:43AM,,,
+6/20/2018,Oyster Bay,Depart:,Jamaica Station, 1:39AM,Off Peak,500,Late - 21 mins
+,,Arrive:,Oyster Bay Station, 2:35AM,,,
+6/20/2018,Babylon,Depart:,Penn Station, 1:43AM,Off Peak,6,Late - 34 mins
+,,Arrive:,Babylon Station, 3:00AM,,,
+6/20/2018,Hempstead,Depart:,Atlantic Terminal, 1:43AM,Off Peak,702,Late - 16 mins
+,,Arrive:,Hempstead Station, 2:34AM,,,
+6/20/2018,Babylon,Depart:,Babylon Station, 3:21AM,Off Peak,7,Late - 15 mins
+,,Arrive:,Penn Station, 4:18AM,,,
+6/20/2018,Babylon,Depart:,Babylon Station, 3:35AM,Off Peak,9,Late - 13 mins
+,,Arrive:,Penn Station, 4:49AM,,,
+6/20/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:38AM,Off Peak,1607,Late - 8 mins
+,,Arrive:,Penn Station, 4:42AM,,,
+6/20/2018,Babylon,Depart:,Penn Station, 4:55AM,Off Peak,12,Late - 13 mins
+,,Arrive:,Babylon Station, 6:08AM,,,
+6/20/2018,Hunt. Hicks.,Depart:,Jamaica Station, 5:16AM,Off Peak,1606,Late - 9 mins
+,,Arrive:,Huntington Station, 6:01AM,,,
+6/20/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:57AM,AM Peak,2033,Late - 8 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/20/2018,Babylon,Depart:,Babylon Station, 8:03AM,AM Peak,47,Late - 10 mins
+,,Arrive:,Penn Station, 9:11AM,,,
+6/20/2018,Far Rockaway,Depart:,Far Rockaway Station, 8:21AM,AM Peak,2825,Late - 8 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/20/2018,West Hempstead,Depart:,West Hempstead Station, 8:28AM,AM Peak,909,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 9:16AM,,,
+6/20/2018,Babylon,Depart:,Penn Station, 9:36AM,Off Peak,36,Late - 9 mins
+,,Arrive:,Babylon Station,10:53AM,,,
+6/20/2018,Babylon,Depart:,Babylon Station, 9:48AM,Off Peak,57,Late - 6 mins
+,,Arrive:,Penn Station,11:05AM,,,
+6/20/2018,Montauk,Depart:,Patchogue Station,10:25AM,Off Peak,2767,Late - 11 mins
+,,Arrive:,Babylon Station,10:55AM,,,
+6/20/2018,Babylon,Depart:,Penn Station,10:36AM,Off Peak,44,Late - 9 mins
+,,Arrive:,Babylon Station,11:53AM,,,
+6/20/2018,Montauk,Depart:,Jamaica Station,11:25AM,Off Peak,2706,Late - 12 mins
+,,Arrive:,Montauk Station, 2:15PM,,,
+6/20/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/20/2018,Babylon,Depart:,Penn Station, 1:06PM,Off Peak,108,Late - 10 mins
+,,Arrive:,Babylon Station, 2:21PM,,,
+6/20/2018,Babylon,Depart:,Penn Station, 1:23PM,Off Peak,110,Late - 10 mins
+,,Arrive:,Babylon Station, 2:24PM,,,
+6/20/2018,Montauk,Depart:,Patchogue Station, 1:25PM,Off Peak,2771,Late - 12 mins
+,,Arrive:,Babylon Station, 1:55PM,,,
+6/20/2018,Babylon,Depart:,Babylon Station, 2:00PM,Off Peak,113,Canceled
+,,Arrive:,Penn Station, 3:08PM,,,
+6/20/2018,Hempstead,Depart:,Hempstead Station, 2:11PM,Off Peak,755,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 3:03PM,,,
+6/20/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/20/2018,Montauk,Depart:,Babylon Station, 2:27PM,Off Peak,2770,Late - 14 mins
+,,Arrive:,Patchogue Station, 2:57PM,,,
+6/20/2018,Montauk,Depart:,Jamaica Station, 3:02PM,Off Peak,2772,Late - 8 mins
+,,Arrive:,Patchogue Station, 4:10PM,,,
+6/20/2018,Babylon,Depart:,Babylon Station, 4:08PM,Off Peak,127,Late - 6 mins
+,,Arrive:,Penn Station, 5:23PM,,,
+6/20/2018,Oyster Bay,Depart:,Oyster Bay Station, 4:20PM,Off Peak,555,Late - 11 mins
+,,Arrive:,Jamaica Station, 5:15PM,,,
+6/20/2018,Babylon,Depart:,Babylon Station, 4:35PM,Off Peak,129,Late - 13 mins
+,,Arrive:,Penn Station, 5:35PM,,,
+6/20/2018,Babylon,Depart:,Babylon Station, 4:39PM,Off Peak,131,Late - 6 mins
+,,Arrive:,Penn Station, 5:53PM,,,
+6/20/2018,Babylon,Depart:,Atlantic Terminal, 4:40PM,PM Peak,146,Late - 7 mins
+,,Arrive:,Babylon Station, 5:52PM,,,
+6/20/2018,Babylon,Depart:,Penn Station, 4:53PM,PM Peak,148,Late - 8 mins
+,,Arrive:,Babylon Station, 5:55PM,,,
+6/20/2018,Hempstead,Depart:,Hempstead Station, 4:53PM,Off Peak,761,Late - 11 mins
+,,Arrive:,Atlantic Terminal, 5:49PM,,,
+6/20/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:11PM,Off Peak,1715,Late - 7 mins
+,,Arrive:,Penn Station, 6:21PM,,,
+6/20/2018,Babylon,Depart:,Atlantic Terminal, 5:24PM,PM Peak,154,Canceled
+,,Arrive:,Babylon Station, 6:36PM,,,
+6/20/2018,Babylon,Depart:,Penn Station, 5:41PM,PM Peak,1062,Late - 8 mins
+,,Arrive:,Seaford Station, 6:32PM,,,
+6/20/2018,Babylon,Depart:,Penn Station, 5:48PM,PM Peak,1156,Late - 9 mins
+,,Arrive:,Freeport Station, 6:31PM,,,
+6/20/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 8 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/20/2018,Port Washington,Depart:,Penn Station, 6:12PM,PM Peak,456,Late - 8 mins
+,,Arrive:,Port Washington Station, 6:48PM,,,
+6/20/2018,Babylon,Depart:,Babylon Station, 6:39PM,Off Peak,139,Late - 7 mins
+,,Arrive:,Penn Station, 7:50PM,,,
+6/20/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 16 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/20/2018,Long Beach,Depart:,Long Beach Station, 6:57PM,Off Peak,869,Late - 9 mins
+,,Arrive:,Penn Station, 7:47PM,,,
+6/20/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 7:00PM,Off Peak,2355,Late - 8 mins
+,,Arrive:,Penn Station, 7:56PM,,,
+6/20/2018,Port Washington,Depart:,Port Washington Station, 7:09PM,Off Peak,469,Late - 8 mins
+,,Arrive:,Penn Station, 7:53PM,,,
+6/20/2018,Hempstead,Depart:,Atlantic Terminal, 7:10PM,PM Peak,774,Late - 9 mins
+,,Arrive:,Hempstead Station, 7:57PM,,,
+6/20/2018,Hunt. Hicks.,Depart:,Penn Station, 9:43PM,Off Peak,1746,Late - 7 mins
+,,Arrive:,Huntington Station,10:51PM,,,
+6/20/2018,Oyster Bay,Depart:,Jamaica Station,10:11PM,Off Peak,572,Late - 9 mins
+,,Arrive:,Oyster Bay Station,11:04PM,,,
+6/20/2018,Babylon,Depart:,Penn Station,10:46PM,Off Peak,192,Late - 7 mins
+,,Arrive:,Babylon Station,12:01AM,,,
+6/21/2018,Far Rockaway,Depart:,Far Rockaway Station,12:42AM,Off Peak,2801,Late - 11 mins
+,,Arrive:,Atlantic Terminal, 1:40AM,,,
+6/21/2018,Montauk,Depart:,Jamaica Station, 1:10AM,Off Peak,2702,Late - 88 mins
+,,Arrive:,Montauk Station, 3:57AM,,,
+6/21/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 4:58AM,AM Peak,2007,Late - 7 mins
+,,Arrive:,Penn Station, 6:19AM,,,
+6/21/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:27AM,AM Peak,1611,Late - 9 mins
+,,Arrive:,Penn Station, 6:35AM,,,
+6/21/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:29AM,AM Peak,2009,Late - 7 mins
+,,Arrive:,Penn Station, 6:38AM,,,
+6/21/2018,Montauk,Depart:,Montauk Station, 5:39AM,AM Peak,2703,Late - 11 mins
+,,Arrive:,Long Island City, 8:44AM,,,
+6/21/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:46AM,AM Peak,1615,Late - 6 mins
+,,Arrive:,Penn Station, 6:41AM,,,
+6/21/2018,Oyster Bay,Depart:,Oyster Bay Station, 7:41AM,AM Peak,509,Late - 7 mins
+,,Arrive:,Hunterspoint Ave., 8:55AM,,,
+6/21/2018,Long Beach,Depart:,Long Beach Station, 8:08AM,AM Peak,825,Late - 6 mins
+,,Arrive:,Penn Station, 9:02AM,,,
+6/21/2018,Montauk,Depart:,Babylon Station, 8:57AM,Off Peak,2704,Late - 22 mins
+,,Arrive:,Montauk Station,10:57AM,,,
+6/21/2018,Hempstead,Depart:,Hempstead Station,10:11AM,Off Peak,731,Late - 26 mins
+,,Arrive:,Atlantic Terminal,11:03AM,,,
+6/21/2018,Far Rockaway,Depart:,Far Rockaway Station,10:36AM,Off Peak,2831,Late - 13 mins
+,,Arrive:,Atlantic Terminal,11:33AM,,,
+6/21/2018,Hempstead,Depart:,Atlantic Terminal,11:06AM,Off Peak,716,Late - 25 mins
+,,Arrive:,Hempstead Station,11:58AM,,,
+6/21/2018,Hempstead,Depart:,Hempstead Station,11:11AM,Off Peak,733,Late - 39 mins
+,,Arrive:,Atlantic Terminal,12:03PM,,,
+6/21/2018,Montauk,Depart:,Montauk Station,11:18AM,Off Peak,2707,Late - 7 mins
+,,Arrive:,Jamaica Station, 2:15PM,,,
+6/21/2018,Montauk,Depart:,Jamaica Station,11:25AM,Off Peak,2706,Partially Canceled
+,,Arrive:,Montauk Station, 2:15PM,,,
+6/21/2018,Hempstead,Depart:,Hempstead Station,12:11PM,Off Peak,751,Late - 19 mins
+,,Arrive:,Atlantic Terminal, 1:03PM,,,
+6/21/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 8 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/21/2018,Babylon,Depart:,Penn Station, 1:06PM,Off Peak,108,Late - 13 mins
+,,Arrive:,Babylon Station, 2:21PM,,,
+6/21/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/21/2018,Babylon,Depart:,Penn Station, 1:23PM,Off Peak,110,Late - 12 mins
+,,Arrive:,Babylon Station, 2:24PM,,,
+6/21/2018,Babylon,Depart:,Penn Station, 1:36PM,Off Peak,114,Late - 8 mins
+,,Arrive:,Babylon Station, 2:53PM,,,
+6/21/2018,Babylon,Depart:,Babylon Station, 1:48PM,Off Peak,111,Late - 6 mins
+,,Arrive:,Penn Station, 3:05PM,,,
+6/21/2018,Babylon,Depart:,Babylon Station, 2:00PM,Off Peak,113,Late - 8 mins
+,,Arrive:,Penn Station, 3:08PM,,,
+6/21/2018,Babylon,Depart:,Babylon Station, 2:15PM,Off Peak,115,Late - 11 mins
+,,Arrive:,Penn Station, 3:29PM,,,
+6/21/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/21/2018,Hunt. Hicks.,Depart:,Penn Station, 2:27PM,Off Peak,1250,Late - 9 mins
+,,Arrive:,Hicksville Station, 3:14PM,,,
+6/21/2018,Montauk,Depart:,Babylon Station, 2:27PM,Off Peak,2770,Late - 12 mins
+,,Arrive:,Patchogue Station, 2:57PM,,,
+6/21/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 2:41PM,Off Peak,2055,Late - 9 mins
+,,Arrive:,Penn Station, 4:03PM,,,
+6/21/2018,Montauk,Depart:,Montauk Station, 2:48PM,Off Peak,2709,Partially Canceled
+,,Arrive:,Jamaica Station, 5:50PM,,,
+6/21/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 11 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/21/2018,Babylon,Depart:,Babylon Station, 3:06PM,Off Peak,119,Late - 8 mins
+,,Arrive:,Penn Station, 4:22PM,,,
+6/21/2018,Hempstead,Depart:,Hempstead Station, 3:11PM,Off Peak,757,Partially Canceled
+,,Arrive:,Atlantic Terminal, 4:03PM,,,
+6/21/2018,Far Rockaway,Depart:,Atlantic Terminal, 3:37PM,Off Peak,2856,Late - 6 mins
+,,Arrive:,Far Rockaway Station, 4:33PM,,,
+6/21/2018,Long Beach,Depart:,Long Beach Station, 4:02PM,Off Peak,861,Late - 8 mins
+,,Arrive:,Penn Station, 5:00PM,,,
+6/21/2018,Hempstead,Depart:,Hempstead Station, 4:04PM,Off Peak,759,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 4:52PM,,,
+6/21/2018,Hunt. Hicks.,Depart:,Huntington Station, 4:05PM,Off Peak,1713,Late - 6 mins
+,,Arrive:,Penn Station, 5:14PM,,,
+6/21/2018,Babylon,Depart:,Babylon Station, 4:06PM,Off Peak,125,Late - 6 mins
+,,Arrive:,Penn Station, 5:05PM,,,
+6/21/2018,Port Washington,Depart:,Port Washington Station, 4:06PM,Off Peak,459,Late - 8 mins
+,,Arrive:,Penn Station, 4:50PM,,,
+6/21/2018,Babylon,Depart:,Babylon Station, 4:08PM,Off Peak,127,Late - 11 mins
+,,Arrive:,Penn Station, 5:23PM,,,
+6/21/2018,Long Beach,Depart:,Penn Station, 4:16PM,PM Peak,864,Late - 7 mins
+,,Arrive:,Long Beach Station, 5:08PM,,,
+6/21/2018,West Hempstead,Depart:,Atlantic Terminal, 4:21PM,PM Peak,956,Late - 7 mins
+,,Arrive:,West Hempstead Station, 5:06PM,,,
+6/21/2018,Port Washington,Depart:,Port Washington Station, 4:36PM,Off Peak,461,Late - 10 mins
+,,Arrive:,Penn Station, 5:20PM,,,
+6/21/2018,Oyster Bay,Depart:,Long Island City, 4:44PM,PM Peak,560,Late - 8 mins
+,,Arrive:,Oyster Bay Station, 6:15PM,,,
+6/21/2018,Babylon,Depart:,Penn Station, 4:58PM,PM Peak,1056,Canceled
+,,Arrive:,Wantagh Station, 5:42PM,,,
+6/21/2018,Montauk,Depart:,Penn Station, 5:10PM,PM Peak,2740,Late - 9 mins
+,,Arrive:,Speonk Station, 7:13PM,,,
+6/21/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:11PM,Off Peak,1715,Late - 6 mins
+,,Arrive:,Penn Station, 6:21PM,,,
+6/21/2018,Port Washington,Depart:,Penn Station, 5:12PM,PM Peak,448,Canceled
+,,Arrive:,Port Washington Station, 5:47PM,,,
+6/21/2018,Long Beach,Depart:,Long Beach Station, 5:14PM,Off Peak,865,Late - 13 mins
+,,Arrive:,Penn Station, 6:05PM,,,
+6/21/2018,Babylon,Depart:,Penn Station, 5:20PM,PM Peak,1060,Canceled
+,,Arrive:,Wantagh Station, 6:06PM,,,
+6/21/2018,Babylon,Depart:,Atlantic Terminal, 5:24PM,PM Peak,154,Late - 6 mins
+,,Arrive:,Babylon Station, 6:36PM,,,
+6/21/2018,Long Beach,Depart:,Penn Station, 5:24PM,PM Peak,872,Late - 9 mins
+,,Arrive:,Long Beach Station, 6:18PM,,,
+6/21/2018,Babylon,Depart:,Penn Station, 5:25PM,PM Peak,1154,Late - 8 mins
+,,Arrive:,Freeport Station, 6:10PM,,,
+6/21/2018,Port Washington,Depart:,Penn Station, 5:27PM,PM Peak,452,Canceled
+,,Arrive:,Port Washington Station, 6:04PM,,,
+6/21/2018,Hunt. Hicks.,Depart:,Atlantic Terminal, 5:30PM,PM Peak,1728,Late - 11 mins
+,,Arrive:,Huntington Station, 6:28PM,,,
+6/21/2018,Port Washington,Depart:,Penn Station, 5:30PM,PM Peak,360,Late - 9 mins
+,,Arrive:,Great Neck Station, 6:05PM,,,
+6/21/2018,Hunt. Hicks.,Depart:,Penn Station, 5:34PM,PM Peak,1256,Late - 7 mins
+,,Arrive:,Cold Spring Harbor Sta., 6:46PM,,,
+6/21/2018,Hunt. Hicks.,Depart:,Penn Station, 5:36PM,PM Peak,1730,Late - 9 mins
+,,Arrive:,Huntington Station, 6:34PM,,,
+6/21/2018,West Hempstead,Depart:,Atlantic Terminal, 5:36PM,PM Peak,960,Late - 11 mins
+,,Arrive:,West Hempstead Station, 6:22PM,,,
+6/21/2018,Babylon,Depart:,Penn Station, 5:37PM,PM Peak,156,Late - 9 mins
+,,Arrive:,Babylon Station, 6:42PM,,,
+6/21/2018,Babylon,Depart:,Penn Station, 5:41PM,PM Peak,1062,Canceled
+,,Arrive:,Seaford Station, 6:32PM,,,
+6/21/2018,Babylon,Depart:,Penn Station, 5:48PM,PM Peak,1156,Late - 7 mins
+,,Arrive:,Freeport Station, 6:31PM,,,
+6/21/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 21 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/21/2018,Port Washington,Depart:,Penn Station, 6:12PM,PM Peak,456,Late - 9 mins
+,,Arrive:,Port Washington Station, 6:48PM,,,
+6/21/2018,Port Washington,Depart:,Great Neck Station, 6:23PM,Off Peak,353,Canceled
+,,Arrive:,Penn Station, 6:58PM,,,
+6/21/2018,Port Washington,Depart:,Port Washington Station, 6:24PM,Off Peak,467,Late - 15 mins
+,,Arrive:,Penn Station, 7:03PM,,,
+6/21/2018,Port Washington,Depart:,Penn Station, 6:25PM,PM Peak,458,Late - 8 mins
+,,Arrive:,Port Washington Station, 7:06PM,,,
+6/21/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Canceled
+,,Arrive:,Penn Station, 7:15PM,,,
+6/21/2018,Port Washington,Depart:,Port Washington Station, 7:09PM,Off Peak,469,Late - 8 mins
+,,Arrive:,Penn Station, 7:53PM,,,
+6/21/2018,Hempstead,Depart:,Hempstead Station, 8:01PM,Off Peak,771,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 8:51PM,,,
+6/21/2018,Babylon,Depart:,Penn Station, 8:09PM,Off Peak,176,Late - 7 mins
+,,Arrive:,Babylon Station, 9:23PM,,,
+6/21/2018,Far Rockaway,Depart:,Far Rockaway Station,10:40PM,Off Peak,2875,Late - 18 mins
+,,Arrive:,Atlantic Terminal,11:38PM,,,
+6/21/2018,Hempstead,Depart:,Hempstead Station,11:00PM,Off Peak,777,Late - 6 mins
+,,Arrive:,Atlantic Terminal,11:53PM,,,
+6/21/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 11 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15AM,Off Peak,2000,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 1:36AM,,,
+6/22/2018,Far Rockaway,Depart:,Far Rockaway Station,12:42AM,Off Peak,2801,Late - 12 mins
+,,Arrive:,Atlantic Terminal, 1:40AM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:45AM,Off Peak,2003,Late - 8 mins
+,,Arrive:,Penn Station, 3:02AM,,,
+6/22/2018,Long Beach,Depart:,Penn Station, 3:00AM,Off Peak,804,Late - 7 mins
+,,Arrive:,Long Beach Station, 3:51AM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Penn Station, 3:08AM,Off Peak,1604,Late - 11 mins
+,,Arrive:,Huntington Station, 4:11AM,,,
+6/22/2018,Port Washington,Depart:,Port Washington Station, 3:23AM,Off Peak,405,Late - 6 mins
+,,Arrive:,Penn Station, 4:06AM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Greenport Station, 5:30AM,AM Peak,201,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 6:53AM,,,
+6/22/2018,Montauk,Depart:,Speonk Station, 6:19AM,AM Peak,2737,Late - 8 mins
+,,Arrive:,Penn Station, 8:19AM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Brentwood Station, 7:15AM,AM Peak,2021,Late - 9 mins
+,,Arrive:,Penn Station, 8:23AM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 9:41AM,Off Peak,2037,Late - 6 mins
+,,Arrive:,Penn Station,11:02AM,,,
+6/22/2018,Oyster Bay,Depart:,Oyster Bay Station,10:37AM,Off Peak,515,Late - 8 mins
+,,Arrive:,Jamaica Station,11:36AM,,,
+6/22/2018,Babylon,Depart:,Babylon Station,11:15AM,Off Peak,67,Late - 8 mins
+,,Arrive:,Penn Station,12:29PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Huntington Station,11:24AM,Off Peak,1637,Late - 6 mins
+,,Arrive:,Penn Station,12:34PM,,,
+6/22/2018,Montauk,Depart:,Jamaica Station,11:25AM,Off Peak,2796,Late - 11 mins
+,,Arrive:,Montauk Station, 2:15PM,,,
+6/22/2018,Far Rockaway,Depart:,Far Rockaway Station,11:36AM,Off Peak,2833,Late - 14 mins
+,,Arrive:,Atlantic Terminal,12:33PM,,,
+6/22/2018,Montauk,Depart:,Babylon Station,12:02PM,Off Peak,2786,Late - 8 mins
+,,Arrive:,Patchogue Station,12:26PM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Huntington Station,12:24PM,Off Peak,1641,Late - 6 mins
+,,Arrive:,Penn Station, 1:34PM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,12:41PM,Off Peak,2051,Late - 6 mins
+,,Arrive:,Penn Station, 2:02PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Penn Station,12:47PM,Off Peak,1702,Late - 15 mins
+,,Arrive:,Huntington Station, 1:56PM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 14 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Huntington Station, 1:24PM,Off Peak,1701,Late - 9 mins
+,,Arrive:,Penn Station, 2:34PM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:41PM,Off Peak,2053,Late - 10 mins
+,,Arrive:,Penn Station, 3:02PM,,,
+6/22/2018,Montauk,Depart:,Hunterspoint Ave., 1:49PM,Off Peak,2708,Late - 9 mins
+,,Arrive:,Montauk Station, 4:45PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Penn Station, 1:50PM,Off Peak,1706,Late - 12 mins
+,,Arrive:,Huntington Station, 2:57PM,,,
+6/22/2018,Port Jefferson,Depart:,Hicksville Station, 2:05PM,Off Peak,652,Late - 20 mins
+,,Arrive:,Port Jefferson Station, 3:13PM,,,
+6/22/2018,Hempstead,Depart:,Hempstead Station, 2:11PM,Off Peak,755,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 3:03PM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 11 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Huntington Station, 2:24PM,Off Peak,1705,Late - 15 mins
+,,Arrive:,Penn Station, 3:34PM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 2:41PM,Off Peak,2055,Late - 12 mins
+,,Arrive:,Penn Station, 4:03PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 18 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/22/2018,Montauk,Depart:,Speonk Station, 3:05PM,Off Peak,2745,Late - 13 mins
+,,Arrive:,Jamaica Station, 4:39PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:24PM,Off Peak,1709,Late - 16 mins
+,,Arrive:,Penn Station, 4:31PM,,,
+6/22/2018,Far Rockaway,Depart:,Atlantic Terminal, 3:37PM,Off Peak,2856,Late - 6 mins
+,,Arrive:,Far Rockaway Station, 4:33PM,,,
+6/22/2018,Long Beach,Depart:,Long Beach Station, 4:02PM,Off Peak,861,Late - 9 mins
+,,Arrive:,Penn Station, 5:00PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 4:04PM,Off Peak,140,Late - 8 mins
+,,Arrive:,Babylon Station, 5:05PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Huntington Station, 4:05PM,Off Peak,1713,Late - 10 mins
+,,Arrive:,Penn Station, 5:14PM,,,
+6/22/2018,Babylon,Depart:,Babylon Station, 4:06PM,Off Peak,125,Late - 11 mins
+,,Arrive:,Penn Station, 5:05PM,,,
+6/22/2018,Port Washington,Depart:,Port Washington Station, 4:06PM,Off Peak,459,Late - 6 mins
+,,Arrive:,Penn Station, 4:50PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 4:13PM,PM Peak,1052,Late - 7 mins
+,,Arrive:,Massapequa Park Station, 5:10PM,,,
+6/22/2018,Babylon,Depart:,Atlantic Terminal, 4:17PM,PM Peak,142,Late - 7 mins
+,,Arrive:,Babylon Station, 5:28PM,,,
+6/22/2018,Oyster Bay,Depart:,Hunterspoint Ave., 4:18PM,PM Peak,558,Late - 9 mins
+,,Arrive:,Oyster Bay Station, 5:30PM,,,
+6/22/2018,West Hempstead,Depart:,Atlantic Terminal, 4:21PM,PM Peak,956,Late - 6 mins
+,,Arrive:,West Hempstead Station, 5:06PM,,,
+6/22/2018,Port Washington,Depart:,Port Washington Station, 4:36PM,Off Peak,461,Late - 7 mins
+,,Arrive:,Penn Station, 5:20PM,,,
+6/22/2018,Babylon,Depart:,Babylon Station, 4:39PM,Off Peak,131,Late - 6 mins
+,,Arrive:,Penn Station, 5:53PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 4:53PM,PM Peak,148,Late - 7 mins
+,,Arrive:,Babylon Station, 5:55PM,,,
+6/22/2018,Hempstead,Depart:,Hempstead Station, 4:53PM,Off Peak,761,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 5:49PM,,,
+6/22/2018,Port Washington,Depart:,Port Washington Station, 5:00PM,Off Peak,463,Late - 8 mins
+,,Arrive:,Penn Station, 5:47PM,,,
+6/22/2018,Hempstead,Depart:,Penn Station, 5:05PM,PM Peak,762,Late - 11 mins
+,,Arrive:,Hempstead Station, 5:57PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 5:10PM,PM Peak,2714,Late - 12 mins
+,,Arrive:,Montauk Station, 8:29PM,,,
+6/22/2018,Montauk,Depart:,Babylon Station, 5:10PM,Off Peak,2738,Late - 15 mins
+,,Arrive:,Speonk Station, 6:10PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:11PM,Off Peak,1715,Late - 9 mins
+,,Arrive:,Penn Station, 6:21PM,,,
+6/22/2018,Port Washington,Depart:,Penn Station, 5:30PM,PM Peak,360,Late - 7 mins
+,,Arrive:,Great Neck Station, 6:05PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 5:37PM,PM Peak,156,Late - 6 mins
+,,Arrive:,Babylon Station, 6:42PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 5:41PM,PM Peak,1062,Late - 9 mins
+,,Arrive:,Seaford Station, 6:32PM,,,
+6/22/2018,Port Washington,Depart:,Penn Station, 5:45PM,PM Peak,454,Late - 7 mins
+,,Arrive:,Port Washington Station, 6:21PM,,,
+6/22/2018,Hempstead,Depart:,Atlantic Terminal, 5:47PM,PM Peak,766,Late - 8 mins
+,,Arrive:,Hempstead Station, 6:36PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 5:48PM,PM Peak,1156,Late - 9 mins
+,,Arrive:,Freeport Station, 6:31PM,,,
+6/22/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 9 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 6:06PM,PM Peak,1064,Late - 12 mins
+,,Arrive:,Wantagh Station, 6:51PM,,,
+6/22/2018,Babylon,Depart:,Babylon Station, 6:07PM,Off Peak,137,Late - 12 mins
+,,Arrive:,Penn Station, 7:19PM,,,
+6/22/2018,Port Washington,Depart:,Penn Station, 6:12PM,PM Peak,456,Late - 8 mins
+,,Arrive:,Port Washington Station, 6:48PM,,,
+6/22/2018,Montauk,Depart:,Jamaica Station, 6:17PM,PM Peak,2716,Late - 11 mins
+,,Arrive:,Montauk Station, 9:07PM,,,
+6/22/2018,Port Washington,Depart:,Great Neck Station, 6:23PM,Off Peak,353,Late - 8 mins
+,,Arrive:,Penn Station, 6:58PM,,,
+6/22/2018,Port Washington,Depart:,Port Washington Station, 6:24PM,Off Peak,467,Late - 6 mins
+,,Arrive:,Penn Station, 7:03PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:29PM,Off Peak,1717,Late - 7 mins
+,,Arrive:,Penn Station, 7:34PM,,,
+6/22/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 10 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 6:47PM,PM Peak,168,Late - 15 mins
+,,Arrive:,Babylon Station, 8:01PM,,,
+6/22/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 7:00PM,Off Peak,2355,Late - 7 mins
+,,Arrive:,Penn Station, 7:56PM,,,
+6/22/2018,Port Washington,Depart:,Port Washington Station, 7:09PM,Off Peak,469,Late - 6 mins
+,,Arrive:,Penn Station, 7:53PM,,,
+6/22/2018,Port Washington,Depart:,Penn Station, 7:15PM,PM Peak,370,Late - 7 mins
+,,Arrive:,Great Neck Station, 7:48PM,,,
+6/22/2018,Montauk,Depart:,Jamaica Station, 7:23PM,PM Peak,2718,Late - 19 mins
+,,Arrive:,Montauk Station, 9:55PM,,,
+6/22/2018,Port Washington,Depart:,Penn Station, 7:28PM,PM Peak,462,Late - 8 mins
+,,Arrive:,Port Washington Station, 8:04PM,,,
+6/22/2018,Port Washington,Depart:,Port Washington Station, 7:39PM,Off Peak,471,Late - 6 mins
+,,Arrive:,Penn Station, 8:24PM,,,
+6/22/2018,Oyster Bay,Depart:,Jamaica Station, 8:07PM,PM Peak,568,Late - 8 mins
+,,Arrive:,Oyster Bay Station, 9:01PM,,,
+6/22/2018,Port Washington,Depart:,Port Washington Station, 8:09PM,Off Peak,473,Late - 13 mins
+,,Arrive:,Penn Station, 8:52PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 8:37PM,Off Peak,180,Late - 6 mins
+,,Arrive:,Babylon Station, 9:54PM,,,
+6/22/2018,Babylon,Depart:,Babylon Station, 8:41PM,Off Peak,149,Late - 7 mins
+,,Arrive:,Penn Station, 9:55PM,,,
+6/22/2018,Port Washington,Depart:,Port Washington Station, 9:39PM,Off Peak,479,Late - 8 mins
+,,Arrive:,Penn Station,10:22PM,,,
+6/22/2018,Babylon,Depart:,Penn Station, 9:40PM,Off Peak,186,Late - 13 mins
+,,Arrive:,Babylon Station,10:56PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Penn Station, 9:43PM,Off Peak,1746,Late - 12 mins
+,,Arrive:,Huntington Station,10:51PM,,,
+6/22/2018,Long Beach,Depart:,Penn Station, 9:54PM,Off Peak,892,Late - 12 mins
+,,Arrive:,Long Beach Station,10:46PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Huntington Station,10:00PM,Off Peak,1727,Late - 7 mins
+,,Arrive:,Penn Station,11:06PM,,,
+6/22/2018,Babylon,Depart:,Penn Station,10:06PM,Off Peak,188,Late - 8 mins
+,,Arrive:,Babylon Station,11:23PM,,,
+6/22/2018,Oyster Bay,Depart:,Jamaica Station,10:11PM,Off Peak,572,Late - 12 mins
+,,Arrive:,Oyster Bay Station,11:04PM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Penn Station,10:19PM,Off Peak,1750,Late - 10 mins
+,,Arrive:,Huntington Station,11:24PM,,,
+6/22/2018,Babylon,Depart:,Penn Station,10:46PM,Off Peak,192,Late - 7 mins
+,,Arrive:,Babylon Station,12:01AM,,,
+6/22/2018,Port Washington,Depart:,Penn Station,10:49PM,Off Peak,476,Late - 8 mins
+,,Arrive:,Port Washington Station,11:35PM,,,
+6/22/2018,Port Jefferson,Depart:,Huntington Station,10:57PM,Off Peak,674,Late - 11 mins
+,,Arrive:,Port Jefferson Station,11:44PM,,,
+6/22/2018,Port Jefferson,Depart:,Port Jefferson Station,11:22PM,Off Peak,665,Late - 12 mins
+,,Arrive:,Huntington Station,12:10AM,,,
+6/22/2018,Port Jefferson,Depart:,Hicksville Station,11:31PM,Off Peak,676,Late - 11 mins
+,,Arrive:,Port Jefferson Station,12:35AM,,,
+6/22/2018,Port Washington,Depart:,Port Washington Station,11:38PM,Off Peak,485,Late - 7 mins
+,,Arrive:,Penn Station,12:22AM,,,
+6/22/2018,Babylon,Depart:,Penn Station,11:40PM,Off Peak,198,Late - 17 mins
+,,Arrive:,Babylon Station,12:56AM,,,
+6/22/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 22 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/22/2018,Hempstead,Depart:,Atlantic Terminal,11:56PM,Off Peak,784,Late - 9 mins
+,,Arrive:,Hempstead Station,12:49AM,,,
+6/23/2018,Babylon,Depart:,Penn Station,12:02AM,Off Peak,6000,Late - 9 mins
+,,Arrive:,Babylon Station, 1:18AM,,,
+6/23/2018,Babylon,Depart:,Penn Station,12:40AM,Off Peak,6002,Late - 11 mins
+,,Arrive:,Babylon Station, 1:58AM,,,
+6/23/2018,Hempstead,Depart:,Atlantic Terminal,12:42AM,Off Peak,6700,Late - 7 mins
+,,Arrive:,Hempstead Station, 1:35AM,,,
+6/23/2018,Port Jefferson,Depart:,Huntington Station,12:54AM,Off Peak,6600,Late - 25 mins
+,,Arrive:,Port Jefferson Station, 1:41AM,,,
+6/23/2018,Hunt. Hicks.,Depart:,Penn Station, 1:07AM,Off Peak,7602,Late - 11 mins
+,,Arrive:,Huntington Station, 2:17AM,,,
+6/23/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:22AM,Off Peak,8002,Late - 22 mins
+,,Arrive:,Hicksville Station, 2:05AM,,,
+6/23/2018,Hempstead,Depart:,Atlantic Terminal, 1:43AM,Off Peak,6702,Late - 16 mins
+,,Arrive:,Hempstead Station, 2:34AM,,,
+6/23/2018,Oyster Bay,Depart:,Jamaica Station, 1:46AM,Off Peak,6500,Late - 25 mins
+,,Arrive:,Oyster Bay Station, 2:41AM,,,
+6/23/2018,Port Washington,Depart:,Port Washington Station, 2:10AM,Off Peak,6403,Late - 8 mins
+,,Arrive:,Penn Station, 2:55AM,,,
+6/23/2018,Hunt. Hicks.,Depart:,Huntington Station, 2:19AM,Off Peak,7605,Late - 9 mins
+,,Arrive:,Penn Station, 3:24AM,,,
+6/23/2018,Long Beach,Depart:,Jamaica Station, 3:15AM,Off Peak,6804,Late - 11 mins
+,,Arrive:,Long Beach Station, 3:48AM,,,
+6/23/2018,Long Beach,Depart:,Penn Station, 4:06AM,Off Peak,6806,Late - 8 mins
+,,Arrive:,Long Beach Station, 5:02AM,,,
+6/23/2018,Port Washington,Depart:,Port Washington Station, 4:10AM,Off Peak,6405,Late - 8 mins
+,,Arrive:,Penn Station, 4:55AM,,,
+6/23/2018,Hempstead,Depart:,Jamaica Station, 4:31AM,Off Peak,6704,Late - 11 mins
+,,Arrive:,Hempstead Station, 5:00AM,,,
+6/23/2018,Ronk. (greenpt.),Depart:,Yaphank Station, 4:38AM,Off Peak,9200,Late - 10 mins
+,,Arrive:,Greenport Station, 5:44AM,,,
+6/23/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:42AM,Off Peak,8006,Late - 8 mins
+,,Arrive:,Hicksville Station, 5:26AM,,,
+6/23/2018,Hunt. Hicks.,Depart:,Penn Station, 6:53AM,Off Peak,7612,Late - 8 mins
+,,Arrive:,Huntington Station, 7:58AM,,,
+6/23/2018,Montauk,Depart:,Speonk Station, 7:00AM,Off Peak,8733,Late - 16 mins
+,,Arrive:,Babylon Station, 8:00AM,,,
+6/23/2018,Long Beach,Depart:,Penn Station, 7:43AM,Off Peak,6810,Late - 7 mins
+,,Arrive:,Long Beach Station, 8:39AM,,,
+6/23/2018,Hempstead,Depart:,Atlantic Terminal, 7:44AM,Off Peak,6710,Late - 8 mins
+,,Arrive:,Hempstead Station, 8:35AM,,,
+6/23/2018,Babylon,Depart:,Penn Station, 7:46AM,Off Peak,7102,Late - 11 mins
+,,Arrive:,Freeport Station, 8:31AM,,,
+6/23/2018,Montauk,Depart:,Jamaica Station, 8:10AM,Off Peak,8704,Late - 23 mins
+,,Arrive:,Montauk Station,10:49AM,,,
+6/23/2018,Port Washington,Depart:,Port Washington Station, 9:42AM,Off Peak,6423,Late - 6 mins
+,,Arrive:,Penn Station,10:27AM,,,
+6/23/2018,Montauk,Depart:,Speonk Station,12:00PM,Off Peak,8737,Late - 7 mins
+,,Arrive:,Babylon Station, 1:00PM,,,
+6/23/2018,Montauk,Depart:,Jamaica Station,12:10PM,Off Peak,8710,Late - 14 mins
+,,Arrive:,Montauk Station, 2:53PM,,,
+6/23/2018,Babylon,Depart:,Penn Station, 4:56PM,Off Peak,6120,Late - 9 mins
+,,Arrive:,Babylon Station, 6:12PM,,,
+6/23/2018,Long Beach,Depart:,Penn Station, 5:00PM,Off Peak,6898,Late - 9 mins
+,,Arrive:,Long Beach Station, 5:45PM,,,
+6/23/2018,Montauk,Depart:,Babylon Station, 5:26PM,Off Peak,8772,Late - 7 mins
+,,Arrive:,Patchogue Station, 5:56PM,,,
+6/23/2018,West Hempstead,Depart:,Valley Stream Station, 5:48PM,Off Peak,6956,Late - 6 mins
+,,Arrive:,West Hempstead Station, 6:03PM,,,
+6/23/2018,Port Washington,Depart:,Penn Station, 5:49PM,Off Peak,6472,Late - 7 mins
+,,Arrive:,Port Washington Station, 6:35PM,,,
+6/23/2018,Port Washington,Depart:,Port Washington Station, 7:11PM,Off Peak,6479,Late - 7 mins
+,,Arrive:,Penn Station, 7:56PM,,,
+6/23/2018,Montauk,Depart:,Jamaica Station, 7:41PM,Off Peak,8738,Late - 7 mins
+,,Arrive:,Speonk Station, 9:15PM,,,
+6/23/2018,Far Rockaway,Depart:,Atlantic Terminal,10:14PM,Off Peak,8870,Late - 10 mins
+,,Arrive:,Far Rockaway Station,11:05PM,,,
+6/23/2018,Babylon,Depart:,Penn Station,10:16PM,Off Peak,6142,Late - 7 mins
+,,Arrive:,Babylon Station,11:21PM,,,
+6/23/2018,Port Washington,Depart:,Penn Station,10:19PM,Off Peak,6490,Late - 9 mins
+,,Arrive:,Port Washington Station,11:05PM,,,
+6/23/2018,Hunt. Hicks.,Depart:,Penn Station,10:22PM,Off Peak,7742,Late - 9 mins
+,,Arrive:,Huntington Station,11:28PM,,,
+6/23/2018,Babylon,Depart:,Penn Station,10:40PM,Off Peak,6144,Late - 10 mins
+,,Arrive:,Babylon Station,11:56PM,,,
+6/23/2018,Long Beach,Depart:,Penn Station,10:43PM,Off Peak,6870,Late - 12 mins
+,,Arrive:,Long Beach Station,11:39PM,,,
+6/23/2018,Hempstead,Depart:,Atlantic Terminal,10:44PM,Off Peak,6770,Late - 7 mins
+,,Arrive:,Hempstead Station,11:35PM,,,
+6/23/2018,Hunt. Hicks.,Depart:,Penn Station,10:52PM,Off Peak,7744,Late - 7 mins
+,,Arrive:,Huntington Station,11:56PM,,,
+6/23/2018,Babylon,Depart:,Penn Station,10:56PM,Off Peak,6146,Late - 7 mins
+,,Arrive:,Babylon Station,12:11AM,,,
+6/23/2018,Montauk,Depart:,Jamaica Station,11:44PM,Off Peak,8742,Canceled
+,,Arrive:,Speonk Station, 1:23AM,,,
+6/24/2018,Port Washington,Depart:,Penn Station,12:18AM,Off Peak,6400,Late - 10 mins
+,,Arrive:,Port Washington Station, 1:03AM,,,
+6/24/2018,Babylon,Depart:,Penn Station,12:40AM,Off Peak,6002,Late - 11 mins
+,,Arrive:,Babylon Station, 1:58AM,,,
+6/24/2018,Hempstead,Depart:,Hempstead Station, 1:22AM,Off Peak,6703,Late - 7 mins
+,,Arrive:,Jamaica Station, 1:53AM,,,
+6/24/2018,Ronk. (greenpt.),Depart:,Hicksville Station, 1:22AM,Off Peak,8001,Late - 11 mins
+,,Arrive:,Penn Station, 2:06AM,,,
+6/24/2018,Babylon,Depart:,Babylon Station, 9:20AM,Off Peak,6025,Late - 7 mins
+,,Arrive:,Penn Station,10:36AM,,,
+6/24/2018,Port Washington,Depart:,Port Washington Station,10:42AM,Off Peak,6427,Late - 7 mins
+,,Arrive:,Penn Station,11:27AM,,,
+6/24/2018,Port Washington,Depart:,Port Washington Station,11:11AM,Off Peak,6429,Late - 10 mins
+,,Arrive:,Penn Station,11:56AM,,,
+6/24/2018,Port Washington,Depart:,Penn Station,11:49AM,Off Peak,6428,Late - 9 mins
+,,Arrive:,Port Washington Station,12:35PM,,,
+6/24/2018,Montauk,Depart:,Jamaica Station,12:10PM,Off Peak,8710,Late - 20 mins
+,,Arrive:,Montauk Station, 2:53PM,,,
+6/24/2018,Montauk,Depart:,Montauk Station, 1:26PM,Off Peak,8705,Late - 21 mins
+,,Arrive:,Jamaica Station, 3:58PM,,,
+6/24/2018,Long Beach,Depart:,Penn Station, 2:43PM,Off Peak,6854,Late - 8 mins
+,,Arrive:,Long Beach Station, 3:39PM,,,
+6/24/2018,Babylon,Depart:,Penn Station, 2:56PM,Off Peak,6112,Late - 15 mins
+,,Arrive:,Babylon Station, 4:12PM,,,
+6/24/2018,Babylon,Depart:,Penn Station, 3:16PM,Off Peak,6114,Late - 9 mins
+,,Arrive:,Babylon Station, 4:21PM,,,
+6/24/2018,Babylon,Depart:,Jamaica Station, 4:04PM,Off Peak,7359,Late - 19 mins
+,,Arrive:,Penn Station, 4:24PM,,,
+6/24/2018,Montauk,Depart:,Babylon Station, 4:26PM,Off Peak,8770,Late - 9 mins
+,,Arrive:,Patchogue Station, 4:56PM,,,
+6/24/2018,Montauk,Depart:,Montauk Station, 5:26PM,Off Peak,8715,Late - 6 mins
+,,Arrive:,Jamaica Station, 7:58PM,,,
+6/24/2018,Hunt. Hicks.,Depart:,Huntington Station, 7:40PM,Off Peak,7731,Late - 6 mins
+,,Arrive:,Penn Station, 8:43PM,,,
+6/24/2018,Long Beach,Depart:,Penn Station, 8:43PM,Off Peak,6866,Late - 11 mins
+,,Arrive:,Long Beach Station, 9:39PM,,,
+6/24/2018,Port Washington,Depart:,Penn Station, 9:19PM,Off Peak,6486,Late - 8 mins
+,,Arrive:,Port Washington Station,10:05PM,,,
+6/24/2018,Montauk,Depart:,Babylon Station, 9:26PM,Off Peak,8778,Late - 9 mins
+,,Arrive:,Patchogue Station, 9:56PM,,,
+6/24/2018,Babylon,Depart:,Penn Station, 9:56PM,Off Peak,6140,Late - 9 mins
+,,Arrive:,Babylon Station,11:12PM,,,
+6/24/2018,Hunt. Hicks.,Depart:,Penn Station,10:22PM,Off Peak,7742,Late - 8 mins
+,,Arrive:,Huntington Station,11:28PM,,,
+6/24/2018,Montauk,Depart:,Babylon Station,11:26PM,Off Peak,8740,Late - 10 mins
+,,Arrive:,Speonk Station,12:27AM,,,
+6/24/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,7746,Late - 7 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/25/2018,Montauk,Depart:,Southampton Station, 4:41AM,AM Peak,2791,Late - 7 mins
+,,Arrive:,Penn Station, 7:02AM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:42AM,AM Peak,2099,Late - 7 mins
+,,Arrive:,Penn Station, 6:58AM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Hicksville Station, 6:25AM,AM Peak,1203,Late - 7 mins
+,,Arrive:,Penn Station, 7:11AM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 6:45AM,AM Peak,415,Late - 7 mins
+,,Arrive:,Penn Station, 7:24AM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 7:19AM,AM Peak,419,Late - 6 mins
+,,Arrive:,Penn Station, 7:58AM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Penn Station, 7:23AM,Off Peak,1610,Late - 16 mins
+,,Arrive:,Jamaica Station, 7:46AM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:32AM,AM Peak,2025,Late - 6 mins
+,,Arrive:,Penn Station, 8:47AM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Penn Station, 7:40AM,Off Peak,2008,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 8:59AM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 7:46AM,AM Peak,423,Late - 6 mins
+,,Arrive:,Penn Station, 8:35AM,,,
+6/25/2018,Far Rockaway,Depart:,Far Rockaway Station, 7:49AM,AM Peak,2821,Late - 7 mins
+,,Arrive:,Penn Station, 8:42AM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:57AM,AM Peak,2033,Late - 7 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Bethpage Station, 7:58AM,AM Peak,2309,Late - 6 mins
+,,Arrive:,Penn Station, 8:53AM,,,
+6/25/2018,Far Rockaway,Depart:,Valley Stream Station, 8:03AM,AM Peak,2819,Late - 7 mins
+,,Arrive:,Penn Station, 8:44AM,,,
+6/25/2018,Port Washington,Depart:,Great Neck Station, 8:04AM,AM Peak,307,Late - 9 mins
+,,Arrive:,Penn Station, 8:38AM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 8:08AM,AM Peak,425,Late - 7 mins
+,,Arrive:,Penn Station, 8:42AM,,,
+6/25/2018,Babylon,Depart:,Freeport Station, 8:10AM,AM Peak,1105,Late - 7 mins
+,,Arrive:,Penn Station, 8:50AM,,,
+6/25/2018,West Hempstead,Depart:,West Hempstead Station, 8:28AM,AM Peak,909,Late - 10 mins
+,,Arrive:,Atlantic Terminal, 9:16AM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 8:45AM,AM Peak,429,Late - 7 mins
+,,Arrive:,Penn Station, 9:20AM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Huntington Station, 8:55AM,Off Peak,1633,Late - 16 mins
+,,Arrive:,Penn Station,10:05AM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Penn Station, 9:15AM,Off Peak,2012,Late - 9 mins
+,,Arrive:,Ronkonkoma Station,10:37AM,,,
+6/25/2018,Port Washington,Depart:,Great Neck Station, 9:32AM,Off Peak,315,Late - 10 mins
+,,Arrive:,Penn Station,10:08AM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 9:40AM,Off Peak,433,Late - 8 mins
+,,Arrive:,Penn Station,10:25AM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 9:41AM,Off Peak,2037,Late - 6 mins
+,,Arrive:,Penn Station,11:02AM,,,
+6/25/2018,Port Washington,Depart:,Penn Station, 9:50AM,Off Peak,418,Late - 9 mins
+,,Arrive:,Port Washington Station,10:35AM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Penn Station,10:15AM,Off Peak,2014,Late - 6 mins
+,,Arrive:,Ronkonkoma Station,11:37AM,,,
+6/25/2018,Port Washington,Depart:,Penn Station,10:20AM,Off Peak,420,Canceled
+,,Arrive:,Port Washington Station,11:05AM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station,10:40AM,Off Peak,437,Late - 8 mins
+,,Arrive:,Penn Station,11:25AM,,,
+6/25/2018,Babylon,Depart:,Babylon Station,11:15AM,Off Peak,67,Late - 10 mins
+,,Arrive:,Penn Station,12:29PM,,,
+6/25/2018,Babylon,Depart:,Penn Station,11:23AM,Off Peak,50,Late - 7 mins
+,,Arrive:,Babylon Station,12:24PM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station,11:40AM,Off Peak,441,Canceled
+,,Arrive:,Penn Station,12:25PM,,,
+6/25/2018,Babylon,Depart:,Penn Station, 1:06PM,Off Peak,108,Late - 8 mins
+,,Arrive:,Babylon Station, 2:21PM,,,
+6/25/2018,Hempstead,Depart:,Hempstead Station, 1:11PM,Off Peak,753,Late - 35 mins
+,,Arrive:,Atlantic Terminal, 2:03PM,,,
+6/25/2018,Babylon,Depart:,Penn Station, 1:23PM,Off Peak,110,Late - 8 mins
+,,Arrive:,Babylon Station, 2:24PM,,,
+6/25/2018,Far Rockaway,Depart:,Atlantic Terminal, 1:36PM,Off Peak,2852,Late - 25 mins
+,,Arrive:,Far Rockaway Station, 2:32PM,,,
+6/25/2018,Far Rockaway,Depart:,Far Rockaway Station, 1:36PM,Off Peak,2853,Late - 10 mins
+,,Arrive:,Atlantic Terminal, 2:33PM,,,
+6/25/2018,Babylon,Depart:,Babylon Station, 2:00PM,Off Peak,113,Late - 6 mins
+,,Arrive:,Penn Station, 3:08PM,,,
+6/25/2018,Long Beach,Depart:,Long Beach Station, 2:09PM,Off Peak,855,Late - 6 mins
+,,Arrive:,Penn Station, 2:59PM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/25/2018,Montauk,Depart:,Babylon Station, 2:27PM,Off Peak,2770,Late - 12 mins
+,,Arrive:,Patchogue Station, 2:57PM,,,
+6/25/2018,Port Washington,Depart:,Penn Station, 3:50PM,Off Peak,442,Late - 8 mins
+,,Arrive:,Port Washington Station, 4:34PM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Huntington Station, 4:05PM,Off Peak,1713,Late - 8 mins
+,,Arrive:,Penn Station, 5:14PM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 4:06PM,Off Peak,459,Late - 6 mins
+,,Arrive:,Penn Station, 4:50PM,,,
+6/25/2018,Oyster Bay,Depart:,Hunterspoint Ave., 4:18PM,PM Peak,558,Late - 7 mins
+,,Arrive:,Oyster Bay Station, 5:30PM,,,
+6/25/2018,Port Washington,Depart:,Penn Station, 4:26PM,PM Peak,356,Late - 7 mins
+,,Arrive:,Great Neck Station, 5:02PM,,,
+6/25/2018,Montauk,Depart:,Long Island City, 4:28PM,PM Peak,2778,Late - 7 mins
+,,Arrive:,Patchogue Station, 6:14PM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Penn Station, 4:32PM,PM Peak,1722,Late - 9 mins
+,,Arrive:,Huntington Station, 5:31PM,,,
+6/25/2018,Far Rockaway,Depart:,Atlantic Terminal, 4:32PM,PM Peak,2862,Partially Canceled
+,,Arrive:,Far Rockaway Station, 5:26PM,,,
+6/25/2018,Hempstead,Depart:,Penn Station, 4:33PM,PM Peak,758,Late - 7 mins
+,,Arrive:,Hempstead Station, 5:23PM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 4:36PM,Off Peak,461,Late - 10 mins
+,,Arrive:,Penn Station, 5:20PM,,,
+6/25/2018,Long Beach,Depart:,Penn Station, 4:41PM,PM Peak,866,Late - 7 mins
+,,Arrive:,Long Beach Station, 5:37PM,,,
+6/25/2018,Far Rockaway,Depart:,Penn Station, 4:43PM,PM Peak,2864,Late - 7 mins
+,,Arrive:,Far Rockaway Station, 5:40PM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 5:00PM,Off Peak,463,Late - 8 mins
+,,Arrive:,Penn Station, 5:47PM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 5:23PM,Off Peak,465,Late - 8 mins
+,,Arrive:,Penn Station, 6:02PM,,,
+6/25/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 9 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Penn Station, 6:09PM,PM Peak,1734,Late - 36 mins
+,,Arrive:,Huntington Station, 7:18PM,,,
+6/25/2018,Port Washington,Depart:,Penn Station, 6:12PM,PM Peak,456,Late - 9 mins
+,,Arrive:,Port Washington Station, 6:48PM,,,
+6/25/2018,Oyster Bay,Depart:,Penn Station, 6:17PM,PM Peak,564,Late - 9 mins
+,,Arrive:,Oyster Bay Station, 7:32PM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Huntington Station, 6:29PM,Off Peak,1717,Late - 36 mins
+,,Arrive:,Penn Station, 7:34PM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Penn Station, 6:31PM,PM Peak,1736,Late - 18 mins
+,,Arrive:,Huntington Station, 7:32PM,,,
+6/25/2018,Babylon,Depart:,Penn Station, 6:34PM,PM Peak,166,Late - 7 mins
+,,Arrive:,Babylon Station, 7:35PM,,,
+6/25/2018,Oyster Bay,Depart:,Oyster Bay Station, 6:34PM,Off Peak,559,Late - 21 mins
+,,Arrive:,Jamaica Station, 7:28PM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Penn Station, 6:36PM,PM Peak,1260,Late - 13 mins
+,,Arrive:,Hicksville Station, 7:22PM,,,
+6/25/2018,Hempstead,Depart:,Penn Station, 6:40PM,PM Peak,772,Late - 10 mins
+,,Arrive:,Hempstead Station, 7:33PM,,,
+6/25/2018,Oyster Bay,Depart:,Hunterspoint Ave., 6:41PM,PM Peak,566,Late - 16 mins
+,,Arrive:,Oyster Bay Station, 7:57PM,,,
+6/25/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 10 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 7:00PM,Off Peak,2355,Late - 17 mins
+,,Arrive:,Penn Station, 7:56PM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Huntington Station, 7:05PM,Off Peak,1719,Late - 21 mins
+,,Arrive:,Penn Station, 8:09PM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 7:09PM,Off Peak,469,Late - 6 mins
+,,Arrive:,Penn Station, 7:53PM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station, 7:39PM,Off Peak,471,Late - 8 mins
+,,Arrive:,Penn Station, 8:24PM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:45PM,Off Peak,2065,Late - 10 mins
+,,Arrive:,Penn Station, 9:12PM,,,
+6/25/2018,Ronk. (greenpt.),Depart:,Penn Station, 7:45PM,PM Peak,2084,Late - 15 mins
+,,Arrive:,Ronkonkoma Station, 9:02PM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Penn Station, 7:55PM,PM Peak,1742,Late - 7 mins
+,,Arrive:,Huntington Station, 9:02PM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Huntington Station, 8:05PM,Off Peak,1721,Late - 11 mins
+,,Arrive:,Penn Station, 9:09PM,,,
+6/25/2018,Oyster Bay,Depart:,Jamaica Station, 8:07PM,PM Peak,568,Late - 11 mins
+,,Arrive:,Oyster Bay Station, 9:01PM,,,
+6/25/2018,Hunt. Hicks.,Depart:,Penn Station, 8:43PM,Off Peak,1744,Late - 22 mins
+,,Arrive:,Huntington Station, 9:47PM,,,
+6/25/2018,Oyster Bay,Depart:,Jamaica Station, 9:07PM,Off Peak,570,Late - 11 mins
+,,Arrive:,Oyster Bay Station,10:01PM,,,
+6/25/2018,Port Washington,Depart:,Penn Station, 9:19PM,Off Peak,470,Late - 14 mins
+,,Arrive:,Port Washington Station,10:04PM,,,
+6/25/2018,Port Jefferson,Depart:,Port Jefferson Station, 9:41PM,Off Peak,663,Late - 13 mins
+,,Arrive:,Hicksville Station,10:46PM,,,
+6/25/2018,Port Washington,Depart:,Penn Station, 9:49PM,Off Peak,472,Late - 7 mins
+,,Arrive:,Port Washington Station,10:34PM,,,
+6/25/2018,Port Jefferson,Depart:,Huntington Station, 9:55PM,Off Peak,672,Late - 16 mins
+,,Arrive:,Port Jefferson Station,10:42PM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station,10:15PM,Off Peak,481,Late - 7 mins
+,,Arrive:,Penn Station,10:59PM,,,
+6/25/2018,Hempstead,Depart:,Hempstead Station,10:16PM,Off Peak,775,Late - 7 mins
+,,Arrive:,Atlantic Terminal,11:08PM,,,
+6/25/2018,Port Washington,Depart:,Port Washington Station,10:38PM,Off Peak,483,Late - 13 mins
+,,Arrive:,Penn Station,11:22PM,,,
+6/25/2018,Port Jefferson,Depart:,Port Jefferson Station,11:22PM,Off Peak,665,Late - 7 mins
+,,Arrive:,Huntington Station,12:10AM,,,
+6/26/2018,Babylon,Depart:,Penn Station, 4:55AM,Off Peak,12,Late - 8 mins
+,,Arrive:,Babylon Station, 6:08AM,,,
+6/26/2018,Port Washington,Depart:,Great Neck Station, 9:32AM,Off Peak,315,Late - 6 mins
+,,Arrive:,Penn Station,10:08AM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Penn Station,10:15AM,Off Peak,2014,Late - 15 mins
+,,Arrive:,Ronkonkoma Station,11:37AM,,,
+6/26/2018,Babylon,Depart:,Babylon Station,10:48AM,Off Peak,63,Late - 6 mins
+,,Arrive:,Penn Station,12:05PM,,,
+6/26/2018,Hempstead,Depart:,Hempstead Station,11:11AM,Off Peak,733,Late - 7 mins
+,,Arrive:,Atlantic Terminal,12:03PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Penn Station,11:15AM,Off Peak,2016,Late - 17 mins
+,,Arrive:,Ronkonkoma Station,12:37PM,,,
+6/26/2018,Hunt. Hicks.,Depart:,Huntington Station,11:24AM,Off Peak,1637,Late - 6 mins
+,,Arrive:,Penn Station,12:34PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,11:41AM,Off Peak,2041,Late - 11 mins
+,,Arrive:,Penn Station, 1:02PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 31 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,12:41PM,Off Peak,2051,Late - 18 mins
+,,Arrive:,Penn Station, 2:02PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,12:45PM,Off Peak,250,Late - 11 mins
+,,Arrive:,Greenport Station, 2:09PM,,,
+6/26/2018,Oyster Bay,Depart:,Jamaica Station, 1:03PM,Off Peak,552,Late - 38 mins
+,,Arrive:,Oyster Bay Station, 2:00PM,,,
+6/26/2018,Babylon,Depart:,Babylon Station, 1:48PM,Off Peak,111,Late - 6 mins
+,,Arrive:,Penn Station, 3:05PM,,,
+6/26/2018,Hempstead,Depart:,Hempstead Station, 2:11PM,Off Peak,755,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 3:03PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 16 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/26/2018,Oyster Bay,Depart:,Oyster Bay Station, 2:35PM,Off Peak,553,Late - 17 mins
+,,Arrive:,Jamaica Station, 3:33PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 2:41PM,Off Peak,2055,Late - 7 mins
+,,Arrive:,Penn Station, 4:03PM,,,
+6/26/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 8 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/26/2018,Hempstead,Depart:,Hempstead Station, 3:11PM,Off Peak,757,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 4:03PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:52PM,PM Peak,2062,Late - 34 mins
+,,Arrive:,Ronkonkoma Station, 6:04PM,,,
+6/26/2018,Hempstead,Depart:,Hempstead Station, 4:53PM,Off Peak,761,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 5:49PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Penn Station, 5:02PM,PM Peak,2064,Late - 21 mins
+,,Arrive:,Ronkonkoma Station, 6:21PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Penn Station, 5:23PM,PM Peak,2066,Late - 8 mins
+,,Arrive:,Ronkonkoma Station, 6:38PM,,,
+6/26/2018,West Hempstead,Depart:,Atlantic Terminal, 5:36PM,PM Peak,960,Late - 6 mins
+,,Arrive:,West Hempstead Station, 6:22PM,,,
+6/26/2018,Babylon,Depart:,Penn Station, 5:37PM,PM Peak,156,Late - 6 mins
+,,Arrive:,Babylon Station, 6:42PM,,,
+6/26/2018,Babylon,Depart:,Penn Station, 5:41PM,PM Peak,1062,Late - 8 mins
+,,Arrive:,Seaford Station, 6:32PM,,,
+6/26/2018,Long Beach,Depart:,Atlantic Terminal, 5:41PM,PM Peak,874,Late - 11 mins
+,,Arrive:,Long Beach Station, 6:32PM,,,
+6/26/2018,Babylon,Depart:,Penn Station, 5:48PM,PM Peak,1156,Late - 9 mins
+,,Arrive:,Freeport Station, 6:31PM,,,
+6/26/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 11 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/26/2018,Babylon,Depart:,Penn Station, 6:00PM,PM Peak,160,Late - 11 mins
+,,Arrive:,Babylon Station, 7:03PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Atlantic Terminal, 6:05PM,PM Peak,2076,Canceled
+,,Arrive:,Ronkonkoma Station, 7:27PM,,,
+6/26/2018,Babylon,Depart:,Babylon Station, 6:07PM,Off Peak,137,Late - 7 mins
+,,Arrive:,Penn Station, 7:19PM,,,
+6/26/2018,Port Washington,Depart:,Penn Station, 6:12PM,PM Peak,456,Late - 11 mins
+,,Arrive:,Port Washington Station, 6:48PM,,,
+6/26/2018,Montauk,Depart:,Patchogue Station, 6:30PM,Off Peak,2777,Late - 8 mins
+,,Arrive:,Babylon Station, 7:03PM,,,
+6/26/2018,Long Beach,Depart:,Long Beach Station, 6:38PM,Off Peak,867,Partially Canceled
+,,Arrive:,Atlantic Terminal, 7:33PM,,,
+6/26/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 13 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/26/2018,Babylon,Depart:,Penn Station, 6:47PM,PM Peak,168,Late - 23 mins
+,,Arrive:,Babylon Station, 8:01PM,,,
+6/26/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:53PM,PM Peak,256,Late - 11 mins
+,,Arrive:,Greenport Station, 8:17PM,,,
+6/26/2018,Babylon,Depart:,Penn Station, 7:09PM,PM Peak,170,Late - 9 mins
+,,Arrive:,Babylon Station, 8:20PM,,,
+6/26/2018,Babylon,Depart:,Babylon Station, 7:40PM,Off Peak,145,Late - 7 mins
+,,Arrive:,Penn Station, 8:55PM,,,
+6/26/2018,Port Washington,Depart:,Port Washington Station, 8:09PM,Off Peak,473,Late - 7 mins
+,,Arrive:,Penn Station, 8:52PM,,,
+6/26/2018,Babylon,Depart:,Penn Station, 8:37PM,Off Peak,180,Late - 7 mins
+,,Arrive:,Babylon Station, 9:54PM,,,
+6/26/2018,Hunt. Hicks.,Depart:,Penn Station, 8:43PM,Off Peak,1744,Late - 7 mins
+,,Arrive:,Huntington Station, 9:47PM,,,
+6/26/2018,Port Washington,Depart:,Port Washington Station, 9:09PM,Off Peak,477,Late - 6 mins
+,,Arrive:,Penn Station, 9:52PM,,,
+6/26/2018,Port Washington,Depart:,Penn Station, 9:19PM,Off Peak,470,Late - 6 mins
+,,Arrive:,Port Washington Station,10:04PM,,,
+6/26/2018,Port Washington,Depart:,Port Washington Station,10:38PM,Off Peak,483,Late - 9 mins
+,,Arrive:,Penn Station,11:22PM,,,
+6/26/2018,Hunt. Hicks.,Depart:,Huntington Station,10:56PM,Off Peak,1729,Late - 12 mins
+,,Arrive:,Penn Station,12:01AM,,,
+6/26/2018,Babylon,Depart:,Penn Station,11:06PM,Off Peak,194,Late - 7 mins
+,,Arrive:,Babylon Station,12:23AM,,,
+6/26/2018,Babylon,Depart:,Penn Station,11:36PM,Off Peak,196,Late - 9 mins
+,,Arrive:,Babylon Station,12:32AM,,,
+6/26/2018,Montauk,Depart:,Babylon Station,11:37PM,Off Peak,2746,Late - 8 mins
+,,Arrive:,Speonk Station,12:38AM,,,
+6/26/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 10 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/27/2018,Montauk,Depart:,Babylon Station,12:35AM,Off Peak,2730,Late - 10 mins
+,,Arrive:,Speonk Station, 1:35AM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Penn Station, 3:08AM,Off Peak,1604,Late - 10 mins
+,,Arrive:,Huntington Station, 4:11AM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 3:11AM,Off Peak,8,Late - 6 mins
+,,Arrive:,Babylon Station, 4:20AM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:38AM,Off Peak,1607,Late - 6 mins
+,,Arrive:,Penn Station, 4:42AM,,,
+6/27/2018,Port Jefferson,Depart:,Port Jefferson Station, 7:35AM,AM Peak,615,Late - 7 mins
+,,Arrive:,Penn Station, 9:24AM,,,
+6/27/2018,Babylon,Depart:,Babylon Station, 8:03AM,AM Peak,47,Late - 6 mins
+,,Arrive:,Penn Station, 9:11AM,,,
+6/27/2018,Oyster Bay,Depart:,Jamaica Station, 8:06AM,Off Peak,502,Late - 8 mins
+,,Arrive:,Oyster Bay Station, 9:03AM,,,
+6/27/2018,Oyster Bay,Depart:,Oyster Bay Station, 8:16AM,AM Peak,511,Late - 34 mins
+,,Arrive:,Long Island City, 9:36AM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Huntington Station, 8:55AM,Off Peak,1633,Late - 6 mins
+,,Arrive:,Penn Station,10:05AM,,,
+6/27/2018,Port Washington,Depart:,Great Neck Station, 9:32AM,Off Peak,315,Late - 6 mins
+,,Arrive:,Penn Station,10:08AM,,,
+6/27/2018,Port Washington,Depart:,Port Washington Station, 9:40AM,Off Peak,433,Late - 8 mins
+,,Arrive:,Penn Station,10:25AM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 9:41AM,Off Peak,2037,Late - 7 mins
+,,Arrive:,Penn Station,11:02AM,,,
+6/27/2018,Babylon,Depart:,Babylon Station, 9:48AM,Off Peak,57,Late - 7 mins
+,,Arrive:,Penn Station,11:05AM,,,
+6/27/2018,Babylon,Depart:,Babylon Station,10:04AM,Off Peak,59,Late - 7 mins
+,,Arrive:,Penn Station,11:08AM,,,
+6/27/2018,Hempstead,Depart:,Hempstead Station,10:11AM,Off Peak,731,Late - 9 mins
+,,Arrive:,Atlantic Terminal,11:03AM,,,
+6/27/2018,Montauk,Depart:,Patchogue Station,10:25AM,Off Peak,2767,Late - 12 mins
+,,Arrive:,Babylon Station,10:55AM,,,
+6/27/2018,Babylon,Depart:,Babylon Station,11:15AM,Off Peak,67,Late - 12 mins
+,,Arrive:,Penn Station,12:29PM,,,
+6/27/2018,Hempstead,Depart:,Hempstead Station,12:11PM,Off Peak,751,Late - 7 mins
+,,Arrive:,Atlantic Terminal, 1:03PM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 8 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/27/2018,Babylon,Depart:,Babylon Station,12:48PM,Off Peak,107,Late - 8 mins
+,,Arrive:,Penn Station, 2:05PM,,,
+6/27/2018,Hempstead,Depart:,Hempstead Station, 1:11PM,Off Peak,753,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 2:03PM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:41PM,Off Peak,2053,Late - 8 mins
+,,Arrive:,Penn Station, 3:02PM,,,
+6/27/2018,Babylon,Depart:,Babylon Station, 1:48PM,Off Peak,111,Late - 8 mins
+,,Arrive:,Penn Station, 3:05PM,,,
+6/27/2018,Babylon,Depart:,Babylon Station, 2:00PM,Off Peak,113,Late - 7 mins
+,,Arrive:,Penn Station, 3:08PM,,,
+6/27/2018,West Hempstead,Depart:,West Hempstead Station, 2:10PM,Off Peak,951,Late - 7 mins
+,,Arrive:,Valley Stream Station, 2:24PM,,,
+6/27/2018,Hempstead,Depart:,Hempstead Station, 2:11PM,Off Peak,755,Late - 10 mins
+,,Arrive:,Atlantic Terminal, 3:03PM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 9 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 3:22PM,Off Peak,134,Late - 13 mins
+,,Arrive:,Babylon Station, 4:24PM,,,
+6/27/2018,Babylon,Depart:,Babylon Station, 4:08PM,Off Peak,127,Late - 6 mins
+,,Arrive:,Penn Station, 5:23PM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Penn Station, 5:18PM,PM Peak,1726,Late - 13 mins
+,,Arrive:,Huntington Station, 6:21PM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 5:25PM,PM Peak,1154,Partially Canceled
+,,Arrive:,Freeport Station, 6:10PM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Hunterspoint Ave., 5:29PM,PM Peak,2068,Late - 11 mins
+,,Arrive:,Ronkonkoma Station, 6:45PM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Atlantic Terminal, 5:30PM,PM Peak,1728,Late - 9 mins
+,,Arrive:,Huntington Station, 6:28PM,,,
+6/27/2018,Port Jefferson,Depart:,Long Island City, 5:30PM,PM Peak,664,Late - 12 mins
+,,Arrive:,Port Jefferson Station, 7:30PM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Penn Station, 5:34PM,PM Peak,1256,Late - 17 mins
+,,Arrive:,Cold Spring Harbor Sta., 6:46PM,,,
+6/27/2018,Babylon,Depart:,Babylon Station, 5:35PM,Off Peak,133,Late - 6 mins
+,,Arrive:,Penn Station, 6:54PM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Penn Station, 5:36PM,PM Peak,1730,Late - 16 mins
+,,Arrive:,Huntington Station, 6:34PM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 5:37PM,PM Peak,156,Late - 24 mins
+,,Arrive:,Babylon Station, 6:42PM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 5:41PM,PM Peak,1062,Late - 10 mins
+,,Arrive:,Seaford Station, 6:32PM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Penn Station, 5:42PM,PM Peak,2070,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 6:49PM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Penn Station, 5:47PM,PM Peak,1732,Late - 15 mins
+,,Arrive:,Huntington Station, 6:51PM,,,
+6/27/2018,Port Jefferson,Depart:,Long Island City, 5:52PM,PM Peak,666,Late - 8 mins
+,,Arrive:,Port Jefferson Station, 8:00PM,,,
+6/27/2018,Hempstead,Depart:,Penn Station, 5:52PM,PM Peak,768,Late - 10 mins
+,,Arrive:,Hempstead Station, 6:46PM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Penn Station, 5:54PM,PM Peak,2072,Late - 13 mins
+,,Arrive:,Ronkonkoma Station, 7:11PM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 6:00PM,PM Peak,160,Late - 10 mins
+,,Arrive:,Babylon Station, 7:03PM,,,
+6/27/2018,Oyster Bay,Depart:,Jamaica Station, 6:00PM,PM Peak,562,Late - 12 mins
+,,Arrive:,Oyster Bay Station, 6:58PM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Penn Station, 6:02PM,PM Peak,1258,Late - 8 mins
+,,Arrive:,Hicksville Station, 6:45PM,,,
+6/27/2018,Babylon,Depart:,Babylon Station, 6:03PM,Off Peak,135,Late - 25 mins
+,,Arrive:,Penn Station, 7:06PM,,,
+6/27/2018,Far Rockaway,Depart:,Penn Station, 6:03PM,PM Peak,2872,Late - 8 mins
+,,Arrive:,Far Rockaway Station, 6:58PM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 6:06PM,PM Peak,1064,Late - 9 mins
+,,Arrive:,Wantagh Station, 6:51PM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Penn Station, 6:09PM,PM Peak,1734,Late - 8 mins
+,,Arrive:,Huntington Station, 7:18PM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 6:11PM,PM Peak,1158,Late - 9 mins
+,,Arrive:,Freeport Station, 6:54PM,,,
+6/27/2018,Hempstead,Depart:,Atlantic Terminal, 6:15PM,PM Peak,770,Late - 8 mins
+,,Arrive:,Hempstead Station, 7:04PM,,,
+6/27/2018,Montauk,Depart:,Jamaica Station, 6:17PM,PM Peak,2716,Late - 14 mins
+,,Arrive:,Montauk Station, 9:07PM,,,
+6/27/2018,Oyster Bay,Depart:,Penn Station, 6:17PM,PM Peak,564,Late - 14 mins
+,,Arrive:,Oyster Bay Station, 7:32PM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Penn Station, 6:22PM,PM Peak,2078,Late - 14 mins
+,,Arrive:,Ronkonkoma Station, 7:39PM,,,
+6/27/2018,Port Washington,Depart:,Great Neck Station, 6:23PM,Off Peak,353,Late - 9 mins
+,,Arrive:,Penn Station, 6:58PM,,,
+6/27/2018,Port Washington,Depart:,Port Washington Station, 6:24PM,Off Peak,467,Late - 7 mins
+,,Arrive:,Penn Station, 7:03PM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 6:25PM,Off Peak,2351,Late - 12 mins
+,,Arrive:,Penn Station, 7:22PM,,,
+6/27/2018,Far Rockaway,Depart:,Atlantic Terminal, 6:28PM,PM Peak,2874,Late - 8 mins
+,,Arrive:,Far Rockaway Station, 7:25PM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Penn Station, 6:31PM,PM Peak,1736,Late - 7 mins
+,,Arrive:,Huntington Station, 7:32PM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 6:34PM,PM Peak,166,Canceled
+,,Arrive:,Babylon Station, 7:35PM,,,
+6/27/2018,Babylon,Depart:,Babylon Station, 6:39PM,Off Peak,139,Late - 9 mins
+,,Arrive:,Penn Station, 7:50PM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 6:47PM,PM Peak,168,Canceled
+,,Arrive:,Babylon Station, 8:01PM,,,
+6/27/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:53PM,PM Peak,256,Late - 10 mins
+,,Arrive:,Greenport Station, 8:17PM,,,
+6/27/2018,Hunt. Hicks.,Depart:,Penn Station, 6:57PM,PM Peak,1738,Late - 23 mins
+,,Arrive:,Huntington Station, 8:04PM,,,
+6/27/2018,Port Washington,Depart:,Penn Station, 7:02PM,PM Peak,460,Late - 10 mins
+,,Arrive:,Port Washington Station, 7:37PM,,,
+6/27/2018,Port Washington,Depart:,Port Washington Station, 7:09PM,Off Peak,469,Late - 9 mins
+,,Arrive:,Penn Station, 7:53PM,,,
+6/27/2018,Port Washington,Depart:,Port Washington Station, 7:39PM,Off Peak,471,Late - 9 mins
+,,Arrive:,Penn Station, 8:24PM,,,
+6/27/2018,Babylon,Depart:,Penn Station, 7:42PM,PM Peak,174,Late - 8 mins
+,,Arrive:,Babylon Station, 8:55PM,,,
+6/27/2018,Hempstead,Depart:,Hempstead Station, 8:01PM,Off Peak,771,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 8:51PM,,,
+6/27/2018,Port Washington,Depart:,Port Washington Station, 8:39PM,Off Peak,475,Late - 6 mins
+,,Arrive:,Penn Station, 9:22PM,,,
+6/27/2018,Babylon,Depart:,Babylon Station, 8:41PM,Off Peak,149,Late - 7 mins
+,,Arrive:,Penn Station, 9:55PM,,,
+6/27/2018,Port Washington,Depart:,Port Washington Station, 9:09PM,Off Peak,477,Late - 6 mins
+,,Arrive:,Penn Station, 9:52PM,,,
+6/27/2018,Port Washington,Depart:,Port Washington Station,10:38PM,Off Peak,483,Late - 6 mins
+,,Arrive:,Penn Station,11:22PM,,,
+6/27/2018,Babylon,Depart:,Penn Station,10:46PM,Off Peak,192,Late - 7 mins
+,,Arrive:,Babylon Station,12:01AM,,,
+6/27/2018,Babylon,Depart:,Penn Station,11:06PM,Off Peak,194,Late - 6 mins
+,,Arrive:,Babylon Station,12:23AM,,,
+6/28/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15AM,Off Peak,2000,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 1:36AM,,,
+6/28/2018,Babylon,Depart:,Penn Station,12:40AM,Off Peak,4,Late - 17 mins
+,,Arrive:,Babylon Station, 1:56AM,,,
+6/28/2018,Hempstead,Depart:,Atlantic Terminal,12:43AM,Off Peak,700,Late - 19 mins
+,,Arrive:,Hempstead Station, 1:35AM,,,
+6/28/2018,Long Beach,Depart:,Penn Station,12:53AM,Off Peak,802,Late - 9 mins
+,,Arrive:,Long Beach Station, 1:44AM,,,
+6/28/2018,Montauk,Depart:,Montauk Station, 1:00AM,Off Peak,2701,Late - 13 mins
+,,Arrive:,Babylon Station, 3:16AM,,,
+6/28/2018,Montauk,Depart:,Jamaica Station, 1:10AM,Off Peak,2702,Late - 16 mins
+,,Arrive:,Montauk Station, 3:57AM,,,
+6/28/2018,Oyster Bay,Depart:,Jamaica Station, 1:39AM,Off Peak,500,Late - 8 mins
+,,Arrive:,Oyster Bay Station, 2:35AM,,,
+6/28/2018,Hempstead,Depart:,Hempstead Station, 1:53AM,Off Peak,705,Late - 9 mins
+,,Arrive:,Jamaica Station, 2:24AM,,,
+6/28/2018,Montauk,Depart:,Southampton Station, 4:41AM,AM Peak,2791,Late - 7 mins
+,,Arrive:,Penn Station, 7:02AM,,,
+6/28/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:42AM,AM Peak,2099,Late - 8 mins
+,,Arrive:,Penn Station, 6:58AM,,,
+6/28/2018,Montauk,Depart:,Speonk Station, 6:19AM,AM Peak,2737,Late - 7 mins
+,,Arrive:,Penn Station, 8:19AM,,,
+6/28/2018,Port Jefferson,Depart:,Port Jefferson Station, 6:45AM,AM Peak,611,Late - 10 mins
+,,Arrive:,Hunterspoint Ave., 8:30AM,,,
+6/28/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 7:57AM,AM Peak,2033,Late - 7 mins
+,,Arrive:,Penn Station, 9:17AM,,,
+6/28/2018,Babylon,Depart:,Babylon Station, 8:03AM,AM Peak,47,Late - 6 mins
+,,Arrive:,Penn Station, 9:11AM,,,
+6/28/2018,Port Washington,Depart:,Port Washington Station, 8:45AM,AM Peak,429,Late - 6 mins
+,,Arrive:,Penn Station, 9:20AM,,,
+6/28/2018,Ronk. (greenpt.),Depart:,Penn Station, 9:15AM,Off Peak,2012,Late - 8 mins
+,,Arrive:,Ronkonkoma Station,10:37AM,,,
+6/28/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,10:41AM,Off Peak,2039,Late - 35 mins
+,,Arrive:,Penn Station,12:02PM,,,
+6/28/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/28/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 14 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/28/2018,Babylon,Depart:,Babylon Station, 3:06PM,Off Peak,119,Late - 7 mins
+,,Arrive:,Penn Station, 4:22PM,,,
+6/28/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 3:11PM,Off Peak,2057,Late - 6 mins
+,,Arrive:,Penn Station, 4:34PM,,,
+6/28/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:24PM,Off Peak,1709,Late - 6 mins
+,,Arrive:,Penn Station, 4:31PM,,,
+6/28/2018,Hunt. Hicks.,Depart:,Penn Station, 3:44PM,Off Peak,1716,Late - 10 mins
+,,Arrive:,Huntington Station, 4:49PM,,,
+6/28/2018,Ronk. (greenpt.),Depart:,Penn Station, 3:56PM,Off Peak,2058,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 5:16PM,,,
+6/28/2018,Long Beach,Depart:,Long Beach Station, 4:02PM,Off Peak,861,Late - 6 mins
+,,Arrive:,Penn Station, 5:00PM,,,
+6/28/2018,Hunt. Hicks.,Depart:,Huntington Station, 4:05PM,Off Peak,1713,Late - 6 mins
+,,Arrive:,Penn Station, 5:14PM,,,
+6/28/2018,Babylon,Depart:,Babylon Station, 4:06PM,Off Peak,125,Late - 6 mins
+,,Arrive:,Penn Station, 5:05PM,,,
+6/28/2018,Montauk,Depart:,Penn Station, 4:07PM,PM Peak,2710,Late - 10 mins
+,,Arrive:,Montauk Station, 6:38PM,,,
+6/28/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 4:48PM,Off Peak,2061,Late - 6 mins
+,,Arrive:,Penn Station, 6:10PM,,,
+6/28/2018,Port Washington,Depart:,Port Washington Station, 5:00PM,Off Peak,463,Late - 6 mins
+,,Arrive:,Penn Station, 5:47PM,,,
+6/28/2018,Port Washington,Depart:,Penn Station, 5:45PM,PM Peak,454,Late - 8 mins
+,,Arrive:,Port Washington Station, 6:21PM,,,
+6/28/2018,Port Washington,Depart:,Penn Station, 5:57PM,PM Peak,364,Late - 8 mins
+,,Arrive:,Great Neck Station, 6:30PM,,,
+6/28/2018,Port Washington,Depart:,Great Neck Station, 6:46PM,Off Peak,355,Late - 12 mins
+,,Arrive:,Penn Station, 7:15PM,,,
+6/28/2018,Hempstead,Depart:,Atlantic Terminal, 7:36PM,PM Peak,776,Late - 15 mins
+,,Arrive:,Hempstead Station, 8:26PM,,,
+6/28/2018,Hempstead,Depart:,Hempstead Station, 8:01PM,Off Peak,771,Late - 9 mins
+,,Arrive:,Atlantic Terminal, 8:51PM,,,
+6/28/2018,Port Washington,Depart:,Port Washington Station, 9:09PM,Off Peak,477,Late - 8 mins
+,,Arrive:,Penn Station, 9:52PM,,,
+6/28/2018,Montauk,Depart:,Montauk Station,10:05PM,Off Peak,2711,Late - 11 mins
+,,Arrive:,Jamaica Station, 1:06AM,,,
+6/28/2018,Babylon,Depart:,Penn Station,10:46PM,Off Peak,192,Late - 8 mins
+,,Arrive:,Babylon Station,12:01AM,,,
+6/28/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 10 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/29/2018,Babylon,Depart:,Penn Station,12:02AM,Off Peak,2,Late - 7 mins
+,,Arrive:,Babylon Station, 1:17AM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15AM,Off Peak,2000,Late - 31 mins
+,,Arrive:,Ronkonkoma Station, 1:36AM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station,12:44AM,Off Peak,2001,Late - 26 mins
+,,Arrive:,Penn Station, 2:03AM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:12AM,Off Peak,2002,Late - 25 mins
+,,Arrive:,Ronkonkoma Station, 2:36AM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:45AM,Off Peak,2003,Late - 19 mins
+,,Arrive:,Penn Station, 3:02AM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Penn Station, 3:16AM,Off Peak,2004,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 4:37AM,,,
+6/29/2018,Montauk,Depart:,Speonk Station, 6:19AM,AM Peak,2737,Late - 6 mins
+,,Arrive:,Penn Station, 8:19AM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 6:39AM,AM Peak,2015,Late - 10 mins
+,,Arrive:,Penn Station, 8:00AM,,,
+6/29/2018,Babylon,Depart:,Babylon Station, 7:10AM,AM Peak,35,Late - 6 mins
+,,Arrive:,Penn Station, 8:20AM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Brentwood Station, 7:15AM,AM Peak,2021,Late - 11 mins
+,,Arrive:,Penn Station, 8:23AM,,,
+6/29/2018,Oyster Bay,Depart:,East Williston Station, 7:26AM,AM Peak,1501,Late - 7 mins
+,,Arrive:,Penn Station, 8:14AM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Hicksville Station, 7:29AM,AM Peak,1205,Late - 7 mins
+,,Arrive:,Penn Station, 8:17AM,,,
+6/29/2018,Babylon,Depart:,Babylon Station, 7:35AM,AM Peak,43,Late - 7 mins
+,,Arrive:,Penn Station, 8:48AM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Huntington Station, 7:37AM,AM Peak,1629,Late - 7 mins
+,,Arrive:,Penn Station, 8:37AM,,,
+6/29/2018,Far Rockaway,Depart:,Valley Stream Station, 8:03AM,AM Peak,2819,Late - 6 mins
+,,Arrive:,Penn Station, 8:44AM,,,
+6/29/2018,Montauk,Depart:,Jamaica Station, 8:08AM,Off Peak,2784,Canceled
+,,Arrive:,Patchogue Station, 9:11AM,,,
+6/29/2018,Babylon,Depart:,Freeport Station, 8:10AM,AM Peak,1105,Late - 8 mins
+,,Arrive:,Penn Station, 8:50AM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 9:40AM,Off Peak,2315,Late - 6 mins
+,,Arrive:,Penn Station,10:40AM,,,
+6/29/2018,Montauk,Depart:,Babylon Station,12:02PM,Off Peak,2786,Canceled
+,,Arrive:,Patchogue Station,12:26PM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15PM,Off Peak,2050,Late - 12 mins
+,,Arrive:,Ronkonkoma Station, 1:37PM,,,
+6/29/2018,Far Rockaway,Depart:,Far Rockaway Station,12:36PM,Off Peak,2851,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 1:33PM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Penn Station, 1:15PM,Off Peak,2052,Late - 29 mins
+,,Arrive:,Ronkonkoma Station, 2:37PM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 1:41PM,Off Peak,2053,Late - 10 mins
+,,Arrive:,Penn Station, 3:02PM,,,
+6/29/2018,Montauk,Depart:,Hunterspoint Ave., 1:49PM,Off Peak,2708,Late - 15 mins
+,,Arrive:,Montauk Station, 4:45PM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Penn Station, 1:50PM,Off Peak,1706,Late - 13 mins
+,,Arrive:,Huntington Station, 2:57PM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Penn Station, 2:15PM,Off Peak,2054,Late - 20 mins
+,,Arrive:,Ronkonkoma Station, 3:37PM,,,
+6/29/2018,Port Jefferson,Depart:,Port Jefferson Station, 2:31PM,Off Peak,653,Late - 11 mins
+,,Arrive:,Huntington Station, 3:17PM,,,
+6/29/2018,Montauk,Depart:,Jamaica Station, 3:02PM,Off Peak,2772,Late - 8 mins
+,,Arrive:,Patchogue Station, 4:10PM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:03PM,Off Peak,1707,Late - 6 mins
+,,Arrive:,Penn Station, 4:13PM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 3:11PM,Off Peak,2057,Late - 10 mins
+,,Arrive:,Penn Station, 4:34PM,,,
+6/29/2018,Port Washington,Depart:,Penn Station, 3:19PM,Off Peak,440,Late - 8 mins
+,,Arrive:,Port Washington Station, 4:03PM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Huntington Station, 3:24PM,Off Peak,1709,Late - 7 mins
+,,Arrive:,Penn Station, 4:31PM,,,
+6/29/2018,Port Jefferson,Depart:,Long Island City, 3:24PM,Off Peak,656,Late - 6 mins
+,,Arrive:,Port Jefferson Station, 5:26PM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Penn Station, 3:28PM,Off Peak,1714,Late - 10 mins
+,,Arrive:,Huntington Station, 4:35PM,,,
+6/29/2018,Hempstead,Depart:,Atlantic Terminal, 3:33PM,Off Peak,756,Late - 7 mins
+,,Arrive:,Hempstead Station, 4:26PM,,,
+6/29/2018,Babylon,Depart:,Penn Station, 3:35PM,Off Peak,1050,Late - 8 mins
+,,Arrive:,Wantagh Station, 4:27PM,,,
+6/29/2018,Far Rockaway,Depart:,Atlantic Terminal, 3:37PM,Off Peak,2856,Late - 8 mins
+,,Arrive:,Far Rockaway Station, 4:33PM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Penn Station, 3:44PM,Off Peak,1716,Late - 6 mins
+,,Arrive:,Huntington Station, 4:49PM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Penn Station, 4:01PM,Off Peak,1718,Late - 8 mins
+,,Arrive:,Huntington Station, 5:07PM,,,
+6/29/2018,Babylon,Depart:,Babylon Station, 4:06PM,Off Peak,125,Late - 10 mins
+,,Arrive:,Penn Station, 5:05PM,,,
+6/29/2018,Port Washington,Depart:,Port Washington Station, 4:06PM,Off Peak,459,Late - 8 mins
+,,Arrive:,Penn Station, 4:50PM,,,
+6/29/2018,Port Jefferson,Depart:,Port Jefferson Station, 4:06PM,Off Peak,655,Late - 11 mins
+,,Arrive:,Jamaica Station, 5:39PM,,,
+6/29/2018,Montauk,Depart:,Penn Station, 4:07PM,PM Peak,2798,Late - 17 mins
+,,Arrive:,Montauk Station, 6:48PM,,,
+6/29/2018,Oyster Bay,Depart:,Hunterspoint Ave., 4:18PM,PM Peak,558,Late - 12 mins
+,,Arrive:,Oyster Bay Station, 5:30PM,,,
+6/29/2018,Port Jefferson,Depart:,Penn Station, 4:20PM,PM Peak,658,Late - 7 mins
+,,Arrive:,Port Jefferson Station, 6:05PM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Penn Station, 4:25PM,PM Peak,2060,Late - 8 mins
+,,Arrive:,Ronkonkoma Station, 5:44PM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Penn Station, 4:32PM,PM Peak,1722,Late - 10 mins
+,,Arrive:,Huntington Station, 5:31PM,,,
+6/29/2018,Babylon,Depart:,Babylon Station, 4:39PM,Off Peak,131,Late - 6 mins
+,,Arrive:,Penn Station, 5:53PM,,,
+6/29/2018,Hempstead,Depart:,Hempstead Station, 4:53PM,Off Peak,761,Late - 8 mins
+,,Arrive:,Atlantic Terminal, 5:49PM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:11PM,Off Peak,1715,Late - 11 mins
+,,Arrive:,Penn Station, 6:21PM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 5:21PM,Off Peak,254,Late - 8 mins
+,,Arrive:,Greenport Station, 6:45PM,,,
+6/29/2018,Hempstead,Depart:,Hempstead Station, 5:41PM,Off Peak,763,Late - 6 mins
+,,Arrive:,Penn Station, 6:33PM,,,
+6/29/2018,Port Washington,Depart:,Great Neck Station, 5:44PM,Off Peak,351,Late - 6 mins
+,,Arrive:,Penn Station, 6:17PM,,,
+6/29/2018,Long Beach,Depart:,Penn Station, 5:56PM,PM Peak,876,Late - 12 mins
+,,Arrive:,Long Beach Station, 6:49PM,,,
+6/29/2018,Babylon,Depart:,Penn Station, 6:11PM,PM Peak,1158,Late - 6 mins
+,,Arrive:,Freeport Station, 6:54PM,,,
+6/29/2018,Long Beach,Depart:,Penn Station, 6:14PM,PM Peak,878,Late - 16 mins
+,,Arrive:,Long Beach Station, 7:10PM,,,
+6/29/2018,Ronk. (greenpt.),Depart:,Farmingdale Station, 7:00PM,Off Peak,2355,Late - 6 mins
+,,Arrive:,Penn Station, 7:56PM,,,
+6/29/2018,Montauk,Depart:,Jamaica Station, 7:23PM,PM Peak,2718,Late - 16 mins
+,,Arrive:,Montauk Station, 9:55PM,,,
+6/29/2018,Port Washington,Depart:,Port Washington Station, 8:09PM,Off Peak,473,Late - 6 mins
+,,Arrive:,Penn Station, 8:52PM,,,
+6/29/2018,Port Jefferson,Depart:,Port Jefferson Station, 8:34PM,Off Peak,659,Late - 6 mins
+,,Arrive:,Huntington Station, 9:21PM,,,
+6/29/2018,Babylon,Depart:,Babylon Station,10:15PM,Off Peak,155,Late - 7 mins
+,,Arrive:,Penn Station,11:26PM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Penn Station,10:19PM,Off Peak,1750,Late - 8 mins
+,,Arrive:,Huntington Station,11:24PM,,,
+6/29/2018,Port Washington,Depart:,Port Washington Station,10:38PM,Off Peak,483,Late - 10 mins
+,,Arrive:,Penn Station,11:22PM,,,
+6/29/2018,Babylon,Depart:,Penn Station,10:46PM,Off Peak,192,Late - 7 mins
+,,Arrive:,Babylon Station,12:01AM,,,
+6/29/2018,Port Jefferson,Depart:,Port Jefferson Station,11:22PM,Off Peak,665,Late - 10 mins
+,,Arrive:,Huntington Station,12:10AM,,,
+6/29/2018,Babylon,Depart:,Penn Station,11:36PM,Off Peak,196,Canceled
+,,Arrive:,Babylon Station,12:32AM,,,
+6/29/2018,Babylon,Depart:,Penn Station,11:40PM,Off Peak,198,Late - 36 mins
+,,Arrive:,Babylon Station,12:56AM,,,
+6/29/2018,Hunt. Hicks.,Depart:,Penn Station,11:43PM,Off Peak,1754,Late - 35 mins
+,,Arrive:,Huntington Station,12:48AM,,,
+6/29/2018,Long Beach,Depart:,Penn Station,11:52PM,Off Peak,898,Late - 10 mins
+,,Arrive:,Long Beach Station,12:52AM,,,
+6/29/2018,Hempstead,Depart:,Atlantic Terminal,11:56PM,Off Peak,784,Late - 8 mins
+,,Arrive:,Hempstead Station,12:49AM,,,
+6/30/2018,Babylon,Depart:,Penn Station,12:02AM,Off Peak,6000,Late - 6 mins
+,,Arrive:,Babylon Station, 1:18AM,,,
+6/30/2018,Ronk. (greenpt.),Depart:,Penn Station,12:15AM,Off Peak,8000,Late - 6 mins
+,,Arrive:,Ronkonkoma Station, 1:36AM,,,
+6/30/2018,Port Jefferson,Depart:,Jamaica Station,12:40AM,Off Peak,6602,Late - 10 mins
+,,Arrive:,Port Jefferson Station, 2:06AM,,,
+6/30/2018,Montauk,Depart:,Speonk Station, 7:00AM,Off Peak,8733,Late - 7 mins
+,,Arrive:,Babylon Station, 8:00AM,,,
+6/30/2018,Montauk,Depart:,Jamaica Station, 8:10AM,Off Peak,8704,Late - 23 mins
+,,Arrive:,Montauk Station,10:49AM,,,
+6/30/2018,Montauk,Depart:,Jamaica Station,10:10AM,Off Peak,8706,Late - 11 mins
+,,Arrive:,Montauk Station,12:53PM,,,
+6/30/2018,Ronk. (greenpt.),Depart:,Penn Station,11:13AM,Off Peak,8018,Late - 11 mins
+,,Arrive:,Ronkonkoma Station,12:35PM,,,
+6/30/2018,Montauk,Depart:,Jamaica Station,12:10PM,Off Peak,8710,Late - 11 mins
+,,Arrive:,Montauk Station, 2:53PM,,,
+6/30/2018,Ronk. (greenpt.),Depart:,Penn Station,12:13PM,Off Peak,8050,Late - 7 mins
+,,Arrive:,Ronkonkoma Station, 1:35PM,,,
+6/30/2018,Oyster Bay,Depart:,Oyster Bay Station, 2:00PM,Off Peak,6555,Canceled
+,,Arrive:,Jamaica Station, 2:57PM,,,
+6/30/2018,Port Washington,Depart:,Penn Station, 2:19PM,Off Peak,6458,Late - 18 mins
+,,Arrive:,Port Washington Station, 3:05PM,,,
+6/30/2018,Port Washington,Depart:,Penn Station, 3:19PM,Off Peak,6462,Partially Canceled
+,,Arrive:,Port Washington Station, 4:05PM,,,
+6/30/2018,Port Washington,Depart:,Port Washington Station, 3:42PM,Off Peak,6465,Canceled
+,,Arrive:,Penn Station, 4:27PM,,,
+6/30/2018,Long Beach,Depart:,Penn Station, 3:43PM,Off Peak,6856,Late - 17 mins
+,,Arrive:,Long Beach Station, 4:39PM,,,
+6/30/2018,Long Beach,Depart:,Long Beach Station, 3:55PM,Off Peak,6857,Late - 15 mins
+,,Arrive:,Penn Station, 4:52PM,,,
+6/30/2018,Oyster Bay,Depart:,Oyster Bay Station, 4:00PM,Off Peak,6557,Late - 20 mins
+,,Arrive:,Jamaica Station, 4:57PM,,,
+6/30/2018,Port Washington,Depart:,Penn Station, 4:19PM,Off Peak,6466,Late - 7 mins
+,,Arrive:,Port Washington Station, 5:05PM,,,
+6/30/2018,Long Beach,Depart:,Penn Station, 4:43PM,Off Peak,6858,Late - 7 mins
+,,Arrive:,Long Beach Station, 5:39PM,,,
+6/30/2018,Oyster Bay,Depart:,Oyster Bay Station, 5:00PM,Off Peak,6559,Late - 17 mins
+,,Arrive:,Jamaica Station, 5:57PM,,,
+6/30/2018,Long Beach,Depart:,Penn Station, 5:00PM,Off Peak,6898,Late - 7 mins
+,,Arrive:,Long Beach Station, 5:45PM,,,
+6/30/2018,Hunt. Hicks.,Depart:,Huntington Station, 5:10PM,Off Peak,7721,Late - 10 mins
+,,Arrive:,Penn Station, 6:16PM,,,
+6/30/2018,Port Washington,Depart:,Penn Station, 5:19PM,Off Peak,6470,Late - 10 mins
+,,Arrive:,Port Washington Station, 6:05PM,,,
+6/30/2018,Babylon,Depart:,Babylon Station, 5:20PM,Off Peak,6127,Late - 8 mins
+,,Arrive:,Penn Station, 6:36PM,,,
+6/30/2018,Long Beach,Depart:,Penn Station, 5:43PM,Off Peak,6860,Late - 24 mins
+,,Arrive:,Long Beach Station, 6:39PM,,,
+6/30/2018,Long Beach,Depart:,Long Beach Station, 5:48PM,Off Peak,6899,Late - 17 mins
+,,Arrive:,Penn Station, 6:34PM,,,
+6/30/2018,Long Beach,Depart:,Long Beach Station, 5:55PM,Off Peak,6865,Late - 28 mins
+,,Arrive:,Penn Station, 6:52PM,,,
+6/30/2018,Babylon,Depart:,Freeport Station, 5:57PM,Off Peak,7155,Late - 6 mins
+,,Arrive:,Penn Station, 6:40PM,,,
+6/30/2018,Long Beach,Depart:,Penn Station, 6:43PM,Off Peak,6862,Late - 21 mins
+,,Arrive:,Long Beach Station, 7:39PM,,,
+6/30/2018,Long Beach,Depart:,Long Beach Station, 6:55PM,Off Peak,6867,Late - 19 mins
+,,Arrive:,Penn Station, 7:52PM,,,
+6/30/2018,Long Beach,Depart:,Penn Station, 7:43PM,Off Peak,6864,Late - 8 mins
+,,Arrive:,Long Beach Station, 8:39PM,,,
+6/30/2018,Ronk. (greenpt.),Depart:,Ronkonkoma Station, 9:40PM,Off Peak,8069,Late - 6 mins
+,,Arrive:,Penn Station,10:59PM,,,
+6/30/2018,Long Beach,Depart:,Long Beach Station, 9:55PM,Off Peak,6875,Late - 9 mins
+,,Arrive:,Penn Station,10:52PM,,,
+6/30/2018,Long Beach,Depart:,Penn Station,10:43PM,Off Peak,6870,Late - 7 mins
+,,Arrive:,Long Beach Station,11:39PM,,,
+6/30/2018,Long Beach,Depart:,Long Beach Station,11:42PM,Off Peak,6879,Late - 7 mins
+,,Arrive:,Penn Station,12:37AM,,,
