@@ -204,12 +204,14 @@ server <- function(input, output, session) {
   
   output$text1 <- renderUI({
     perf1 <- df3() %>%
+      filter(., Indicator.Name == input$Branch1)%>%
       arrange(., desc(Average_OTP))
     
     top1 <- head(perf1, 1)
     bot1 <- tail(perf1, 1)
     
     perf2 <- df5() %>%
+      filter(., Indicator.Name == input$Branch1)%>%
       arrange(., desc(Average_OTP))
     
     top2 <- head(perf2, 1)
