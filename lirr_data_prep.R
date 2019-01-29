@@ -9,6 +9,7 @@ library(RColorBrewer)
 #Load Data
 Performance_DF = read.csv("./Performance_LIRR.csv",stringsAsFactors = FALSE)
 #stops_df = read.csv("./stops.csv",stringsAsFactors = FALSE)
+df <- readr::read_csv("./Performance_DF_Cleaner.csv")
 
 #This function cleans text
 clean_text <- function(x,y) {
@@ -82,19 +83,26 @@ for (i in 1:nrow(Performance_DF_Clean)){
                                                          "Overall",
                                                          Performance_DF_Clean$Indicator.Name[i])
 }
-df_comb = Performance_DF_Clean%>%
-  filter(., Indicator.Name == "Port Jefferson" | Indicator.Name == "Overall")%>%
-  group_by(., Indicator.Name, Period.Month)%>%
+df_comb = df%>%
+  filter(., Indicator.Name == "Montauk" | Indicator.Name == "Overall")%>%
+  group_by(., Indicator.Name, Period.Year)%>%
   summarise(., Average_OTP = mean(Monthly.Actual))%>%
   arrange(., desc(Average_OTP))
 
+df_comb2 = df_comb%>%
+  filter(., Indicator.Name == "Montauk")%>%
+  arrange(., desc(Average_OTP))
+  
 
-ggplot(df_comb, aes(x = Period.Month, y = Average_OTP)) +
+ggplot(df_comb, aes(x = Period.Year, y = Average_OTP)) +
   geom_line(aes(color = Indicator.Name)) +
   xlab("Month") + ylab('Percentage On-Time, (%)') +  
   theme(plot.title = element_text(hjust = 0.5)) +
-  ggtitle('Branch On-Time Performance By Month Since 2008') +
-  scale_x_discrete(limits = month.abb)
+  ggtitle('Branch On-Time Performance By Year Since 2008') +
+  scale_x_continuous(breaks = unique(df_comb$Period.Year))
+
+top1 <- head(df_comb, 1)
+bot1 <- tail(df_comb, 1)
 
 ##############################################################################
   

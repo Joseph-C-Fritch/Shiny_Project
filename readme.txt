@@ -10,3 +10,7 @@ questions:
 3. Has performance deteriorated over time?
 
 4. What factors are associated with performance?
+
+Shiny App File is: Lirr_Shiny_Working.R
+
+View app here: https://joseph-c-fritch.shinyapps.io/Shiny_Project/
