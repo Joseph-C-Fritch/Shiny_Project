@@ -27,7 +27,7 @@ ui <- fluidPage(
       title = 'Main Page',
       fluid = TRUE,
       fluidRow(column(12,
-                      includeMarkdown('main_page.rmd'))),
+                     includeMarkdown("main_page.rmd"))),
       fluidRow(br(),
                column(12,
                       br(),
@@ -35,6 +35,12 @@ ui <- fluidPage(
                         12,
                         img(src = './lirr_map.png', style = 'width:100%; border:0px;')
                       )))
+    ),
+    tabPanel(
+      title = 'Definitions',
+      fluid = TRUE,
+      fluidRow(column(12,
+                      withMathJax(includeMarkdown("definitions.rmd"))))
     ),
     tabPanel(
       tagList(shiny::icon('bar-chart'), "Overall OTP By Branch"),
@@ -250,7 +256,7 @@ server <- function(input, output, session) {
         se = FALSE,
         size = .1
       ) +
-      xlab("Branch Track Distance, (mi)") + ylab("Average OTP (%)") +
+      xlab("Track Distance, (mi)") + ylab("Average OTP (%)") +
       theme(plot.title = element_text(hjust = 0.5)) +
       ggtitle('Average On-Time Performance as a Function of Branch Track Distance') +
       guides(color = guide_legend(title = "Branch"))
@@ -268,12 +274,14 @@ server <- function(input, output, session) {
         method = 'lm',
         color = 'black',
         se = FALSE,
-        size = .1
+        size = .1,
+        formula = y ~ x
       ) +
       xlab("Number of Stations, (n)") + ylab("Average OTP (%)") +
       theme(plot.title = element_text(hjust = 0.5)) +
       ggtitle('Average On-Time Performance as a Function of Number of Stations') +
       guides(color = guide_legend(title = "Branch"))
+
   })
   
   output$table1 = DT::renderDataTable({

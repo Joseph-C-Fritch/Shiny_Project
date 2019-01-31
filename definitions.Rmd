@@ -1,0 +1,47 @@
+---
+output:
+  html_document:
+    mathjax: "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+runtime: shiny
+---
+
+LIRR defines On-Time Performance using the following equation:
+
+
+$$\huge OTP = (1 - \frac{n_{d} + n_{c} + n_{t}}{n_s})*100$$ 
+
+Where,
+
+
+
+\\$\huge n_{d}$ = Number of trains delayed
+
+\\$\huge n_{c}$ = Number of trains cancelled
+
+\\$\huge n_{t}$ = Number of trains terminated
+
+\\$\LARGE n_{s}$ = Number of trains scheduled
+
+<br />
+
+
+Definitions:
+
+Delayed: A train that arrives to its destination six minutes or more behind schedule.
+(i.e. A train that arrives 5:59 after scheduled arrival is considered on-time.)
+
+Cancelled: A train that never leaves its origin departure station.
+
+Terminated: A train that leaves its origin departure station but never reaches its final destination.
+
+Scheduled: A scheduled train as per published time tables for a specific time period.
+
+
+
+
+
+
+
+
+ 
+

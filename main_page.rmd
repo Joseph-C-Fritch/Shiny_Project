@@ -1,10 +1,9 @@
 ---
 output:
-  pdf_document: default
   html_document: default
 ---
 
-Long Island Rail Road (LIRR) delays lead to lost economic productivity 
+Long Island Rail Road (LIRR) delays, cancellations and terminations lead to lost economic productivity 
 and frustrated commuters.  This application visualizes
 LIRR On-Time Performance (OTP) data with the intention of answering the following
 questions: 
@@ -16,4 +15,15 @@ questions:
 3. Has performance deteriorated over time?
 
 4. What factors are associated with performance?
+
+Data used for this visualization application can be found at: https://data.ny.gov/Transportation/Metropolitan-Transportation-Authority-MTA-Performa/cy9b-i9w9
+
+
+
+
+
+
+
+
+ 
 
